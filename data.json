@@ -10,19 +10,35 @@
     "audio_base": "https://archive.org/download/shawkani/"
   },
   "books": [
-    {
-      "no": 0,
-      "id": "muqaddimah",
-      "title_ar": "المقدمة",
-      "title_id": "Pendahuluan",
-      "audio_file": "00.%20Al-Muqaddimah%20%28Introduction%29%20%C2%BB%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9%20%20%C2%BB%20Narrator%20Abu%20Ahmad%20Ash-Sheydhami%20%C2%BB%20%D8%A3%D8%A8%D9%88%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B8%D9%85%D9%8A%20%C2%BB%20%D8%B4%D8%A8%D9%83%D8%A9%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A2%D8%AC%D8%B1%D9%8A.mp3",
-      "shamela_url": "https://shamela.ws/book/9293/30",
-      "sections": []
-    },
+	{
+	  "no": 0,
+	  "id": "muqaddimah",
+	  "title_ar": "المقدمة",
+	  "title_id": "Pendahuluan",
+	  "audio_file": "00.%20Al-Muqaddimah%20%28Introduction%29%20%C2%BB%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9%20%20%C2%BB%20Narrator%20Abu%20Ahmad%20Ash-Sheydhami%20%C2%BB%20%D8%A3%D8%A8%D9%88%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B8%D9%85%D9%8A%20%C2%BB%20%D8%B4%D8%A8%D9%83%D8%A9%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A2%D8%AC%D8%B1%D9%8A.mp3",
+	  "shamela_url": "https://shamela.ws/book/9293/30",
+	  "sections": [
+		{
+		  "type": "muqaddimah",
+		  "title_ar": "الْمُقَدِّمَةُ",
+		  "title_id": "Pendahuluan",
+		  "start": 10.900,
+		  "paragraphs": [
+			{
+			  "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\n\nأَحْمَدُ مَنْ أَمَرَنَا بِالتَّفَقُّهِ فِي الدِّينِ، وَأَشْكُرُ مَنْ أَرْشَدَنَا إِلَى اتِّبَاعِ سُنَنِ سَيِّدِ الْمُرْسَلِينَ، وَأُصَلِّي وَأُسَلِّمُ عَلَى الرَّسُولِ الْأَمِينِ، وَآلِهِ الطَّاهِرِينَ وَأَصْحَابِهِ الْأَكْرَمِينَ.",
+			  "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n\nSegala puji bagi Allah yang telah memerintahkan kita untuk mendalami agama. Aku bersyukur kepada-Nya yang telah membimbing kita untuk mengikuti sunnah penghulu para rasul. Semoga Allah melimpahkan shalawat dan salam kepada Rasul yang terpercaya, kepada keluarga beliau yang suci, serta para sahabat beliau yang paling mulia.",
+			  "start": 10.900,
+			  "end": 30.746
+			}
+		  ]
+		}
+	  ],
+	  "srt_source": "00.srt"
+	}
     {
       "no": 1,
       "id": "taharah",
-      "title_ar": "كتاب الطهارة",
+      "title_ar": "كِتَابُ الطَّهَارَةِ",
       "title_id": "Kitab Thaharah (Bersuci)",
       "audio_file": "01.%20The%20Book%20of%20At-Taharah%20%28Purification%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D9%87%D8%A7%D8%B1%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/31",
@@ -34,12 +50,13 @@
           "title_id": "Bab Pertama — Hukum Air",
           "start": 2.533,
           "paragraphs": [
-            {
-              "ar": "هذا الكتابُ قد اشتمل على مسائل: الأولى: الماءُ طاهرٌ مطهِّرٌ، لا يُخرجه عن الوصفيْن إلا ما غيَّر ريحه، أو لونه، أو طعمه من النجاسات، وعن الثاني ما أخرجه عن اسم الماء المطلق من المغيِّرات الطاهرة، ولا فرق بين قليل وكثير، وما فوق القُلَّتين وما دونهما، ومتحرك وساكن، ومستعمَل وغير مستعمَل.",
-              "id": "",
-              "start": 4.535,
-              "end": 34.259
-            }
+			{
+			  "ar": "هَذَا الْكِتَابُ قَدِ اشْتَمَلَ عَلَى مَسَائِلَ: الْأُولَى: الْمَاءُ طَاهِرٌ مُطَهِّرٌ، لَا يُخْرِجُهُ عَنِ الْوَصْفَيْنِ إِلَّا مَا غَيَّرَ رِيحَهُ، أَوْ لَوْنَهُ، أَوْ طَعْمَهُ مِنَ النَّجَاسَاتِ، وَعَنِ الثَّانِي مَا أَخْرَجَهُ عَنْ اسْمِ الْمَاءِ الْمُطْلَقِ مِنَ الْمُغَيِّرَاتِ الطَّاهِرَةِ، وَلَا فَرْقَ بَيْنَ قَلِيلٍ وَكَثِيرٍ، وَمَا فَوْقَ الْقُلَّتَيْنِ وَمَا دُونَهُمَا، وَمُتَحَرِّكٍ وَسَاكِنٍ، وَمُسْتَعْمَلٍ وَغَيْرِ مُسْتَعْمَلٍ.",
+			  "id": "Kitab ini mencakup beberapa pembahasan. Pembahasan pertama: Air itu suci lagi menyucikan. Sifat tersebut tidak hilang kecuali apabila bau, warna, atau rasanya berubah karena terkena najis. Adapun sifat menyucikannya hilang apabila air tersebut tidak lagi disebut sebagai air mutlak karena bercampur dengan benda-benda suci yang mengubahnya. Dalam hal ini tidak ada perbedaan antara air yang sedikit dan yang banyak, air yang jumlahnya mencapai dua qullah maupun yang kurang dari dua qullah, air yang mengalir maupun yang tergenang, serta air yang telah digunakan maupun yang belum digunakan.",
+			  "start": 4.535,
+			  "end": 34.259
+			}
+
           ]
         },
         {
@@ -49,12 +66,12 @@
           "title_id": "Bab Kedua — Najis-najis",
           "start": 35.259,
           "paragraphs": [
-            {
-              "ar": "والنجاساتُ هي غائطُ الإنسانِ مُطْلقاً، وبولُه - إلا الذكرَ الرضيع -، ولُعابُ كلبٍ، وروثٌ، ودمُ حيضٍ، ولحمُ خنزيرٍ، وفيما عدا ذلك خلافٌ، والأصلُ الطهارةُ؛ فلا ينقل عنها إلا ناقلٌ صحيحٌ لم يُعارضْه ما يساويه أو يقدَّم عليه.",
-              "id": "",
-              "start": 37.28,
-              "end": 52.95
-            }
+			{
+			  "ar": "وَالنَّجَاسَاتُ هِيَ غَائِطُ الْإِنْسَانِ مُطْلَقًا، وَبَوْلُهُ - إِلَّا الذَّكَرَ الرَّضِيعَ -، وَلُعَابُ كَلْبٍ، وَرَوْثٌ، وَدَمُ حَيْضٍ، وَلَحْمُ خِنْزِيرٍ، وَفِيمَا عَدَا ذَلِكَ خِلَافٌ، وَالْأَصْلُ الطَّهَارَةُ؛ فَلَا يُنْقَلُ عَنْهَا إِلَّا نَاقِلٌ صَحِيحٌ لَمْ يُعَارِضْهُ مَا يُسَاوِيهِ أَوْ يُقَدَّمُ عَلَيْهِ.",
+			  "id": "Najis itu meliputi kotoran manusia secara mutlak, air kencingnya—kecuali air kencing bayi laki-laki yang masih menyusu—, air liur anjing, kotoran hewan, darah haid, dan daging babi. Adapun selain yang disebutkan itu masih terdapat perbedaan pendapat. Hukum asal segala sesuatu adalah suci, sehingga tidak boleh berpaling dari hukum asal tersebut kecuali dengan dalil yang sahih yang tidak ditentang oleh dalil lain yang sepadan atau yang lebih kuat.",
+			  "start": 37.28,
+			  "end": 52.95
+			}
           ]
         },
         {
@@ -63,18 +80,18 @@
           "title_id": "Fasal — Cara Mensucikan Najis",
           "start": 54.451,
           "paragraphs": [
-            {
-              "ar": "ويطهر ما يتنجَّس بغسله، حتى لا يبقى لها عينٌ، ولا لونٌ، ولا ريحٌ، ولا طعمٌ، والنَّعلُ بالمسح، والاستحالةُ مطهِّرةٌ لعدم وجود الوصف المحكوم عليه، وما لا يمكن غسله فبالصَّبِّ عليه أو النَّزح منه؛ حتى لا يبقى للنجاسة أثرٌ.",
-              "id": "",
-              "start": 57.811,
-              "end": 76.64
-            },
-            {
-              "ar": "والماءُ هو الأصلُ في التطهير؛ فلا يقوم غيرُه مقامه إلا بإذنٍ من الشارع.",
-              "id": "",
-              "start": 82.323,
-              "end": 89.739
-            }
+			{
+			  "ar": "وَيَطْهُرُ مَا يَتَنَجَّسُ بِغَسْلِهِ، حَتَّى لَا يَبْقَى لَهَا عَيْنٌ، وَلَا لَوْنٌ، وَلَا رِيحٌ، وَلَا طَعْمٌ، وَالنَّعْلُ بِالْمَسْحِ، وَالِاسْتِحَالَةُ مُطَهِّرَةٌ لِعَدَمِ وُجُودِ الْوَصْفِ الْمَحْكُومِ عَلَيْهِ، وَمَا لَا يُمْكِنُ غَسْلُهُ فَبِالصَّبِّ عَلَيْهِ أَوِ النَّزْحِ مِنْهُ؛ حَتَّى لَا يَبْقَى لِلنَّجَاسَةِ أَثَرٌ.",
+			  "id": "Benda yang terkena najis menjadi suci dengan cara dicuci hingga tidak tersisa lagi wujud najisnya, warnanya, baunya, maupun rasanya. Adapun sandal atau alas kaki disucikan dengan mengusapkannya pada tanah. Perubahan hakikat suatu benda (istihalah) juga merupakan cara penyucian, karena sifat yang menjadi dasar penetapan hukum najis telah hilang. Sementara itu, benda yang tidak memungkinkan untuk dicuci disucikan dengan cara menyiramkan air ke atasnya atau menguras air darinya hingga tidak tersisa bekas najis sedikit pun.",
+			  "start": 57.811,
+			  "end": 76.640
+			},
+			{
+			  "ar": "وَالْمَاءُ هُوَ الْأَصْلُ فِي التَّطْهِيرِ؛ فَلَا يَقُومُ غَيْرُهُ مَقَامَهُ إِلَّا بِإِذْنٍ مِنَ الشَّارِعِ.",
+			  "id": "Air merupakan sarana utama untuk bersuci. Oleh karena itu, tidak ada sesuatu pun yang dapat menggantikan kedudukannya dalam menyucikan kecuali apabila ada ketetapan dari syariat yang membolehkannya.",
+			  "start": 82.323,
+			  "end": 89.739
+			}
           ]
         },
         {
@@ -84,12 +101,12 @@
           "title_id": "Bab Ketiga — Adab Buang Hajat",
           "start": 91.12,
           "paragraphs": [
-            {
-              "ar": "على المُتخلِّي الاستتارُ حتى يدنو من الأرض، والبُعدُ أو دخولُ الكنيف، وترْكُ الكلام، والمُلابسةُ لما له حُرمةٌ، وتجنُّبُ الأمكنة التي منع عن التخلي فيها شَرْعٌ أو عُرْفٌ، وعدمُ الاستقبال، والاستدبارِ للقبلة، وعليه الاستجمارُ بثلاثة أحجارٍ طاهرةٍ، أو ما يقوم مقامها، ويُندب الاستعاذةُ عند الشُّروع، والاستغفارُ والحمدُ بعد الفراغ.",
-              "id": "",
-              "start": 93.861,
-              "end": 130.192
-            }
+			{
+			  "ar": "عَلَى الْمُتَخَلِّي الِاسْتِتَارُ حَتَّى يَدْنُوَ مِنَ الْأَرْضِ، وَالْبُعْدُ أَوْ دُخُولُ الْكَنِيفِ، وَتَرْكُ الْكَلَامِ، وَالْمُلَابَسَةُ لِمَا لَهُ حُرْمَةٌ، وَتَجَنُّبُ الْأَمْكِنَةِ الَّتِي مُنِعَ عَنِ التَّخَلِّي فِيهَا شَرْعًا أَوْ عُرْفًا، وَعَدَمُ الِاسْتِقْبَالِ وَالِاسْتِدْبَارِ لِلْقِبْلَةِ، وَعَلَيْهِ الِاسْتِجْمَارُ بِثَلَاثَةِ أَحْجَارٍ طَاهِرَةٍ، أَوْ مَا يَقُومُ مَقَامَهَا، وَيُنْدَبُ الِاسْتِعَاذَةُ عِنْدَ الشُّرُوعِ، وَالِاسْتِغْفَارُ وَالْحَمْدُ بَعْدَ الْفَرَاغِ.",
+			  "id": "Orang yang hendak buang hajat hendaknya menutup diri dari pandangan hingga mendekati permukaan tanah, menjauh dari pandangan orang lain atau masuk ke tempat buang hajat, tidak berbicara, menjaga benda-benda yang memiliki kehormatan agar tidak dibawa ke tempat buang hajat, menghindari tempat-tempat yang dilarang untuk buang hajat menurut syariat ataupun kebiasaan yang berlaku, serta tidak menghadap ataupun membelakangi kiblat. Ia juga hendaknya beristinja dengan tiga buah batu yang suci atau benda lain yang dapat menggantikannya. Disunnahkan membaca doa memohon perlindungan kepada Allah ketika akan masuk, kemudian setelah selesai membaca istigfar dan memuji Allah.",
+			  "start": 93.861,
+			  "end": 130.192
+			}
           ]
         },
         {
@@ -99,18 +116,18 @@
           "title_id": "Bab Keempat — Wudhu",
           "start": 131.832,
           "paragraphs": [
-            {
-              "ar": "يجب على كل مكلَّفٍ أن يُسمِّي إذا ذَكَرَ، ويتمضمضَ ويستنشقَ، ثم يغسلَ جميعَ وجهه، ثم يديه مع مرفقيه، ثم يمسحَ رأسَه مع أذنيه، ويجزئ مسحُ بعضه، والمسحُ على العِمامة، ثم يغسلَ رجليه مع الكعبين، وله المسحُ على الخفين.",
-              "id": "",
-              "start": 133.674,
-              "end": 160.89
-            },
-            {
-              "ar": "ولا يكون وضوءاً شرعيّاً إلا بالنية لاستباحة الصلاة.",
-              "id": "",
-              "start": 161.311,
-              "end": 163.853
-            }
+			{
+			  "ar": "يَجِبُ عَلَى كُلِّ مُكَلَّفٍ أَنْ يُسَمِّيَ إِذَا ذَكَرَ، وَيَتَمَضْمَضَ وَيَسْتَنْشِقَ، ثُمَّ يَغْسِلَ جَمِيعَ وَجْهِهِ، ثُمَّ يَدَيْهِ مَعَ مِرْفَقَيْهِ، ثُمَّ يَمْسَحَ رَأْسَهُ مَعَ أُذُنَيْهِ، وَيُجْزِئُ مَسْحُ بَعْضِهِ، وَالْمَسْحُ عَلَى الْعِمَامَةِ، ثُمَّ يَغْسِلَ رِجْلَيْهِ مَعَ الْكَعْبَيْنِ، وَلَهُ الْمَسْحُ عَلَى الْخُفَّيْنِ.",
+			  "id": "Setiap mukallaf wajib membaca basmalah apabila ia masih mengingatnya, kemudian berkumur-kumur dan menghirup air ke dalam hidung lalu mengeluarkannya, selanjutnya membasuh seluruh wajah, kemudian kedua tangan hingga kedua siku, lalu mengusap kepala beserta kedua telinga. Mengusap sebagian kepala sudah mencukupi, demikian pula diperbolehkan mengusap di atas imamah (serban). Setelah itu ia membasuh kedua kaki hingga kedua mata kaki. Ia juga diperbolehkan mengusap kedua khuf (sepatu kulit atau alas kaki yang memenuhi syarat) sebagai pengganti membasuh kaki.",
+			  "start": 133.674,
+			  "end": 160.890
+			},
+			{
+			  "ar": "وَلَا يَكُونُ وُضُوءًا شَرْعِيًّا إِلَّا بِالنِّيَّةِ لِاسْتِبَاحَةِ الصَّلَاةِ.",
+			  "id": "Suatu wudu tidak dianggap sah menurut syariat kecuali disertai niat untuk memperoleh kebolehan melaksanakan salat.",
+			  "start": 161.311,
+			  "end": 163.853
+			}
           ]
         },
         {
@@ -119,12 +136,12 @@
           "title_id": "Fasal — Sunnah-sunnah dalam Wudhu",
           "start": 164.914,
           "paragraphs": [
-            {
-              "ar": "يُستحبّ التَّثليثُ في غير الرأس، وإطالةُ الغُرّة والتّحْجيل، وتقديمُ السِّواك، وغسلُ اليدين إلى الرسغين - ثلاثاً - قبل الشُّروع في غسل الأعضاء المتقدمة.",
-              "id": "",
-              "start": 168.478,
-              "end": 183.216
-            }
+			{
+			  "ar": "يُسْتَحَبُّ التَّثْلِيثُ فِي غَيْرِ الرَّأْسِ، وَإِطَالَةُ الْغُرَّةِ وَالتَّحْجِيلِ، وَتَقْدِيمُ السِّوَاكِ، وَغَسْلُ الْيَدَيْنِ إِلَى الرُّسْغَيْنِ - ثَلَاثًا - قَبْلَ الشُّرُوعِ فِي غَسْلِ الْأَعْضَاءِ الْمُتَقَدِّمَةِ.",
+			  "id": "Disunnahkan membasuh anggota wudu sebanyak tiga kali, selain kepala. Disunnahkan pula melebihkan basuhan pada wajah dan anggota wudu hingga melampaui batas wajib (ithālatul ghurrah dan tahjīl), mendahulukan bersiwak, serta mencuci kedua tangan hingga pergelangan tangan sebanyak tiga kali sebelum mulai membasuh anggota-anggota wudu yang telah disebutkan sebelumnya.",
+			  "start": 168.478,
+			  "end": 183.216
+			}
           ]
         },
         {
@@ -133,108 +150,108 @@
           "title_id": "Fasal — Pembatal-pembatal Wudhu",
           "start": 184.836,
           "paragraphs": [
-            {
-              "ar": "وينتقض الوضوءُ بما خرج من الفرجين من عينٍ أو ريحٍ، وبما يوجب الغسلَ، ونومِ المضطجعِ، وأكلِ لحم الإبل، والقيءِ، ونحوه، ومسِّ الذكر.",
-              "id": "",
-              "start": 187.818,
-              "end": 201.388
-            }
+			{
+			  "ar": "وَيَنْتَقِضُ الْوُضُوءُ بِمَا خَرَجَ مِنَ الْفَرْجَيْنِ مِنْ عَيْنٍ أَوْ رِيحٍ، وَبِمَا يُوجِبُ الْغُسْلَ، وَنَوْمِ الْمُضْطَجِعِ، وَأَكْلِ لَحْمِ الْإِبِلِ، وَالْقَيْءِ، وَنَحْوِهِ، وَمَسِّ الذَّكَرِ.",
+			  "id": "Wudu menjadi batal karena keluarnya sesuatu dari salah satu dari dua jalan (qubul atau dubur), baik berupa benda maupun angin. Wudu juga batal karena hal-hal yang mewajibkan mandi besar, tidur dalam keadaan berbaring, memakan daging unta, muntah dan yang semisal dengannya, serta menyentuh kemaluan (zakar) secara langsung.",
+			  "start": 187.818,
+			  "end": 201.388
+			}
           ]
         },
-        {
-          "type": "bab",
-          "no": 5,
-          "title_ar": "(٥ - بَابُ الْغُسْلِ)",
-          "title_id": "Bab Kelima — Mandi (Ghusl)",
-          "start": 202.569,
-          "paragraphs": [
-            {
-              "ar": "يجب بخروج المنيّ بشهوةٍ - ولو بتفكرٍ -، وبالتقاء الختانين، وبانقطاع الحيض والنفاس، وبالاحتلام - مع وجود بللٍ -، وبالموت، وبالإسلام.",
-              "id": "",
-              "start": 204.689,
-              "end": 219.213
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي صِفَةِ الْغُسْلِ",
-          "title_id": "Fasal — Tata Cara Mandi Wajib",
-          "start": 220.574,
-          "paragraphs": [
-            {
-              "ar": "والغُسل الواجب هو: أن يُفيض الماءَ على جميع بدنه، أو ينغمس فيه، مع المضمضة والاستنشاق، والدَّلْك لما يُمكن دلكُه، ولا يكون شرعياً إلا بالنية لرفع موجبه، ونُدب تقديمُ غسل أعضاء الوضوء إلا القدمين، ثم التيامن.",
-              "id": "",
-              "start": 223.334,
-              "end": 245.639
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي الْأَغْسَالِ الْمَشْرُوعَةِ",
-          "title_id": "Fasal — Mandi-mandi yang Disyariatkan",
-          "start": 246.96,
-          "paragraphs": [
-            {
-              "ar": "ويُشرع لصلاة الجمعة، والعيدين، ولمن غسّل ميتاً، وللإحرام، ولدخول مكة.",
-              "id": "",
-              "start": 250.203,
-              "end": 258.728
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 6,
-          "title_ar": "(٦ - بَابُ التَّيَمُّمِ)",
-          "title_id": "Bab Keenam — Tayamum",
-          "start": 259.788,
-          "paragraphs": [
-            {
-              "ar": "يُستباح به ما يُستباح بالوضوء والغسل، لمن لا يجد الماءَ، أو خشي الضرَّرَ من استعماله، وأعضاؤه: الوجهُ ثم الكفّانِ، يمسحهما مرَّةً بضربةٍ واحدةً، ناوياً مُسمياً، ونواقضُه نواقضُ الوضوء.",
-              "id": "",
-              "start": 261.73,
-              "end": 282.122
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 7,
-          "title_ar": "(٧ - بَابُ الْحَيْضِ)",
-          "title_id": "Bab Ketujuh — Haid",
-          "start": 282.922,
-          "paragraphs": [
-            {
-              "ar": "لم يأتِ في تقدير أقلِّه وأكثرِه ما تقوم به الحجةُ، وكذلك الطُّهر، فذاتُ العادة المتقرِّرة تعمل عليها، وغيرُها ترجع إلى القرائن، فدمُ الحيض يتميز من غيره، فتكون حائضاً إذا رأت دمَ الحيض، ومستحاضةً إذا رأت غيره، وهي كالطاهرة، وتغسل أثرَ الدم، وتتوضأ لكل صلاةٍ، والحائضُ لا تصلي، ولا تصوم، ولا تُوطأ؛ حتى تغتسل بعد الطهر، وتقضي الصيام.",
-              "id": "",
-              "start": 284.343,
-              "end": 322.34
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي أَحْكَامِ النِّفَاسِ",
-          "title_id": "Fasal — Hukum-hukum Nifas",
-          "start": 323.2,
-          "paragraphs": [
-            {
-              "ar": "والنفاسُ أكثرُه أربعون يوماً، ولا حدَّ لأقلِّه، وهو كالحيض.",
-              "id": "",
-              "start": 326.242,
-              "end": 331.987
-            }
-          ]
-        }
+		{
+		  "type": "bab",
+		  "no": 5,
+		  "title_ar": "(٥ - بَابُ الْغُسْلِ)",
+		  "title_id": "Bab Kelima — Mandi (Ghusl)",
+		  "start": 202.569,
+		  "paragraphs": [
+			{
+			  "ar": "يَجِبُ بِخُرُوجِ الْمَنِيِّ بِشَهْوَةٍ - وَلَوْ بِتَفَكُّرٍ -، وَبِالْتِقَاءِ الْخِتَانَيْنِ، وَبِانْقِطَاعِ الْحَيْضِ وَالنِّفَاسِ، وَبِالِاحْتِلَامِ - مَعَ وُجُودِ بَلَلٍ -، وَبِالْمَوْتِ، وَبِالْإِسْلَامِ.",
+			  "id": "Mandi wajib menjadi wajib karena keluarnya mani disertai syahwat, meskipun disebabkan oleh lamunan atau khayalan; karena bertemunya dua khitan (terjadinya hubungan suami istri); karena berhentinya haid dan nifas; karena bermimpi yang disertai ditemukannya bekas air mani; karena kematian; dan karena seseorang masuk Islam.",
+			  "start": 204.689,
+			  "end": 219.213
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي صِفَةِ الْغُسْلِ",
+		  "title_id": "Fasal — Tata Cara Mandi Wajib",
+		  "start": 220.574,
+		  "paragraphs": [
+			{
+			  "ar": "وَالْغُسْلُ الْوَاجِبُ هُوَ: أَنْ يُفِيضَ الْمَاءَ عَلَى جَمِيعِ بَدَنِهِ، أَوْ يَنْغَمِسَ فِيهِ، مَعَ الْمَضْمَضَةِ وَالِاسْتِنْشَاقِ، وَالدَّلْكِ لِمَا يُمْكِنُ دَلْكُهُ، وَلَا يَكُونُ شَرْعِيًّا إِلَّا بِالنِّيَّةِ لِرَفْعِ مُوجِبِهِ، وَنُدِبَ تَقْدِيمُ غَسْلِ أَعْضَاءِ الْوُضُوءِ إِلَّا الْقَدَمَيْنِ، ثُمَّ التَّيَامُنُ.",
+			  "id": "Cara mandi wajib adalah mengalirkan air ke seluruh tubuh atau merendamkan seluruh badan ke dalam air, disertai berkumur-kumur, menghirup air ke dalam hidung lalu mengeluarkannya, serta menggosok bagian tubuh yang memungkinkan untuk digosok. Mandi tersebut tidak dianggap sah menurut syariat kecuali disertai niat untuk menghilangkan hadas yang mewajibkan mandi. Disunnahkan mendahulukan membasuh anggota-anggota wudu, kecuali kedua kaki, kemudian memulai dari anggota tubuh sebelah kanan.",
+			  "start": 223.334,
+			  "end": 245.639
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي الْأَغْسَالِ الْمَشْرُوعَةِ",
+		  "title_id": "Fasal — Mandi-mandi yang Disyariatkan",
+		  "start": 246.960,
+		  "paragraphs": [
+			{
+			  "ar": "وَيُشْرَعُ لِصَلَاةِ الْجُمُعَةِ، وَالْعِيدَيْنِ، وَلِمَنْ غَسَّلَ مَيِّتًا، وَلِلْإِحْرَامِ، وَلِدُخُولِ مَكَّةَ.",
+			  "id": "Disyariatkan mandi untuk melaksanakan salat Jumat, salat dua hari raya ('Idulfitri dan 'Iduladha), bagi orang yang memandikan jenazah, ketika hendak berihram, dan ketika akan memasuki Kota Makkah.",
+			  "start": 250.203,
+			  "end": 258.728
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 6,
+		  "title_ar": "(٦ - بَابُ التَّيَمُّمِ)",
+		  "title_id": "Bab Keenam — Tayamum",
+		  "start": 259.788,
+		  "paragraphs": [
+			{
+			  "ar": "يُسْتَبَاحُ بِهِ مَا يُسْتَبَاحُ بِالْوُضُوءِ وَالْغُسْلِ، لِمَنْ لَا يَجِدُ الْمَاءَ، أَوْ خَشِيَ الضَّرَرَ مِنِ اسْتِعْمَالِهِ، وَأَعْضَاؤُهُ: الْوَجْهُ ثُمَّ الْكَفَّانِ، يَمْسَحُهُمَا مَرَّةً بِضَرْبَةٍ وَاحِدَةٍ، نَاوِيًا مُسَمِّيًا، وَنَوَاقِضُهُ نَوَاقِضُ الْوُضُوءِ.",
+			  "id": "Dengan tayamum, seseorang diperbolehkan melakukan semua ibadah yang diperbolehkan dengan wudu dan mandi wajib, bagi orang yang tidak mendapatkan air atau khawatir akan mengalami bahaya jika menggunakannya. Anggota tayamum adalah wajah, kemudian kedua telapak tangan. Keduanya diusap satu kali dengan satu kali tepukan pada media tayamum, disertai niat dan membaca basmalah. Hal-hal yang membatalkan tayamum sama dengan hal-hal yang membatalkan wudu.",
+			  "start": 261.730,
+			  "end": 282.122
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 7,
+		  "title_ar": "(٧ - بَابُ الْحَيْضِ)",
+		  "title_id": "Bab Ketujuh — Haid",
+		  "start": 282.922,
+		  "paragraphs": [
+			{
+			  "ar": "لَمْ يَأْتِ فِي تَقْدِيرِ أَقَلِّهِ وَأَكْثَرِهِ مَا تَقُومُ بِهِ الْحُجَّةُ، وَكَذَلِكَ الطُّهْرُ، فَذَاتُ الْعَادَةِ الْمُتَقَرِّرَةِ تَعْمَلُ عَلَيْهَا، وَغَيْرُهَا تَرْجِعُ إِلَى الْقَرَائِنِ، فَدَمُ الْحَيْضِ يَتَمَيَّزُ مِنْ غَيْرِهِ، فَتَكُونُ حَائِضًا إِذَا رَأَتْ دَمَ الْحَيْضِ، وَمُسْتَحَاضَةً إِذَا رَأَتْ غَيْرَهُ، وَهِيَ كَالطَّاهِرَةِ، وَتَغْسِلُ أَثَرَ الدَّمِ، وَتَتَوَضَّأُ لِكُلِّ صَلَاةٍ، وَالْحَائِضُ لَا تُصَلِّي، وَلَا تَصُومُ، وَلَا تُوطَأُ؛ حَتَّى تَغْتَسِلَ بَعْدَ الطُّهْرِ، وَتَقْضِي الصِّيَامَ.",
+			  "id": "Tidak ada dalil yang dapat dijadikan hujah untuk menetapkan batas minimal maupun batas maksimal haid, demikian pula batas masa suci. Oleh karena itu, wanita yang memiliki kebiasaan haid yang tetap hendaknya berpedoman pada kebiasaannya tersebut. Adapun wanita yang tidak memiliki kebiasaan yang tetap, maka ia kembali kepada tanda-tanda yang membedakan darah. Darah haid dapat dibedakan dari darah selainnya. Seorang wanita dihukumi sedang haid apabila ia melihat darah haid, dan dihukumi mengalami istihadah apabila ia melihat darah selain darah haid. Wanita yang mengalami istihadah hukumnya seperti wanita yang suci; ia mencuci bekas darah, kemudian berwudu setiap hendak melaksanakan salat. Wanita yang sedang haid tidak boleh melaksanakan salat, tidak boleh berpuasa, dan tidak boleh digauli hingga ia mandi setelah suci. Adapun puasa yang ditinggalkannya wajib diqadha.",
+			  "start": 284.343,
+			  "end": 322.340
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي أَحْكَامِ النِّفَاسِ",
+		  "title_id": "Fasal — Hukum-hukum Nifas",
+		  "start": 323.200,
+		  "paragraphs": [
+			{
+			  "ar": "وَالنِّفَاسُ أَكْثَرُهُ أَرْبَعُونَ يَوْمًا، وَلَا حَدَّ لِأَقَلِّهِ، وَهُوَ كَالْحَيْضِ.",
+			  "id": "Masa nifas yang paling lama adalah empat puluh hari, sedangkan batas minimalnya tidak ada. Hukum-hukum nifas sama seperti hukum-hukum haid.",
+			  "start": 326.242,
+			  "end": 331.987
+			}
+		  ]
+		}
       ],
       "srt_source": "01.srt"
     },
     {
       "no": 2,
       "id": "salah",
-      "title_ar": "كتاب الصلاة",
+      "title_ar": "كِتَابُ الصَّلَاةِ",
       "title_id": "Kitab Shalat",
       "audio_file": "02.%20The%20Book%20of%20As-Salah%20%28Prayer%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/34",
@@ -243,7 +260,7 @@
     {
       "no": 3,
       "id": "janaiz",
-      "title_ar": "كتاب الجنائز",
+      "title_ar": "كِتَابُ الْجَنَائِزِ",
       "title_id": "Kitab Jana'iz (Pengurusan Jenazah)",
       "audio_file": "03.%20The%20Book%20of%20Al-Janaa%27iz%20%28Funerals%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2.mp3",
       "shamela_url": "https://shamela.ws/book/9293/39",
@@ -252,7 +269,7 @@
     {
       "no": 4,
       "id": "zakat",
-      "title_ar": "كتاب الزكاة",
+      "title_ar": "كِتَابُ الزَّكَاةِ",
       "title_id": "Kitab Zakat",
       "audio_file": "04.%20The%20Book%20of%20Zakat%20%28Compulsory%20Alms%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/40",
@@ -261,7 +278,7 @@
     {
       "no": 5,
       "id": "khums",
-      "title_ar": "كتاب الخمس",
+      "title_ar": "كِتَابُ الْخُمُسِ",
       "title_id": "Kitab Khumus (Seperlima Harta Rampasan Perang)",
       "audio_file": "05.%20The%20Book%20of%20Al-Khums%20%28One%20Fifth%20%2820%25%29%20of%20the%20War%20Booty%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AE%D9%85%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/43",
@@ -270,7 +287,7 @@
     {
       "no": 6,
       "id": "siyam",
-      "title_ar": "كتاب الصيام",
+      "title_ar": "كِتَابُ الصِّيَامِ",
       "title_id": "Kitab Shiyam (Puasa)",
       "audio_file": "06.%20The%20Book%20of%20As-Siyam%20%28Fasting%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85.mp3",
       "shamela_url": "https://shamela.ws/book/9293/43",
@@ -279,7 +296,7 @@
     {
       "no": 7,
       "id": "hajj",
-      "title_ar": "كتاب الحج",
+      "title_ar": "كِتَابُ الْحَجِّ",
       "title_id": "Kitab Haji",
       "audio_file": "07.%20The%20Book%20of%20Al-Hajj%20%28Pilgrimage%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC.mp3",
       "shamela_url": "https://shamela.ws/book/9293/44",
@@ -288,7 +305,7 @@
     {
       "no": 8,
       "id": "nikah",
-      "title_ar": "كتاب النكاح",
+      "title_ar": "كِتَابُ النِّكَاحِ",
       "title_id": "Kitab Nikah",
       "audio_file": "08.%20The%20Book%20of%20Nikah%20%28Marriage%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD.mp3",
       "shamela_url": "https://shamela.ws/book/9293/47",
@@ -297,7 +314,7 @@
     {
       "no": 9,
       "id": "talaq",
-      "title_ar": "كتاب الطلاق",
+      "title_ar": "كِتَابُ الطَّلَاقِ",
       "title_id": "Kitab Talak",
       "audio_file": "09.%20The%20Book%20of%20At-Talaaq%20%28Divorce%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3",
       "shamela_url": "https://shamela.ws/book/9293/49",
@@ -306,7 +323,7 @@
     {
       "no": 10,
       "id": "buyu",
-      "title_ar": "كتاب البيوع",
+      "title_ar": "كِتَابُ الْبُيُوعِ",
       "title_id": "Kitab Buyu' (Jual-Beli)",
       "audio_file": "10.%20The%20Book%20of%20Al-Buyu%27%20%28Business%20Transactions%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%B9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/52",
@@ -315,7 +332,7 @@
     {
       "no": 11,
       "id": "hadaya",
-      "title_ar": "كتاب الهدايا",
+      "title_ar": "كِتَابُ الْهَدَايَا",
       "title_id": "Kitab Hadaya (Hadiah/Hibah)",
       "audio_file": "11.%20The%20Book%20of%20Al-Hadaaya%20%28Gifts%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A7.mp3",
       "shamela_url": "https://shamela.ws/book/9293/52",
@@ -324,7 +341,7 @@
     {
       "no": 12,
       "id": "ayman",
-      "title_ar": "كتاب الأيمان",
+      "title_ar": "كِتَابُ الْأَيْمَانِ",
       "title_id": "Kitab Aiman (Sumpah)",
       "audio_file": "12.%20The%20Book%20of%20Al-Aymaan%20%28Oaths%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%8A%D9%85%D8%A7%D9%86.mp3",
       "shamela_url": "https://shamela.ws/book/9293/57",
@@ -333,7 +350,7 @@
     {
       "no": 13,
       "id": "nudhur",
-      "title_ar": "كتاب النذر",
+      "title_ar": "كِتَابُ النُّذُورِ",
       "title_id": "Kitab Nadzar",
       "audio_file": "13.%20The%20Book%20of%20An-Nudhur%20%28Vows%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%86%D8%B0%D8%B1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/57",
@@ -342,7 +359,7 @@
     {
       "no": 14,
       "id": "atimah",
-      "title_ar": "كتاب الأطعمة",
+      "title_ar": "كِتَابُ الْأَطْعِمَةِ",
       "title_id": "Kitab Ath'imah (Makanan)",
       "audio_file": "14.%20The%20Book%20of%20Al-At%27imah%20%28Foods%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D8%B7%D8%B9%D9%85%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/58",
@@ -351,7 +368,7 @@
     {
       "no": 15,
       "id": "ashribah",
-      "title_ar": "كتاب الأشربة",
+      "title_ar": "كِتَابُ الْأَشْرِبَةِ",
       "title_id": "Kitab Asyribah (Minuman)",
       "audio_file": "15.%20The%20Book%20of%20Al-Ashribah%20%28Drinks%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D8%A8%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/59",
@@ -360,7 +377,7 @@
     {
       "no": 16,
       "id": "libas",
-      "title_ar": "كتاب اللباس",
+      "title_ar": "كِتَابُ اللِّبَاسِ",
       "title_id": "Kitab Libas (Pakaian)",
       "audio_file": "16.%20The%20Book%20of%20Al-Libaas%20%28Clothing%2C%20Dress%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%A8%D8%A7%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/60",
@@ -369,7 +386,7 @@
     {
       "no": 17,
       "id": "udhiyyah",
-      "title_ar": "كتاب الأضحية",
+      "title_ar": "كِتَابُ الْأُضْحِيَّةِ",
       "title_id": "Kitab Udhiyyah (Kurban)",
       "audio_file": "17.%20The%20Book%20of%20Al-Udhiyyah%20%28Sacrifice%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%8F%D8%B6%D9%92%D8%AD%D9%90%D9%8A%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/60",
@@ -378,7 +395,7 @@
     {
       "no": 18,
       "id": "tibb",
-      "title_ar": "كتاب الطب",
+      "title_ar": "كِتَابُ الطِّبِّ",
       "title_id": "Kitab Thibb (Pengobatan)",
       "audio_file": "18.%20The%20Book%20of%20At-Tibb%20%28Medication%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D8%A8%D9%91.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
@@ -387,7 +404,7 @@
     {
       "no": 19,
       "id": "wakalah",
-      "title_ar": "كتاب الوكالة",
+      "title_ar": "كِتَابُ الْوَكَالَةِ",
       "title_id": "Kitab Wakalah (Perwakilan)",
       "audio_file": "19.%20The%20Book%20of%20Al-Wakalah%20%28Agency%2C%20Representation%2C%20Authorization%2C%20Business%20by%20Proxy%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
@@ -396,7 +413,7 @@
     {
       "no": 20,
       "id": "dhamanah",
-      "title_ar": "كتاب الضمانة",
+      "title_ar": "كِتَابُ الضَّمَانَةِ",
       "title_id": "Kitab Dhamanah (Jaminan)",
       "audio_file": "20.%20The%20Book%20of%20Adh-Dhamaanah%20%28Guarantee%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
@@ -405,7 +422,7 @@
     {
       "no": 21,
       "id": "sulh",
-      "title_ar": "كتاب الصلح",
+      "title_ar": "كِتَابُ الصُّلْحِ",
       "title_id": "Kitab Sulh (Perdamaian)",
       "audio_file": "21.%20The%20Book%20of%20As-Sulh%20%28Reconciliation%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%84%D8%AD.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
@@ -414,7 +431,7 @@
     {
       "no": 22,
       "id": "hawalah",
-      "title_ar": "كتاب الحوالة",
+      "title_ar": "كِتَابُ الْحَوَالَةِ",
       "title_id": "Kitab Hawalah (Pengalihan Utang)",
       "audio_file": "22.%20The%20Book%20of%20Al-Hawaala%20%28Transfer%20of%20Debt%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%8E%D9%88%D8%A7%D9%84%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
@@ -423,7 +440,7 @@
     {
       "no": 23,
       "id": "muflis",
-      "title_ar": "كتاب المفلس",
+      "title_ar": "كِتَابُ الْمُفْلِسِ",
       "title_id": "Kitab Muflis (Pailit)",
       "audio_file": "23.%20The%20Book%20of%20Al-Muflis%20%28Bankruptcy%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%85%D9%81%D9%84%D9%90%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
@@ -432,7 +449,7 @@
     {
       "no": 24,
       "id": "luqata",
-      "title_ar": "كتاب اللقطة",
+      "title_ar": "كِتَابُ اللُّقَطَةِ",
       "title_id": "Kitab Luqathah (Barang Temuan)",
       "audio_file": "24.%20The%20Book%20of%20Al-Luqata%20%28Lost%20Properties%2C%20Items%2C%20Animals%2C%20People%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D9%8F%D9%91%D9%82%D8%B7%D8%A9%D9%8E.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
@@ -441,7 +458,7 @@
     {
       "no": 25,
       "id": "qadha",
-      "title_ar": "كتاب القضاء",
+      "title_ar": "كِتَابُ الْقَضَاءِ",
       "title_id": "Kitab Qadha (Peradilan)",
       "audio_file": "25.%20The%20Book%20of%20Al-Qadhaa%20%28Judgements%2C%20Adjudication%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D9%8E%D8%B6%D9%8E%D8%A7%D8%A1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/63",
@@ -450,7 +467,7 @@
     {
       "no": 26,
       "id": "khusumah",
-      "title_ar": "كتاب الخصومة",
+      "title_ar": "كِتَابُ الْخُصُومَةِ",
       "title_id": "Kitab Khushumah (Persengketaan)",
       "audio_file": "26.%20The%20Book%20of%20Al-Khusoomaah%20%28Prosecution%2C%20Quarrels%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AE%D9%8F%D8%B5%D9%8F%D9%88%D9%85%D9%8E%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/63",
@@ -459,7 +476,7 @@
     {
       "no": 27,
       "id": "hudud",
-      "title_ar": "كتاب الحدود",
+      "title_ar": "كِتَابُ الْحُدُودِ",
       "title_id": "Kitab Hudud",
       "audio_file": "27.%20The%20Book%20of%20Al-Hudud%20%28Limits%20%26%20Legal%20Punishments%20set%20by%20Allah%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF.mp3",
       "shamela_url": "https://shamela.ws/book/9293/64",
@@ -468,7 +485,7 @@
     {
       "no": 28,
       "id": "qisas",
-      "title_ar": "كتاب القصاص",
+      "title_ar": "كِتَابُ الْقِصَاصِ",
       "title_id": "Kitab Qishash",
       "audio_file": "28.%20The%20Book%20of%20Al-Qisas%20%28Law%20of%20Equality%20in%20Punishment%2C%20Retaliation%2C%20Vengeance%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D9%90%D8%B5%D9%8E%D8%A7%D8%B5.mp3",
       "shamela_url": "https://shamela.ws/book/9293/66",
@@ -477,7 +494,7 @@
     {
       "no": 29,
       "id": "diyat",
-      "title_ar": "كتاب الديات",
+      "title_ar": "كِتَابُ الدِّيَاتِ",
       "title_id": "Kitab Diyat",
       "audio_file": "29.%20The%20Book%20of%20Ad-Diyaat%20%28Blood%20Money%2C%20Compensation%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AF%D9%90%D9%91%D9%8A%D8%A7%D8%AA.mp3",
       "shamela_url": "https://shamela.ws/book/9293/66",
@@ -486,7 +503,7 @@
     {
       "no": 30,
       "id": "wasiyyah",
-      "title_ar": "كتاب الوصية",
+      "title_ar": "كِتَابُ الْوَصِيَّةِ",
       "title_id": "Kitab Wasiat",
       "audio_file": "30.%20The%20Book%20of%20Al-Wasiyyah%20%28Wills%20%26%20Testament%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%88%D8%B5%D9%90%D9%8A%D9%91%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/67",
@@ -495,7 +512,7 @@
     {
       "no": 31,
       "id": "mawarith",
-      "title_ar": "كتاب المواريث",
+      "title_ar": "كِتَابُ الْمَوَارِيثِ",
       "title_id": "Kitab Mawarits (Waris)",
       "audio_file": "31.%20The%20Book%20of%20Al-Mawaareeth%20%28Inheritance%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%8E%D9%88%D8%A7%D8%B1%D9%90%D9%8A%D8%AB.mp3",
       "shamela_url": "https://shamela.ws/book/9293/67",
@@ -504,7 +521,7 @@
     {
       "no": 32,
       "id": "jihad",
-      "title_ar": "كتاب الجهاد والسير",
+      "title_ar": "كِتَابُ الْجِهَادِ وَالسِّيَرِ",
       "title_id": "Kitab Jihad wa Siyar",
       "audio_file": "32.%20The%20Book%20of%20Al-Jihaad%20was-Siyar%20%28Jihaad%20%26%20History%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AC%D9%90%D9%87%D9%8E%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D8%B3%D9%90%D9%91%D9%8A%D9%8E%D8%B1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/68",
