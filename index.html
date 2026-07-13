@@ -199,21 +199,54 @@
     display:flex;justify-content:space-between;align-items:center;
     font-family:var(--font-ui);
   }
-  .player audio{width:100%;height:36px;}
   .player .src-link{color:#8a7a55;text-decoration:none;border-bottom:1px dotted #8a7a55;}
   .player .src-link:hover{color:var(--rubric);}
 
+  .player-controls{display:flex;align-items:center;gap:14px;}
+  .play-btn{
+    flex:0 0 auto;width:42px;height:42px;border-radius:50%;
+    background:var(--rubric);color:#fff;border:none;cursor:pointer;
+    font-size:1rem;display:flex;align-items:center;justify-content:center;
+    box-shadow:0 2px 6px rgba(154,65,48,.35);
+    transition:background .15s, transform .1s;
+  }
+  .play-btn:hover{background:#7f342a;}
+  .play-btn:active{transform:scale(.94);}
+  .seek-wrap{flex:1;min-width:0;}
+  .seek-wrap input[type=range]{
+    -webkit-appearance:none;appearance:none;
+    width:100%;height:4px;border-radius:2px;
+    background:var(--parchment-2);outline:none;cursor:pointer;
+    accent-color:#9a4130;
+  }
+  .seek-wrap input[type=range]::-webkit-slider-thumb{
+    -webkit-appearance:none;appearance:none;
+    width:13px;height:13px;border-radius:50%;
+    background:var(--rubric);cursor:pointer;
+    box-shadow:0 0 0 3px rgba(154,65,48,.15);
+  }
+  .time-row{
+    display:flex;justify-content:space-between;
+    font-size:.68rem;color:#a3956f;margin-top:4px;
+    font-family:var(--font-ui);
+  }
+
   /* section roundel marker (signature element) */
   .section-block{margin:34px 0;}
+  .section-block--fasal{margin-inline-start:26px;margin-top:22px;}
   .section-marker{
     display:flex;align-items:center;gap:12px;margin-bottom:14px;
+    cursor:pointer;
   }
-  .roundel{flex:0 0 auto;width:30px;height:30px;}
+  .section-block--fasal .roundel{width:22px;height:22px;}
+  .roundel{flex:0 0 auto;width:30px;height:30px;transition:transform .15s;}
+  .section-marker:hover .roundel{transform:scale(1.08);}
   .section-titles{flex:1;min-width:0;}
   .section-title-ar{
     font-family:var(--font-ar);font-size:1.35rem;color:var(--rubric);
     direction:rtl;font-weight:700;line-height:1.3;
   }
+  .section-block--fasal .section-title-ar{font-size:1.1rem;}
   .section-title-id{
     font-family:var(--font-id);font-size:.85rem;color:#8a7a55;font-style:italic;
   }
@@ -224,8 +257,13 @@
 
   .para{
     margin:0 0 22px;
-    padding-inline-start:2px;
+    padding:8px 10px;
+    border-radius:5px;
+    cursor:pointer;
+    transition:background .2s;
   }
+  .para:hover{background:rgba(185,146,79,.08);}
+  .para.active{background:#f3e6c6;box-shadow:inset 3px 0 0 var(--rubric);}
   .para-ar{
     font-family:var(--font-ar);font-size:1.5rem;line-height:2.15;
     direction:rtl;text-align:right;color:var(--ink-text);
@@ -237,6 +275,7 @@
     padding-inline-start:14px;
     border-inline-start:2px solid var(--parchment-2);
   }
+  .para-id.placeholder{color:#b3a578;font-style:italic;}
 
   .empty-state{
     margin-top:20px;padding:26px 24px;
@@ -486,7 +525,14 @@
     html += '<div class="player">';
     html += '  <div class="player-label"><span>🔊 Murottal &mdash; ' + book.title_id + '</span>' +
             '<a class="src-link" href="' + book.shamela_url + '" target="_blank" rel="noopener">Rujukan teks di Shamela ↗</a></div>';
-    html += '  <audio controls preload="none" src="' + DATA.meta.audio_base + book.audio_file + '"></audio>';
+    html += '  <div class="player-controls">';
+    html += '    <button id="playPauseBtn" class="play-btn" aria-label="Putar/Jeda" type="button">▶</button>';
+    html += '    <div class="seek-wrap">';
+    html += '      <input type="range" id="seekBar" min="0" max="100" step="0.1" value="0">';
+    html += '      <div class="time-row"><span id="curTime">0:00</span><span id="durTime">0:00</span></div>';
+    html += '    </div>';
+    html += '  </div>';
+    html += '  <audio id="bookAudio" preload="none" src="' + DATA.meta.audio_base + book.audio_file + '"></audio>';
     html += '</div>';
 
     if(!book.sections || book.sections.length === 0){
@@ -498,8 +544,9 @@
       html += '</div>';
     } else {
       book.sections.forEach(function(sec){
-        html += '<div class="section-block">';
-        html += '  <div class="section-marker">' + roundelSVG() +
+        var blockClass = "section-block" + (sec.type === "fasal" ? " section-block--fasal" : "");
+        html += '<div class="' + blockClass + '">';
+        html += '  <div class="section-marker" data-seek="' + (sec.start != null ? sec.start : 0) + '">' + roundelSVG() +
                 '    <div class="section-titles">' +
                 '      <div class="section-title-ar">' + (sec.title_ar || '') + '</div>' +
                 (sec.title_id ? '<div class="section-title-id">' + sec.title_id + '</div>' : '') +
@@ -507,9 +554,9 @@
                 '  </div>';
         html += '  <div class="section-rule"></div>';
         (sec.paragraphs || []).forEach(function(p){
-          html += '<div class="para">';
+          html += '<div class="para" data-start="' + p.start + '" data-end="' + p.end + '" data-seek="' + p.start + '">';
           html += '  <div class="para-ar">' + (p.ar || '') + '</div>';
-          if(p.id){ html += '  <div class="para-id">' + p.id + '</div>'; }
+          html += '  <div class="para-id' + (p.id ? '' : ' placeholder') + '">' + (p.id || 'Terjemahan belum diisi.') + '</div>';
           html += '</div>';
         });
         html += '</div>';
@@ -518,6 +565,66 @@
 
     document.getElementById("contentInner").innerHTML = html;
     document.getElementById("content").scrollTop = 0;
+    wirePlayer();
+    wireSeekableElements();
+  }
+
+  // ---------- CUSTOM AUDIO PLAYER ----------
+  function fmtTime(s){
+    if(!isFinite(s) || s < 0){ return "0:00"; }
+    var m = Math.floor(s/60), sec = Math.floor(s%60);
+    return m + ":" + (sec < 10 ? "0" : "") + sec;
+  }
+
+  function wirePlayer(){
+    var audioEl = document.getElementById("bookAudio");
+    var playBtn = document.getElementById("playPauseBtn");
+    var seekBar = document.getElementById("seekBar");
+    var curTimeEl = document.getElementById("curTime");
+    var durTimeEl = document.getElementById("durTime");
+    if(!audioEl){ return; }
+
+    playBtn.addEventListener("click", function(){
+      if(audioEl.paused){ audioEl.play(); } else { audioEl.pause(); }
+    });
+    audioEl.addEventListener("play", function(){ playBtn.textContent = "❚❚"; });
+    audioEl.addEventListener("pause", function(){ playBtn.textContent = "▶"; });
+    audioEl.addEventListener("ended", function(){ playBtn.textContent = "▶"; });
+    audioEl.addEventListener("loadedmetadata", function(){
+      seekBar.max = audioEl.duration;
+      durTimeEl.textContent = fmtTime(audioEl.duration);
+    });
+    audioEl.addEventListener("timeupdate", function(){
+      seekBar.value = audioEl.currentTime;
+      curTimeEl.textContent = fmtTime(audioEl.currentTime);
+      highlightActiveParagraph(audioEl.currentTime);
+    });
+    seekBar.addEventListener("input", function(){
+      audioEl.currentTime = parseFloat(seekBar.value);
+    });
+  }
+
+  function wireSeekableElements(){
+    var audioEl = document.getElementById("bookAudio");
+    document.querySelectorAll("[data-seek]").forEach(function(el){
+      el.addEventListener("click", function(){
+        var t = parseFloat(el.getAttribute("data-seek"));
+        if(audioEl && !isNaN(t)){
+          audioEl.currentTime = t;
+          audioEl.play();
+        }
+      });
+    });
+  }
+
+  function highlightActiveParagraph(t){
+    var paras = document.querySelectorAll(".para[data-start]");
+    paras.forEach(function(el){
+      var start = parseFloat(el.getAttribute("data-start"));
+      var end = parseFloat(el.getAttribute("data-end"));
+      var isActive = t >= start && t < end;
+      el.classList.toggle("active", isActive);
+    });
   }
 
   // ---------- SIDEBAR (mobile toggle) ----------
