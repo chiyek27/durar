@@ -19,218 +19,218 @@
       "shamela_url": "https://shamela.ws/book/9293/30",
       "sections": []
     },
-    {
-      "no": 1,
-      "id": "taharah",
-      "title_ar": "كتاب الطهارة",
-      "title_id": "Kitab Thaharah (Bersuci)",
-      "audio_file": "01.%20The%20Book%20of%20At-Taharah%20%28Purification%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D9%87%D8%A7%D8%B1%D8%A9.mp3",
-      "shamela_url": "https://shamela.ws/book/9293/31",
-      "sections": [
-        {
-          "type": "bab",
-          "no": 1,
-          "title_ar": "(١ - بَابٌ)",
-          "title_id": "Bab Pertama — Hukum Air",
-          "start": 2.533,
-          "paragraphs": [
-            {
-              "ar": "هذا الكتابُ قد اشتمل على مسائل: الأولى: الماءُ طاهرٌ مطهِّرٌ، لا يُخرجه عن الوصفيْن إلا ما غيَّر ريحه، أو لونه، أو طعمه من النجاسات، وعن الثاني ما أخرجه عن اسم الماء المطلق من المغيِّرات الطاهرة، ولا فرق بين قليل وكثير، وما فوق القُلَّتين وما دونهما، ومتحرك وساكن، ومستعمَل وغير مستعمَل.",
-              "id": "",
-              "start": 4.535,
-              "end": 34.259
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 2,
-          "title_ar": "(٢ - بَابُ النَّجَاسَاتِ)",
-          "title_id": "Bab Kedua — Najis-najis",
-          "start": 35.259,
-          "paragraphs": [
-            {
-              "ar": "والنجاساتُ هي غائطُ الإنسانِ مُطْلقاً، وبولُه - إلا الذكرَ الرضيع -، ولُعابُ كلبٍ، وروثٌ، ودمُ حيضٍ، ولحمُ خنزيرٍ، وفيما عدا ذلك خلافٌ، والأصلُ الطهارةُ؛ فلا ينقل عنها إلا ناقلٌ صحيحٌ لم يُعارضْه ما يساويه أو يقدَّم عليه.",
-              "id": "",
-              "start": 37.28,
-              "end": 52.95
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فصلٌ",
-          "title_id": "Fasal — Cara Mensucikan Najis",
-          "start": 54.451,
-          "paragraphs": [
-            {
-              "ar": "ويطهر ما يتنجَّس بغسله، حتى لا يبقى لها عينٌ، ولا لونٌ، ولا ريحٌ، ولا طعمٌ، والنَّعلُ بالمسح، والاستحالةُ مطهِّرةٌ لعدم وجود الوصف المحكوم عليه، وما لا يمكن غسله فبالصَّبِّ عليه أو النَّزح منه؛ حتى لا يبقى للنجاسة أثرٌ.",
-              "id": "",
-              "start": 57.811,
-              "end": 76.64
-            },
-            {
-              "ar": "والماءُ هو الأصلُ في التطهير؛ فلا يقوم غيرُه مقامه إلا بإذنٍ من الشارع.",
-              "id": "",
-              "start": 82.323,
-              "end": 89.739
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 3,
-          "title_ar": "(٣ - بَابُ قَضَاءِ الْحَاجَةِ)",
-          "title_id": "Bab Ketiga — Adab Buang Hajat",
-          "start": 91.12,
-          "paragraphs": [
-            {
-              "ar": "على المُتخلِّي الاستتارُ حتى يدنو من الأرض، والبُعدُ أو دخولُ الكنيف، وترْكُ الكلام، والمُلابسةُ لما له حُرمةٌ، وتجنُّبُ الأمكنة التي منع عن التخلي فيها شَرْعٌ أو عُرْفٌ، وعدمُ الاستقبال، والاستدبارِ للقبلة، وعليه الاستجمارُ بثلاثة أحجارٍ طاهرةٍ، أو ما يقوم مقامها، ويُندب الاستعاذةُ عند الشُّروع، والاستغفارُ والحمدُ بعد الفراغ.",
-              "id": "",
-              "start": 93.861,
-              "end": 130.192
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 4,
-          "title_ar": "(٤ - بَابُ الْوُضُوءِ)",
-          "title_id": "Bab Keempat — Wudhu",
-          "start": 131.832,
-          "paragraphs": [
-            {
-              "ar": "يجب على كل مكلَّفٍ أن يُسمِّي إذا ذَكَرَ، ويتمضمضَ ويستنشقَ، ثم يغسلَ جميعَ وجهه، ثم يديه مع مرفقيه، ثم يمسحَ رأسَه مع أذنيه، ويجزئ مسحُ بعضه، والمسحُ على العِمامة، ثم يغسلَ رجليه مع الكعبين، وله المسحُ على الخفين.",
-              "id": "",
-              "start": 133.674,
-              "end": 160.89
-            },
-            {
-              "ar": "ولا يكون وضوءاً شرعيّاً إلا بالنية لاستباحة الصلاة.",
-              "id": "",
-              "start": 161.311,
-              "end": 163.853
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فصلٌ",
-          "title_id": "Fasal — Sunnah-sunnah dalam Wudhu",
-          "start": 164.914,
-          "paragraphs": [
-            {
-              "ar": "يُستحبّ التَّثليثُ في غير الرأس، وإطالةُ الغُرّة والتّحْجيل، وتقديمُ السِّواك، وغسلُ اليدين إلى الرسغين - ثلاثاً - قبل الشُّروع في غسل الأعضاء المتقدمة.",
-              "id": "",
-              "start": 168.478,
-              "end": 183.216
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فصلٌ فِي نَوَاقِضِ الْوُضُوءِ",
-          "title_id": "Fasal — Pembatal-pembatal Wudhu",
-          "start": 184.836,
-          "paragraphs": [
-            {
-              "ar": "وينتقض الوضوءُ بما خرج من الفرجين من عينٍ أو ريحٍ، وبما يوجب الغسلَ، ونومِ المضطجعِ، وأكلِ لحم الإبل، والقيءِ، ونحوه، ومسِّ الذكر.",
-              "id": "",
-              "start": 187.818,
-              "end": 201.388
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 5,
-          "title_ar": "(٥ - بَابُ الْغُسْلِ)",
-          "title_id": "Bab Kelima — Mandi (Ghusl)",
-          "start": 202.569,
-          "paragraphs": [
-            {
-              "ar": "يجب بخروج المنيّ بشهوةٍ - ولو بتفكرٍ -، وبالتقاء الختانين، وبانقطاع الحيض والنفاس، وبالاحتلام - مع وجود بللٍ -، وبالموت، وبالإسلام.",
-              "id": "",
-              "start": 204.689,
-              "end": 219.213
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي صِفَةِ الْغُسْلِ",
-          "title_id": "Fasal — Tata Cara Mandi Wajib",
-          "start": 220.574,
-          "paragraphs": [
-            {
-              "ar": "والغُسل الواجب هو: أن يُفيض الماءَ على جميع بدنه، أو ينغمس فيه، مع المضمضة والاستنشاق، والدَّلْك لما يُمكن دلكُه، ولا يكون شرعياً إلا بالنية لرفع موجبه، ونُدب تقديمُ غسل أعضاء الوضوء إلا القدمين، ثم التيامن.",
-              "id": "",
-              "start": 223.334,
-              "end": 245.639
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي الْأَغْسَالِ الْمَشْرُوعَةِ",
-          "title_id": "Fasal — Mandi-mandi yang Disyariatkan",
-          "start": 246.96,
-          "paragraphs": [
-            {
-              "ar": "ويُشرع لصلاة الجمعة، والعيدين، ولمن غسّل ميتاً، وللإحرام، ولدخول مكة.",
-              "id": "",
-              "start": 250.203,
-              "end": 258.728
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 6,
-          "title_ar": "(٦ - بَابُ التَّيَمُّمِ)",
-          "title_id": "Bab Keenam — Tayamum",
-          "start": 259.788,
-          "paragraphs": [
-            {
-              "ar": "يُستباح به ما يُستباح بالوضوء والغسل، لمن لا يجد الماءَ، أو خشي الضرَّرَ من استعماله، وأعضاؤه: الوجهُ ثم الكفّانِ، يمسحهما مرَّةً بضربةٍ واحدةً، ناوياً مُسمياً، ونواقضُه نواقضُ الوضوء.",
-              "id": "",
-              "start": 261.73,
-              "end": 282.122
-            }
-          ]
-        },
-        {
-          "type": "bab",
-          "no": 7,
-          "title_ar": "(٧ - بَابُ الْحَيْضِ)",
-          "title_id": "Bab Ketujuh — Haid",
-          "start": 282.922,
-          "paragraphs": [
-            {
-              "ar": "لم يأتِ في تقدير أقلِّه وأكثرِه ما تقوم به الحجةُ، وكذلك الطُّهر، فذاتُ العادة المتقرِّرة تعمل عليها، وغيرُها ترجع إلى القرائن، فدمُ الحيض يتميز من غيره، فتكون حائضاً إذا رأت دمَ الحيض، ومستحاضةً إذا رأت غيره، وهي كالطاهرة، وتغسل أثرَ الدم، وتتوضأ لكل صلاةٍ، والحائضُ لا تصلي، ولا تصوم، ولا تُوطأ؛ حتى تغتسل بعد الطهر، وتقضي الصيام.",
-              "id": "",
-              "start": 284.343,
-              "end": 322.34
-            }
-          ]
-        },
-        {
-          "type": "fasal",
-          "title_ar": "فَصْلٌ فِي أَحْكَامِ النِّفَاسِ",
-          "title_id": "Fasal — Hukum-hukum Nifas",
-          "start": 323.2,
-          "paragraphs": [
-            {
-              "ar": "والنفاسُ أكثرُه أربعون يوماً، ولا حدَّ لأقلِّه، وهو كالحيض.",
-              "id": "",
-              "start": 326.242,
-              "end": 331.987
-            }
-          ]
-        }
-      ],
-      "srt_source": "01.srt"
-    },
+	{
+	  "no": 1,
+	  "id": "taharah",
+	  "title_ar": "كتاب الطهارة",
+	  "title_id": "Kitab Thaharah (Bersuci)",
+	  "audio_file": "01.%20The%20Book%20of%20At-Taharah%20%28Purification%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D9%87%D8%A7%D8%B1%D8%A9.mp3",
+	  "shamela_url": "https://shamela.ws/book/9293/31",
+	  "sections": [
+		{
+		  "type": "bab",
+		  "no": 1,
+		  "title_ar": "(١ - بَابٌ)",
+		  "title_id": "Bab Pertama — Hukum Air",
+		  "start": 2.533,
+		  "paragraphs": [
+			{
+			  "ar": "هَذَا الْكِتَابُ قَدِ اشْتَمَلَ عَلَى مَسَائِلَ: الْأُولَى: الْمَاءُ طَاهِرٌ مُطَهِّرٌ، لَا يُخْرِجُهُ عَنِ الْوَصْفَيْنِ إِلَّا مَا غَيَّرَ رِيحَهُ، أَوْ لَوْنَهُ، أَوْ طَعْمَهُ مِنَ النَّجَاسَاتِ، وَعَنِ الثَّانِي مَا أَخْرَجَهُ عَنِ اسْمِ الْمَاءِ الْمُطْلَقِ مِنَ الْمُغَيِّرَاتِ الطَّاهِرَةِ، وَلَا فَرْقَ بَيْنَ قَلِيلٍ وَكَثِيرٍ، وَمَا فَوْقَ الْقُلَّتَيْنِ وَمَا دُونَهُمَا، وَمُتَحَرِّكٍ وَسَاكِنٍ، وَمُسْتَعْمَلٍ وَغَيْرِ مُسْتَعْمَلٍ.",
+			  "id": "Kitab ini mencakup beberapa masalah. Pertama: air itu suci dan mensucikan, tidak keluar dari kedua sifat tersebut kecuali karena najis yang mengubah bau, warna, atau rasanya. Adapun sifat 'mensucikan' hilang darinya sebutan air mutlak karena bercampur zat-zat suci yang mengubahnya. Tidak ada perbedaan antara air sedikit dan banyak, air yang mencapai dua qullah atau kurang darinya, air yang mengalir atau diam, serta air yang telah dipakai (musta'mal) atau belum dipakai.",
+			  "start": 4.535,
+			  "end": 34.259
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 2,
+		  "title_ar": "(٢ - بَابُ النَّجَاسَاتِ)",
+		  "title_id": "Bab Kedua — Najis-najis",
+		  "start": 35.259,
+		  "paragraphs": [
+			{
+			  "ar": "وَالنَّجَاسَاتُ هِيَ غَائِطُ الْإِنْسَانِ مُطْلَقًا، وَبَوْلُهُ - إِلَّا الذَّكَرَ الرَّضِيعَ -، وَلُعَابُ كَلْبٍ، وَرَوْثٌ، وَدَمُ حَيْضٍ، وَلَحْمُ خِنْزِيرٍ، وَفِيمَا عَدَا ذَلِكَ خِلَافٌ، وَالْأَصْلُ الطَّهَارَةُ؛ فَلَا يُنْقَلُ عَنْهَا إِلَّا نَاقِلٌ صَحِيحٌ لَمْ يُعَارِضْهُ مَا يُسَاوِيهِ أَوْ يُقَدَّمُ عَلَيْهِ.",
+			  "id": "Najis-najis itu adalah: kotoran manusia secara mutlak, air kencingnya (kecuali bayi laki-laki yang masih menyusu), air liur anjing, kotoran hewan, darah haid, dan daging babi. Adapun selain itu masih diperselisihkan ulama, sedangkan hukum asal segala sesuatu adalah suci; maka tidak berpindah dari kesucian itu kecuali dengan dalil shahih yang tidak ditentang oleh dalil yang sebanding atau lebih kuat darinya.",
+			  "start": 37.28,
+			  "end": 52.95
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ",
+		  "title_id": "Fasal — Cara Mensucikan Najis",
+		  "start": 54.451,
+		  "paragraphs": [
+			{
+			  "ar": "وَيَطْهُرُ مَا يَتَنَجَّسُ بِغَسْلِهِ، حَتَّى لَا يَبْقَى لَهَا عَيْنٌ، وَلَا لَوْنٌ، وَلَا رِيحٌ، وَلَا طَعْمٌ، وَالنَّعْلُ بِالْمَسْحِ، وَالِاسْتِحَالَةُ مُطَهِّرَةٌ لِعَدَمِ وُجُودِ الْوَصْفِ الْمَحْكُومِ عَلَيْهِ، وَمَا لَا يُمْكِنُ غَسْلُهُ فَبِالصَّبِّ عَلَيْهِ أَوِ النَّزْحِ مِنْهُ؛ حَتَّى لَا يَبْقَى لِلنَّجَاسَةِ أَثَرٌ.",
+			  "id": "Sesuatu yang terkena najis menjadi suci dengan dicuci, hingga tidak tersisa lagi wujud, warna, bau, maupun rasa najis. Sandal (yang terkena najis) cukup disucikan dengan mengusapnya. Istihalah (perubahan zat najis menjadi zat lain) juga mensucikan, karena hilangnya sifat yang menjadi sebab hukum najis tersebut. Sesuatu yang tidak mungkin dicuci, disucikan dengan menyiramkan air ke atasnya atau menguras airnya, hingga tidak tersisa lagi bekas najis.",
+			  "start": 57.811,
+			  "end": 76.64
+			},
+			{
+			  "ar": "وَالْمَاءُ هُوَ الْأَصْلُ فِي التَّطْهِيرِ؛ فَلَا يَقُومُ غَيْرُهُ مَقَامَهُ إِلَّا بِإِذْنٍ مِنَ الشَّارِعِ.",
+			  "id": "Air adalah unsur pokok dalam bersuci; tidak ada yang dapat menggantikan kedudukannya kecuali dengan izin dari Pembuat syariat (Allah dan Rasul-Nya).",
+			  "start": 82.323,
+			  "end": 89.739
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 3,
+		  "title_ar": "(٣ - بَابُ قَضَاءِ الْحَاجَةِ)",
+		  "title_id": "Bab Ketiga — Adab Buang Hajat",
+		  "start": 91.12,
+		  "paragraphs": [
+			{
+			  "ar": "عَلَى الْمُتَخَلِّي الِاسْتِتَارُ حَتَّى يَدْنُوَ مِنَ الْأَرْضِ، وَالْبُعْدُ أَوْ دُخُولُ الْكَنِيفِ، وَتَرْكُ الْكَلَامِ، وَالْمُلَابَسَةُ لِمَا لَهُ حُرْمَةٌ، وَتَجَنُّبُ الْأَمْكِنَةِ الَّتِي مُنِعَ عَنِ التَّخَلِّي فِيهَا شَرْعًا أَوْ عُرْفًا، وَعَدَمُ الِاسْتِقْبَالِ، وَالِاسْتِدْبَارِ لِلْقِبْلَةِ، وَعَلَيْهِ الِاسْتِجْمَارُ بِثَلَاثَةِ أَحْجَارٍ طَاهِرَةٍ، أَوْ مَا يَقُومُ مَقَامَهَا، وَيُنْدَبُ الِاسْتِعَاذَةُ عِنْدَ الشُّرُوعِ، وَالِاسْتِغْفَارُ وَالْحَمْدُ بَعْدَ الْفَرَاغِ.",
+			  "id": "Orang yang buang hajat wajib menutup diri hingga dekat ke tanah, menjauh dari orang lain atau masuk ke tempat tertutup, tidak berbicara, tidak membawa sesuatu yang memiliki kehormatan, menghindari tempat-tempat yang dilarang untuk buang hajat baik oleh syariat maupun adat, serta tidak menghadap dan tidak membelakangi kiblat. Ia wajib beristijmar dengan tiga batu yang suci atau yang semisalnya. Disunnahkan membaca ta'awudz ketika hendak masuk, serta beristighfar dan bertahmid setelah selesai.",
+			  "start": 93.861,
+			  "end": 130.192
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 4,
+		  "title_ar": "(٤ - بَابُ الْوُضُوءِ)",
+		  "title_id": "Bab Keempat — Wudhu",
+		  "start": 131.832,
+		  "paragraphs": [
+			{
+			  "ar": "يَجِبُ عَلَى كُلِّ مُكَلَّفٍ أَنْ يُسَمِّيَ إِذَا ذَكَرَ، وَيَتَمَضْمَضَ وَيَسْتَنْشِقَ، ثُمَّ يَغْسِلَ جَمِيعَ وَجْهِهِ، ثُمَّ يَدَيْهِ مَعَ مِرْفَقَيْهِ، ثُمَّ يَمْسَحَ رَأْسَهُ مَعَ أُذُنَيْهِ، وَيُجْزِئُ مَسْحُ بَعْضِهِ، وَالْمَسْحُ عَلَى الْعِمَامَةِ، ثُمَّ يَغْسِلَ رِجْلَيْهِ مَعَ الْكَعْبَيْنِ، وَلَهُ الْمَسْحُ عَلَى الْخُفَّيْنِ.",
+			  "id": "Setiap mukallaf wajib membaca basmalah jika ingat, berkumur-kumur dan menghirup air ke hidung (istinsyaq), kemudian membasuh seluruh wajahnya, lalu kedua tangan beserta sikunya, kemudian mengusap kepala beserta kedua telinganya —cukup mengusap sebagiannya, dan boleh mengusap di atas surban—, kemudian membasuh kedua kaki beserta mata kaki. Ia juga boleh mengusap di atas dua khuf (sepatu khusus).",
+			  "start": 133.674,
+			  "end": 160.89
+			},
+			{
+			  "ar": "وَلَا يَكُونُ وُضُوءًا شَرْعِيًّا إِلَّا بِالنِّيَّةِ لِاسْتِبَاحَةِ الصَّلَاةِ.",
+			  "id": "Wudhu tidak dianggap sah secara syar'i kecuali disertai niat untuk membolehkan dilaksanakannya shalat.",
+			  "start": 161.311,
+			  "end": 163.853
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ",
+		  "title_id": "Fasal — Sunnah-sunnah dalam Wudhu",
+		  "start": 164.914,
+		  "paragraphs": [
+			{
+			  "ar": "يُسْتَحَبُّ التَّثْلِيثُ فِي غَيْرِ الرَّأْسِ، وَإِطَالَةُ الْغُرَّةِ وَالتَّحْجِيلِ، وَتَقْدِيمُ السِّوَاكِ، وَغَسْلُ الْيَدَيْنِ إِلَى الرُّسْغَيْنِ - ثَلَاثًا - قَبْلَ الشُّرُوعِ فِي غَسْلِ الْأَعْضَاءِ الْمُتَقَدِّمَةِ.",
+			  "id": "Disunnahkan membasuh tiga kali pada anggota wudhu selain kepala, memanjangkan ghurrah dan tahjil (membasuh melebihi batas wajah dan tangan/kaki), mendahulukan bersiwak, serta membasuh kedua telapak tangan hingga pergelangan sebanyak tiga kali sebelum memulai membasuh anggota-anggota wudhu yang telah disebutkan.",
+			  "start": 168.478,
+			  "end": 183.216
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
+		  "title_id": "Fasal — Pembatal-pembatal Wudhu",
+		  "start": 184.836,
+		  "paragraphs": [
+			{
+			  "ar": "وَيَنْتَقِضُ الْوُضُوءُ بِمَا خَرَجَ مِنَ الْفَرْجَيْنِ مِنْ عَيْنٍ أَوْ رِيحٍ، وَبِمَا يُوجِبُ الْغُسْلَ، وَنَوْمِ الْمُضْطَجِعِ، وَأَكْلِ لَحْمِ الْإِبِلِ، وَالْقَيْءِ، وَنَحْوِهِ، وَمَسِّ الذَّكَرِ.",
+			  "id": "Wudhu batal karena keluarnya sesuatu dari dua kemaluan (qubul dan dubur), baik berupa benda maupun angin, karena sesuatu yang mewajibkan mandi, tidur dalam keadaan berbaring, memakan daging unta, muntah dan yang semisalnya, serta menyentuh kemaluan.",
+			  "start": 187.818,
+			  "end": 201.388
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 5,
+		  "title_ar": "(٥ - بَابُ الْغُسْلِ)",
+		  "title_id": "Bab Kelima — Mandi (Ghusl)",
+		  "start": 202.569,
+		  "paragraphs": [
+			{
+			  "ar": "يَجِبُ بِخُرُوجِ الْمَنِيِّ بِشَهْوَةٍ - وَلَوْ بِتَفَكُّرٍ -، وَبِالْتِقَاءِ الْخِتَانَيْنِ، وَبِانْقِطَاعِ الْحَيْضِ وَالنِّفَاسِ، وَبِالِاحْتِلَامِ - مَعَ وُجُودِ بَلَلٍ -، وَبِالْمَوْتِ، وَبِالْإِسْلَامِ.",
+			  "id": "Mandi wajib dilakukan karena keluarnya mani disertai syahwat —sekalipun hanya karena berpikir tanpa jimak—, karena bertemunya dua khitan (jimak), karena berhentinya darah haid dan nifas, karena mimpi basah (dengan adanya bekas basah), karena kematian, dan karena masuk Islam.",
+			  "start": 204.689,
+			  "end": 219.213
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي صِفَةِ الْغُسْلِ",
+		  "title_id": "Fasal — Tata Cara Mandi Wajib",
+		  "start": 220.574,
+		  "paragraphs": [
+			{
+			  "ar": "وَالْغُسْلُ الْوَاجِبُ هُوَ: أَنْ يُفِيضَ الْمَاءَ عَلَى جَمِيعِ بَدَنِهِ، أَوْ يَنْغَمِسَ فِيهِ، مَعَ الْمَضْمَضَةِ وَالِاسْتِنْشَاقِ، وَالدَّلْكِ لِمَا يُمْكِنُ دَلْكُهُ، وَلَا يَكُونُ شَرْعِيًّا إِلَّا بِالنِّيَّةِ لِرَفْعِ مُوجِبِهِ، وَنُدِبَ تَقْدِيمُ غَسْلِ أَعْضَاءِ الْوُضُوءِ إِلَّا الْقَدَمَيْنِ، ثُمَّ التَّيَامُنُ.",
+			  "id": "Mandi wajib adalah mengalirkan air ke seluruh tubuh, atau membenamkan diri di dalamnya, disertai berkumur-kumur dan istinsyaq, serta menggosok bagian tubuh yang memungkinkan untuk digosok. Mandi tidak sah secara syar'i kecuali dengan niat menghilangkan hadats yang mewajibkannya. Disunnahkan mendahulukan membasuh anggota-anggota wudhu kecuali kedua kaki, kemudian mendahulukan anggota tubuh sebelah kanan.",
+			  "start": 223.334,
+			  "end": 245.639
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي الْأَغْسَالِ الْمَشْرُوعَةِ",
+		  "title_id": "Fasal — Mandi-mandi yang Disyariatkan",
+		  "start": 246.96,
+		  "paragraphs": [
+			{
+			  "ar": "وَيُشْرَعُ لِصَلَاةِ الْجُمُعَةِ، وَالْعِيدَيْنِ، وَلِمَنْ غَسَّلَ مَيِّتًا، وَلِلْإِحْرَامِ، وَلِدُخُولِ مَكَّةَ.",
+			  "id": "Mandi disyariatkan untuk shalat Jum'at, shalat dua hari raya, bagi orang yang memandikan jenazah, untuk ihram, dan untuk memasuki kota Makkah.",
+			  "start": 250.203,
+			  "end": 258.728
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 6,
+		  "title_ar": "(٦ - بَابُ التَّيَمُّمِ)",
+		  "title_id": "Bab Keenam — Tayamum",
+		  "start": 259.788,
+		  "paragraphs": [
+			{
+			  "ar": "يُسْتَبَاحُ بِهِ مَا يُسْتَبَاحُ بِالْوُضُوءِ وَالْغُسْلِ، لِمَنْ لَا يَجِدُ الْمَاءَ، أَوْ خَشِيَ الضَّرَرَ مِنِ اسْتِعْمَالِهِ، وَأَعْضَاؤُهُ: الْوَجْهُ ثُمَّ الْكَفَّانِ، يَمْسَحُهُمَا مَرَّةً بِضَرْبَةٍ وَاحِدَةً، نَاوِيًا مُسَمِّيًا، وَنَوَاقِضُهُ نَوَاقِضُ الْوُضُوءِ.",
+			  "id": "Dengan tayamum, dibolehkan segala sesuatu yang dibolehkan dengan wudhu dan mandi, bagi orang yang tidak menemukan air atau khawatir akan bahaya dari penggunaannya. Anggota tayamum adalah wajah kemudian kedua telapak tangan, diusap satu kali dengan sekali tepukan, disertai niat dan membaca basmalah. Pembatal-pembatal tayamum sama dengan pembatal-pembatal wudhu.",
+			  "start": 261.73,
+			  "end": 282.122
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 7,
+		  "title_ar": "(٧ - بَابُ الْحَيْضِ)",
+		  "title_id": "Bab Ketujuh — Haid",
+		  "start": 282.922,
+		  "paragraphs": [
+			{
+			  "ar": "لَمْ يَأْتِ فِي تَقْدِيرِ أَقَلِّهِ وَأَكْثَرِهِ مَا تَقُومُ بِهِ الْحُجَّةُ، وَكَذَلِكَ الطُّهْرُ، فَذَاتُ الْعَادَةِ الْمُتَقَرِّرَةِ تَعْمَلُ عَلَيْهَا، وَغَيْرُهَا تَرْجِعُ إِلَى الْقَرَائِنِ، فَدَمُ الْحَيْضِ يَتَمَيَّزُ مِنْ غَيْرِهِ، فَتَكُونُ حَائِضًا إِذَا رَأَتْ دَمَ الْحَيْضِ، وَمُسْتَحَاضَةً إِذَا رَأَتْ غَيْرَهُ، وَهِيَ كَالطَّاهِرَةِ، وَتَغْسِلُ أَثَرَ الدَّمِ، وَتَتَوَضَّأُ لِكُلِّ صَلَاةٍ، وَالْحَائِضُ لَا تُصَلِّي، وَلَا تَصُومُ، وَلَا تُوطَأُ؛ حَتَّى تَغْتَسِلَ بَعْدَ الطُّهْرِ، وَتَقْضِيَ الصِّيَامَ.",
+			  "id": "Tidak terdapat dalil yang kuat mengenai batas minimal dan maksimal masa haid, begitu pula masa suci. Maka wanita yang memiliki kebiasaan haid yang tetap berpegang pada kebiasaannya, sedangkan wanita lainnya kembali kepada tanda-tanda darah. Darah haid dapat dibedakan dari darah lainnya; maka seorang wanita dihukumi haid apabila melihat darah haid, dan dihukumi istihadhah apabila melihat darah selainnya —ia dihukumi seperti wanita suci, mencuci bekas darah, dan berwudhu untuk setiap shalat. Wanita haid tidak boleh shalat, tidak boleh puasa, dan tidak boleh digauli, hingga ia mandi setelah suci, dan wajib mengqadha puasa yang ditinggalkannya.",
+			  "start": 284.343,
+			  "end": 322.34
+			}
+		  ]
+		},
+		{
+		  "type": "fasal",
+		  "title_ar": "فَصْلٌ فِي أَحْكَامِ النِّفَاسِ",
+		  "title_id": "Fasal — Hukum-hukum Nifas",
+		  "start": 323.2,
+		  "paragraphs": [
+			{
+			  "ar": "وَالنِّفَاسُ أَكْثَرُهُ أَرْبَعُونَ يَوْمًا، وَلَا حَدَّ لِأَقَلِّهِ، وَهُوَ كَالْحَيْضِ.",
+			  "id": "Masa nifas paling lama adalah empat puluh hari, dan tidak ada batasan minimal baginya. Hukum nifas sama seperti hukum haid.",
+			  "start": 326.242,
+			  "end": 331.987
+			}
+		  ]
+		}
+	  ],
+	  "srt_source": "01.srt"
+	},
     {
       "no": 2,
       "id": "salah",
