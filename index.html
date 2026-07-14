@@ -149,6 +149,27 @@
     direction:ltr;
   }
   .topbar .spacer{flex:1;}
+
+  .harakat-toggle{
+    display:flex;align-items:center;gap:8px;
+    color:var(--muted-text);font-family:var(--font-ui);
+    font-size:.72rem;white-space:nowrap;
+  }
+  .harakat-toggle .harakat-label{direction:rtl;}
+  .switch{position:relative;display:inline-block;width:36px;height:20px;flex:0 0 auto;}
+  .switch input{opacity:0;width:0;height:0;position:absolute;}
+  .switch-slider{
+    position:absolute;inset:0;cursor:pointer;
+    background:var(--ink-2);border:1px solid var(--panel-line);
+    border-radius:20px;transition:.15s;
+  }
+  .switch-slider::before{
+    content:"";position:absolute;height:14px;width:14px;left:2px;top:2px;
+    background:var(--muted-text);border-radius:50%;transition:.15s;
+  }
+  .switch input:checked + .switch-slider{background:var(--gold-soft);border-color:var(--gold);}
+  .switch input:checked + .switch-slider::before{transform:translateX(16px);background:var(--parchment);}
+
   #menuToggle{
     display:none;
     background:none;border:1px solid var(--panel-line);
@@ -185,51 +206,27 @@
     color:#6b5c3e;font-size:1rem;margin:0;
   }
 
-  /* audio player */
-  .player{
-    margin:22px 0 30px;
-    background:#fff;
-    border:1px solid var(--parchment-2);
-    border-radius:6px;
-    padding:14px 16px;
-    box-shadow:0 2px 10px rgba(40,33,26,.06);
+  /* book source link (replaces the old standalone audio player panel) */
+  .book-source-link{
+    display:inline-block;margin-top:10px;
+    font-family:var(--font-ui);font-size:.76rem;
+    color:#8a7a55;text-decoration:none;border-bottom:1px dotted #8a7a55;
   }
-  .player .player-label{
-    font-size:.72rem;color:#8a7a55;margin-bottom:8px;
-    display:flex;justify-content:space-between;align-items:center;
-    font-family:var(--font-ui);
-  }
-  .player .src-link{color:#8a7a55;text-decoration:none;border-bottom:1px dotted #8a7a55;}
-  .player .src-link:hover{color:var(--rubric);}
+  .book-source-link:hover{color:var(--rubric);border-color:var(--rubric);}
 
-  .player-controls{display:flex;align-items:center;gap:14px;}
-  .play-btn{
-    flex:0 0 auto;width:42px;height:42px;border-radius:50%;
+  /* per-title play/pause button (bab & fasal headings) */
+  .sec-play-btn{
+    flex:0 0 auto;width:28px;height:28px;border-radius:50%;
     background:var(--rubric);color:#fff;border:none;cursor:pointer;
-    font-size:1rem;display:flex;align-items:center;justify-content:center;
-    box-shadow:0 2px 6px rgba(154,65,48,.35);
+    font-size:.72rem;display:flex;align-items:center;justify-content:center;
+    box-shadow:0 2px 6px rgba(154,65,48,.3);
     transition:background .15s, transform .1s;
+    padding:0;
   }
-  .play-btn:hover{background:#7f342a;}
-  .play-btn:active{transform:scale(.94);}
-  .seek-wrap{flex:1;min-width:0;}
-  .seek-wrap input[type=range]{
-    -webkit-appearance:none;appearance:none;
-    width:100%;height:4px;border-radius:2px;
-    background:var(--parchment-2);outline:none;cursor:pointer;
-    accent-color:#9a4130;
-  }
-  .seek-wrap input[type=range]::-webkit-slider-thumb{
-    -webkit-appearance:none;appearance:none;
-    width:13px;height:13px;border-radius:50%;
-    background:var(--rubric);cursor:pointer;
-    box-shadow:0 0 0 3px rgba(154,65,48,.15);
-  }
-  .time-row{
-    display:flex;justify-content:space-between;
-    font-size:.68rem;color:#a3956f;margin-top:4px;
-    font-family:var(--font-ui);
-  }
+  .sec-play-btn:hover{background:#7f342a;}
+  .sec-play-btn:active{transform:scale(.92);}
+  .sec-play-btn.active{background:var(--gold);box-shadow:0 2px 6px rgba(185,146,79,.4);}
+  .section-block--fasal .sec-play-btn{width:23px;height:23px;font-size:.62rem;}
 
   /* section roundel marker (signature element) */
   .section-block{margin:34px 0;}
@@ -257,12 +254,13 @@
 
   .para{
     margin:0 0 22px;
-    padding:8px 10px;
+    padding:10px 12px;
     border-radius:5px;
     cursor:pointer;
+    background:rgba(185,146,79,.055);
     transition:background .2s;
   }
-  .para:hover{background:rgba(185,146,79,.08);}
+  .para:hover{background:rgba(185,146,79,.12);}
   .para.active{background:#f3e6c6;box-shadow:inset 3px 0 0 var(--rubric);}
   .para-ar{
     font-family:var(--font-ar);font-size:1.5rem;line-height:2.15;
@@ -353,6 +351,7 @@
 
   @media (max-width: 860px){
     #menuToggle{display:flex;align-items:center;justify-content:center;}
+    .harakat-toggle .harakat-label{display:none;}
     #sidebar{
       position:fixed;top:56px;right:0;bottom:0;
       transform:translateX(100%);
@@ -409,6 +408,13 @@
   <div class="topbar">
     <div class="brand">الدرر البهية<small>Ad-Durar Al-Bahiyyah &middot; asy-Syaukani</small></div>
     <div class="spacer"></div>
+    <div class="harakat-toggle" title="Tampilkan teks Arab tanpa harakat">
+      <span class="harakat-label">بدون تشكيل</span>
+      <label class="switch">
+        <input type="checkbox" id="harakatCheckbox">
+        <span class="switch-slider"></span>
+      </label>
+    </div>
     <button id="menuToggle" aria-label="Buka daftar kitab">☰</button>
   </div>
 
@@ -518,44 +524,37 @@
     var html = '';
     html += '<div class="book-header">';
     html += '  <div class="book-eyebrow">Kitab ' + String(book.no).padStart(2,"0") + ' &middot; ' + (idx+1) + ' dari ' + DATA.books.length + '</div>';
-    html += '  <h1 class="book-title-ar">' + book.title_ar + '</h1>';
+    html += '  <h1 class="book-title-ar" data-ar-full="' + encodeURIComponent(book.title_ar) + '">' + escapeHtml(book.title_ar) + '</h1>';
     html += '  <p class="book-title-id">' + book.title_id + '</p>';
+    html += '  <a class="book-source-link" href="' + book.shamela_url + '" target="_blank" rel="noopener">Rujukan teks di Shamela ↗</a>';
     html += '</div>';
 
-    html += '<div class="player">';
-    html += '  <div class="player-label"><span>🔊 Murottal &mdash; ' + book.title_id + '</span>' +
-            '<a class="src-link" href="' + book.shamela_url + '" target="_blank" rel="noopener">Rujukan teks di Shamela ↗</a></div>';
-    html += '  <div class="player-controls">';
-    html += '    <button id="playPauseBtn" class="play-btn" aria-label="Putar/Jeda" type="button">▶</button>';
-    html += '    <div class="seek-wrap">';
-    html += '      <input type="range" id="seekBar" min="0" max="100" step="0.1" value="0">';
-    html += '      <div class="time-row"><span id="curTime">0:00</span><span id="durTime">0:00</span></div>';
-    html += '    </div>';
-    html += '  </div>';
-    html += '  <audio id="bookAudio" preload="none" src="' + DATA.meta.audio_base + book.audio_file + '"></audio>';
-    html += '</div>';
+    html += '<audio id="bookAudio" preload="none" src="' + DATA.meta.audio_base + book.audio_file + '"></audio>';
 
     if(!book.sections || book.sections.length === 0){
       html += '<div class="empty-state">';
       html += '  <div class="icon">📜</div>';
       html += '  <h3>Teks &amp; terjemahan belum diisi</h3>';
-      html += '  <p>Audio kitab ini sudah tersedia di atas. Teks Arab dan terjemahan Indonesia per kalimat ' +
+      html += '  <p>Audio kitab ini sudah tersedia. Teks Arab dan terjemahan Indonesia per kalimat ' +
               'akan ditambahkan pada <code>data.json</code>, di dalam larik <code>sections</code> milik kitab ini.</p>';
       html += '</div>';
     } else {
       book.sections.forEach(function(sec){
         var blockClass = "section-block" + (sec.type === "fasal" ? " section-block--fasal" : "");
+        var secSeek = sec.start != null ? sec.start : 0;
         html += '<div class="' + blockClass + '">';
-        html += '  <div class="section-marker" data-seek="' + (sec.start != null ? sec.start : 0) + '">' + roundelSVG() +
+        html += '  <div class="section-marker" data-seek="' + secSeek + '">' +
+                '    <button class="sec-play-btn" data-play-seek="' + secSeek + '" aria-label="Putar/Jeda bagian ini" type="button">▶</button>' +
+                roundelSVG() +
                 '    <div class="section-titles">' +
-                '      <div class="section-title-ar">' + (sec.title_ar || '') + '</div>' +
+                '      <div class="section-title-ar" data-ar-full="' + encodeURIComponent(sec.title_ar || '') + '">' + escapeHtml(sec.title_ar || '') + '</div>' +
                 (sec.title_id ? '<div class="section-title-id">' + sec.title_id + '</div>' : '') +
                 '    </div>' +
                 '  </div>';
         html += '  <div class="section-rule"></div>';
         (sec.paragraphs || []).forEach(function(p){
           html += '<div class="para" data-start="' + p.start + '" data-end="' + p.end + '" data-seek="' + p.start + '">';
-          html += '  <div class="para-ar">' + (p.ar || '') + '</div>';
+          html += '  <div class="para-ar" data-ar-full="' + encodeURIComponent(p.ar || '') + '">' + escapeHtml(p.ar || '') + '</div>';
           html += '  <div class="para-id' + (p.id ? '' : ' placeholder') + '">' + (p.id || 'Terjemahan belum diisi.') + '</div>';
           html += '</div>';
         });
@@ -565,42 +564,21 @@
 
     document.getElementById("contentInner").innerHTML = html;
     document.getElementById("content").scrollTop = 0;
-    wirePlayer();
+    applyGundulMode();
+    wireAudioEvents();
     wireSeekableElements();
+    wireSectionPlayButtons();
   }
 
   // ---------- CUSTOM AUDIO PLAYER ----------
-  function fmtTime(s){
-    if(!isFinite(s) || s < 0){ return "0:00"; }
-    var m = Math.floor(s/60), sec = Math.floor(s%60);
-    return m + ":" + (sec < 10 ? "0" : "") + sec;
-  }
-
-  function wirePlayer(){
+  function wireAudioEvents(){
     var audioEl = document.getElementById("bookAudio");
-    var playBtn = document.getElementById("playPauseBtn");
-    var seekBar = document.getElementById("seekBar");
-    var curTimeEl = document.getElementById("curTime");
-    var durTimeEl = document.getElementById("durTime");
     if(!audioEl){ return; }
-
-    playBtn.addEventListener("click", function(){
-      if(audioEl.paused){ audioEl.play(); } else { audioEl.pause(); }
-    });
-    audioEl.addEventListener("play", function(){ playBtn.textContent = "❚❚"; });
-    audioEl.addEventListener("pause", function(){ playBtn.textContent = "▶"; });
-    audioEl.addEventListener("ended", function(){ playBtn.textContent = "▶"; });
-    audioEl.addEventListener("loadedmetadata", function(){
-      seekBar.max = audioEl.duration;
-      durTimeEl.textContent = fmtTime(audioEl.duration);
-    });
+    audioEl.addEventListener("play", function(){ updatePlaybackUI(audioEl.currentTime, true); });
+    audioEl.addEventListener("pause", function(){ updatePlaybackUI(audioEl.currentTime, false); });
+    audioEl.addEventListener("ended", function(){ updatePlaybackUI(audioEl.currentTime, false); });
     audioEl.addEventListener("timeupdate", function(){
-      seekBar.value = audioEl.currentTime;
-      curTimeEl.textContent = fmtTime(audioEl.currentTime);
-      highlightActiveParagraph(audioEl.currentTime);
-    });
-    seekBar.addEventListener("input", function(){
-      audioEl.currentTime = parseFloat(seekBar.value);
+      updatePlaybackUI(audioEl.currentTime, !audioEl.paused);
     });
   }
 
@@ -617,6 +595,48 @@
     });
   }
 
+  function getActiveSectionSeek(t){
+    var markers = document.querySelectorAll(".sec-play-btn[data-play-seek]");
+    var candidate = null;
+    markers.forEach(function(el){
+      var s = parseFloat(el.getAttribute("data-play-seek"));
+      if(!isNaN(s) && s <= t){
+        if(candidate === null || s > candidate){ candidate = s; }
+      }
+    });
+    return candidate;
+  }
+
+  function wireSectionPlayButtons(){
+    var audioEl = document.getElementById("bookAudio");
+    document.querySelectorAll(".sec-play-btn").forEach(function(btn){
+      btn.addEventListener("click", function(e){
+        e.stopPropagation();
+        var seek = parseFloat(btn.getAttribute("data-play-seek"));
+        if(!audioEl || isNaN(seek)){ return; }
+        var activeSeek = getActiveSectionSeek(audioEl.currentTime);
+        if(!audioEl.paused && activeSeek !== null && Math.abs(activeSeek - seek) < 0.001){
+          audioEl.pause();
+        } else {
+          audioEl.currentTime = seek;
+          audioEl.play();
+        }
+      });
+    });
+  }
+
+  function updatePlaybackUI(t, isPlaying){
+    highlightActiveParagraph(t);
+
+    var activeSeek = isPlaying ? getActiveSectionSeek(t) : null;
+    document.querySelectorAll(".sec-play-btn").forEach(function(btn){
+      var seek = parseFloat(btn.getAttribute("data-play-seek"));
+      var isActive = isPlaying && activeSeek !== null && Math.abs(seek - activeSeek) < 0.001;
+      btn.textContent = isActive ? "❚❚" : "▶";
+      btn.classList.toggle("active", isActive);
+    });
+  }
+
   function highlightActiveParagraph(t){
     var paras = document.querySelectorAll(".para[data-start]");
     paras.forEach(function(el){
@@ -626,6 +646,34 @@
       el.classList.toggle("active", isActive);
     });
   }
+
+  // ---------- ARABIC TEXT HELPERS (gundul / no-harakat toggle) ----------
+  var GUNDUL = (localStorage.getItem("durar_gundul") === "1");
+
+  function escapeHtml(s){
+    return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  }
+
+  function stripHarakat(s){
+    // Removes Arabic combining diacritics (fatha, kasra, damma, sukun, tanwin,
+    // shadda, superscript alef, small high marks, quranic annotation marks, etc.)
+    return String(s).replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED\u08D4-\u08E1\u08E3-\u08FF\uFC5E-\uFC63\uFE70-\uFE7F]/g, "");
+  }
+
+  function applyGundulMode(){
+    document.querySelectorAll("[data-ar-full]").forEach(function(el){
+      var full = decodeURIComponent(el.getAttribute("data-ar-full"));
+      el.textContent = GUNDUL ? stripHarakat(full) : full;
+    });
+  }
+
+  var harakatCheckbox = document.getElementById("harakatCheckbox");
+  harakatCheckbox.checked = GUNDUL;
+  harakatCheckbox.addEventListener("change", function(){
+    GUNDUL = harakatCheckbox.checked;
+    localStorage.setItem("durar_gundul", GUNDUL ? "1" : "0");
+    applyGundulMode();
+  });
 
   // ---------- SIDEBAR (mobile toggle) ----------
   var sidebar = document.getElementById("sidebar");
