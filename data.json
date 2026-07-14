@@ -231,15 +231,247 @@
 	  ],
 	  "srt_source": "01.srt"
 	},
-    {
-      "no": 2,
-      "id": "salah",
-      "title_ar": "كتاب الصلاة",
-      "title_id": "Kitab Shalat",
-      "audio_file": "02.%20The%20Book%20of%20As-Salah%20%28Prayer%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9.mp3",
-      "shamela_url": "https://shamela.ws/book/9293/34",
-      "sections": []
-    },
+	{
+	  "no": 2,
+	  "id": "shalat",
+	  "title_ar": "كتاب الصلاة",
+	  "title_id": "Kitab Shalat",
+	  "shamela_url": "https://shamela.ws/book/9293/34",
+	  "sections": [
+		{
+		  "type": "bab",
+		  "no": 1,
+		  "title_ar": "(١ - بَابُ مَوَاقِيتِ الصَّلَاةِ)",
+		  "title_id": "Bab Pertama — Waktu-waktu Shalat",
+		  "start": 2.121,
+		  "paragraphs": [
+			{
+			  "ar": "أَوَّلُ وَقْتِ الظُّهْرِ الزَّوَالُ، وَآخِرُهُ مَصِيرُ ظِلِّ الشَّيْءِ مِثْلَهُ - سِوَى فَيْءِ الزَّوَالِ -، وَهُوَ أَوَّلُ وَقْتِ الْعَصْرِ، وَآخِرُهُ مَا دَامَتِ الشَّمْسُ بَيْضَاءَ نَقِيَّةً، وَأَوَّلُ وَقْتِ الْمَغْرِبِ غُرُوبُ الشَّمْسِ، وَآخِرُهُ ذَهَابُ الشَّفَقِ الْأَحْمَرِ، وَهُوَ أَوَّلُ الْعِشَاءِ، وَآخِرُهُ نِصْفُ اللَّيْلِ، وَأَوَّلُ وَقْتِ الْفَجْرِ إِذَا انْشَقَّ الْفَجْرُ، وَآخِرُهُ طُلُوعُ الشَّمْسِ، وَمَنْ نَامَ عَنْ صَلَاتِهِ أَوْ سَهَا عَنْهَا فَوَقْتُهَا حِينَ يَذْكُرُهَا، وَمَنْ كَانَ مَعْذُورًا وَأَدْرَكَ مِنَ الصَّلَاةِ رَكْعَةً فَقَدْ أَدْرَكَهَا، وَالتَّوْقِيتُ وَاجِبٌ، وَالْجَمْعُ لِعُذْرٍ جَائِزٌ، وَالْمُتَيَمِّمُ وَنَاقِصُ الصَّلَاةِ - أَوِ الطَّهَارَةِ - يُصَلُّونَ كَغَيْرِهِمْ مِنْ غَيْرِ تَأْخِيرٍ، وَأَوْقَاتُ الْكَرَاهَةِ - فِي غَيْرِ مَكَّةَ -: بَعْدَ الْفَجْرِ حَتَّى تَرْتَفِعَ الشَّمْسُ، وَعِنْدَ الزَّوَالِ - فِي غَيْرِ يَوْمِ الْجُمُعَةِ -، وَبَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ.",
+			  "id": "Awal waktu Zhuhur adalah tergelincirnya matahari (zawal), dan akhirnya adalah ketika bayangan suatu benda sama panjang dengannya —tidak termasuk bayangan awal saat zawal—, dan itulah awal waktu Ashar, yang berakhir selama matahari masih berwarna putih bersih (belum menguning). Awal waktu Maghrib adalah terbenamnya matahari, berakhir dengan hilangnya mega merah, yang sekaligus menjadi awal waktu Isya, berakhir pada tengah malam. Awal waktu Shubuh adalah saat terbitnya fajar, berakhir dengan terbitnya matahari. Barangsiapa tertidur atau lupa dari shalatnya, maka waktunya adalah ketika ia mengingatnya. Barangsiapa memiliki uzur lalu sempat mendapati satu rakaat dari shalat, maka ia telah dianggap mendapatkannya. Menunaikan shalat tepat waktu hukumnya wajib, dan menjamak shalat karena uzur dibolehkan. Orang yang bertayamum dan orang yang shalat/bersucinya belum sempurna tetap shalat sebagaimana orang lain tanpa menunda. Adapun waktu-waktu yang dimakruhkan untuk shalat —di luar Makkah— adalah: setelah Shubuh hingga matahari naik, saat matahari tergelincir (kecuali hari Jum'at), dan setelah Ashar hingga matahari terbenam.",
+			  "start": 4.782,
+			  "end": 68.643
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 2,
+		  "title_ar": "(٢ - بَابُ الْأَذَانِ)",
+		  "title_id": "Bab Kedua — Adzan",
+		  "start": 69.323,
+		  "paragraphs": [
+			{
+			  "ar": "يُشْرَعُ لِأَهْلِ كُلِّ بَلَدٍ أَنْ يَتَّخِذُوا مُؤَذِّنًا؛ يُنَادِي بِأَلْفَاظِ الْأَذَانِ الْمَشْرُوعَةِ عِنْدَ دُخُولِ وَقْتِ الصَّلَاةِ، وَيُشْرَعُ لِلسَّامِعِ أَنْ يُتَابِعَ الْمُؤَذِّنَ، ثُمَّ تُشْرَعُ الْإِقَامَةُ عَلَى الصِّفَةِ الْوَارِدَةِ.",
+			  "id": "Disyariatkan bagi penduduk setiap negeri untuk mengangkat seorang muadzin yang menyerukan lafal-lafal adzan yang disyariatkan ketika masuk waktu shalat. Disyariatkan pula bagi yang mendengarnya untuk mengikuti ucapan muadzin. Kemudian disyariatkan iqamat sesuai lafal yang telah diriwayatkan.",
+			  "start": 70.944,
+			  "end": 88.581
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 3,
+		  "title_ar": "(٣ - بَابُ شُرُوطِ الصَّلَاةِ)",
+		  "title_id": "Bab Ketiga — Syarat-syarat Shalat",
+		  "start": 89.462,
+		  "paragraphs": [
+			{
+			  "ar": "وَيَجِبُ عَلَى الْمُصَلِّي تَطْهِيرُ ثَوْبِهِ وَبَدَنِهِ وَمَكَانِهِ مِنَ النَّجَاسَةِ، وَسَتْرُ عَوْرَتِهِ؛ وَلَا يَشْتَمِلُ الصَّمَّاءَ، وَلَا يَسْدُلُ، وَلَا يُسْبِلُ، وَلَا يَكْفِتُ، وَلَا يُصَلِّي فِي ثَوْبِ حَرِيرٍ، وَلَا ثَوْبِ شُهْرَةٍ، وَلَا مَغْصُوبٍ، وَعَلَيْهِ اسْتِقْبَالُ عَيْنِ الْكَعْبَةِ - إِنْ كَانَ مُشَاهِدًا لَهَا أَوْ فِي حُكْمِ الْمُشَاهِدِ -، وَغَيْرُ الْمُشَاهِدِ يَسْتَقْبِلُ الْجِهَةَ بَعْدَ التَّحَرِّي.",
+			  "id": "Orang yang hendak shalat wajib mensucikan pakaian, badan, dan tempatnya dari najis, serta menutup auratnya. Ia tidak boleh melilitkan kain menutupi seluruh tubuh tanpa celah (isytimal ash-shamma'), tidak boleh membiarkan kain terjulur menutupi wajah (sadl), tidak boleh memanjangkan pakaian melebihi mata kaki karena sombong (isbal), dan tidak boleh menyingsingkan pakaian atau rambut (kaft) ketika shalat. Ia juga tidak boleh shalat dengan mengenakan kain sutra, pakaian untuk mencari popularitas, atau pakaian hasil rampasan (ghasab). Ia wajib menghadap langsung ke arah Ka'bah apabila dapat melihatnya atau berada dalam hukum orang yang melihatnya; sedangkan yang tidak dapat melihatnya cukup menghadap ke arahnya setelah berusaha mencari arah yang benar (ijtihad).",
+			  "start": 91.683,
+			  "end": 122.631
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 4,
+		  "title_ar": "(٤ - بَابُ كَيْفِيَّةِ الصَّلَاةِ)",
+		  "title_id": "Bab Keempat — Tata Cara Shalat",
+		  "start": 123.652,
+		  "paragraphs": [
+			{
+			  "ar": "لَا تَكُونُ شَرْعِيَّةً إِلَّا بِالنِّيَّةِ، وَأَرْكَانُهَا كُلُّهَا مُفْتَرَضَةٌ؛ إِلَّا قُعُودَ التَّشَهُّدِ الْأَوْسَطِ وَالِاسْتِرَاحَةَ، وَلَا يَجِبُ مِنْ أَذْكَارِهَا إِلَّا التَّكْبِيرُ؛ وَالْفَاتِحَةُ فِي كُلِّ رَكْعَةٍ - وَلَوْ كَانَ مُؤْتَمًّا -، وَالتَّشَهُّدُ الْأَخِيرُ، وَالتَّسْلِيمُ، وَمَا عَدَا ذَلِكَ فَسُنَنٌ، وَهِيَ: الرَّفْعُ فِي الْمَوَاضِعِ الْأَرْبَعَةِ، وَالضَّمُّ، وَالتَّوَجُّهُ بَعْدَ التَّكْبِيرَةِ، وَالتَّعَوُّذُ، وَالتَّأْمِينُ، وَقِرَاءَةُ غَيْرِ الْفَاتِحَةِ مَعَهَا، وَالتَّشَهُّدُ الْأَوْسَطُ، وَالْأَذْكَارُ الْوَارِدَةُ فِي كُلِّ رُكْنٍ، وَالِاسْتِكْثَارُ مِنَ الدُّعَاءِ بِخَيْرَيِ الدُّنْيَا وَالْآخِرَةِ؛ بِمَا وَرَدَ وَبِمَا لَمْ يَرِدْ.",
+			  "id": "Shalat tidak sah secara syar'i kecuali dengan niat. Seluruh rukunnya wajib (fardhu), kecuali duduk tasyahud awal dan duduk istirahat. Adapun bacaan yang wajib dalam shalat hanyalah takbiratul ihram, membaca Al-Fatihah pada setiap rakaat —sekalipun sebagai makmum—, tasyahud akhir, dan salam. Selain itu semuanya sunnah, yaitu: mengangkat kedua tangan pada empat tempat, meletakkan tangan kanan di atas tangan kiri (sedekap), doa iftitah setelah takbiratul ihram, ta'awudz, membaca amin, membaca surat lain setelah Al-Fatihah, tasyahud awal, dzikir-dzikir yang diriwayatkan pada setiap rukun, serta memperbanyak doa kebaikan dunia dan akhirat, baik doa yang ada dalilnya maupun yang tidak.",
+			  "start": 125.974,
+			  "end": 176.006
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 5,
+		  "title_ar": "(٥ - بَابُ مَتَى تَبْطُلُ الصَّلَاةُ؟ وَعَمَّنْ تَسْقُطُ؟)",
+		  "title_id": "Bab Kelima — Pembatal Shalat dan Gugurnya Kewajiban Shalat",
+		  "start": 176.686,
+		  "paragraphs": [
+			{
+			  "ar": "وَتَبْطُلُ الصَّلَاةُ بِالْكَلَامِ، وَبِالِاشْتِغَالِ بِمَا لَيْسَ مِنْهَا، وَبِتَرْكِ شَرْطٍ أَوْ رُكْنٍ عَمْدًا.",
+			  "id": "Shalat menjadi batal karena berbicara, karena sibuk dengan sesuatu yang bukan bagian darinya, dan karena sengaja meninggalkan salah satu syarat atau rukun shalat.",
+			  "start": 179.167,
+			  "end": 186.750
+			},
+			{
+			  "ar": "وَلَا تَجِبُ عَلَى غَيْرِ مُكَلَّفٍ، وَتَسْقُطُ عَمَّنْ عَجَزَ عَنِ الْإِشَارَةِ، وَعَمَّنْ أُغْمِيَ عَلَيْهِ حَتَّى خَرَجَ وَقْتُهَا، وَيُصَلِّي الْمَرِيضُ قَائِمًا، ثُمَّ قَاعِدًا، ثُمَّ عَلَى جَنْبٍ.",
+			  "id": "Shalat tidak diwajibkan atas orang yang belum mukallaf (belum baligh dan berakal), dan gugur kewajibannya dari orang yang tidak mampu berisyarat sekalipun, serta dari orang yang pingsan hingga waktu shalat tersebut habis. Orang yang sakit shalat dengan berdiri; jika tidak mampu maka duduk; jika tidak mampu maka berbaring miring.",
+			  "start": 190.892,
+			  "end": 207.167
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 6,
+		  "title_ar": "(٦ - بَابُ صَلَاةِ التَّطَوُّعِ)",
+		  "title_id": "Bab Keenam — Shalat Tathawwu' (Sunnah)",
+		  "start": 208.468,
+		  "paragraphs": [
+			{
+			  "ar": "هِيَ أَرْبَعٌ قَبْلَ الظُّهْرِ، وَأَرْبَعٌ بَعْدَهُ، وَأَرْبَعٌ قَبْلَ الْعَصْرِ، وَرَكْعَتَانِ بَعْدَ الْمَغْرِبِ، وَرَكْعَتَانِ بَعْدَ الْعِشَاءِ، وَرَكْعَتَانِ قَبْلَ صَلَاةِ الْفَجْرِ، وَصَلَاةُ الضُّحَى، وَصَلَاةُ اللَّيْلِ - وَأَكْثَرُهَا ثَلَاثَ عَشْرَةَ رَكْعَةً؛ يُوتِرُ فِي آخِرِهَا بِرَكْعَةٍ -، وَتَحِيَّةُ الْمَسْجِدِ، وَالِاسْتِخَارَةُ، وَرَكْعَتَانِ بَيْنَ كُلِّ أَذَانٍ وَإِقَامَةٍ.",
+			  "id": "Shalat sunnah itu meliputi: empat rakaat sebelum Zhuhur, empat rakaat sesudahnya, empat rakaat sebelum Ashar, dua rakaat sesudah Maghrib, dua rakaat sesudah Isya, dua rakaat sebelum Shubuh, shalat Dhuha, dan shalat malam —yang paling banyak tiga belas rakaat, ditutup dengan satu rakaat witir—, juga shalat Tahiyyatul Masjid, shalat Istikharah, serta dua rakaat di antara setiap adzan dan iqamat.",
+			  "start": 210.670,
+			  "end": 238.911
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 7,
+		  "title_ar": "(٧ - بَابُ صَلَاةِ الْجَمَاعَةِ)",
+		  "title_id": "Bab Ketujuh — Shalat Berjamaah",
+		  "start": 239.770,
+		  "paragraphs": [
+			{
+			  "ar": "هِيَ مِنْ آكَدِ السُّنَنِ؛ وَتَنْعَقِدُ بِاثْنَيْنِ، وَإِذَا كَثُرَ الْجَمْعُ؛ كَانَ الثَّوَابُ أَكْثَرَ، وَتَصِحُّ بَعْدَ الْمُفَضُّولِ، وَالْأَوْلَى أَنْ يَكُونَ الْإِمَامُ مِنَ الْخِيَارِ، وَيَؤُمُّ الرَّجُلُ بِالنِّسَاءِ - لَا الْعَكْسُ -، وَالْمُفْتَرِضُ بِالْمُتَنَفِّلِ - وَالْعَكْسُ -، وَتَجِبُ الْمُتَابَعَةُ فِي غَيْرِ مُبْطِلٍ، وَلَا يَؤُمُّ الرَّجُلُ قَوْمًا هُمْ لَهُ كَارِهُونَ، وَيُصَلِّي بِهِمْ صَلَاةَ أَخَفِّهِمْ، وَيُقَدَّمُ السُّلْطَانُ، وَرَبُّ الْمَنْزِلِ، وَالْأَقْرَأُ، ثُمَّ الْأَعْلَمُ، ثُمَّ الْأَسَنُّ، وَإِذَا اخْتَلَّتْ صَلَاةُ الْإِمَامِ؛ كَانَ ذَلِكَ عَلَيْهِ لَا عَلَى الْمُؤْتَمِّينَ بِهِ، وَمَوْقِفُهُمْ خَلْفَهُ؛ إِلَّا الْوَاحِدَ فَعَنْ يَمِينِهِ، وَإِمَامَةُ النِّسَاءِ وَسْطَ الصَّفِّ، وَتَتَقَدَّمُ صُفُوفُ الرِّجَالِ، ثُمَّ الصِّبْيَانِ، ثُمَّ النِّسَاءِ، وَالْأَحَقُّ بِالصَّفِّ الْأَوَّلِ أُولُو الْأَحْلَامِ وَالنُّهَى، وَعَلَى الْجَمَاعَةِ أَنْ يُسَوُّوا صُفُوفَهُمْ، وَأَنْ يَسُدُّوا الْخَلَلَ، وَأَنْ يُتِمُّوا الصَّفَّ الْأَوَّلَ، ثُمَّ الَّذِي يَلِيهِ، ثُمَّ كَذَلِكَ.",
+			  "id": "Shalat berjamaah termasuk sunnah yang paling ditekankan; sah dengan minimal dua orang, dan semakin banyak jamaah semakin besar pahalanya. Shalat berjamaah tetap sah meski di belakang imam yang kurang utama (mafdhul). Yang paling utama, imam dipilih dari orang-orang terbaik. Laki-laki boleh mengimami para wanita, namun tidak sebaliknya. Orang yang shalat fardhu boleh menjadi makmum di belakang orang yang shalat sunnah, dan begitu pula sebaliknya. Makmum wajib mengikuti gerakan imam selama tidak membatalkan shalat. Seseorang tidak boleh menjadi imam bagi kaum yang membencinya, dan hendaknya ia shalat mengikuti kadar kemampuan jamaah yang paling ringan. Yang lebih berhak menjadi imam secara berurutan adalah: penguasa, pemilik rumah, orang yang paling baik bacaan Al-Qur'annya, kemudian yang paling berilmu, kemudian yang paling tua. Apabila shalat imam mengalami kekeliruan, tanggung jawabnya ada pada imam, bukan pada makmum. Posisi makmum berada di belakang imam, kecuali jika hanya seorang diri maka ia berdiri di sebelah kanan imam. Imam wanita berdiri di tengah shaf. Shaf laki-laki didahulukan, kemudian shaf anak-anak, kemudian shaf wanita. Yang paling berhak berada di shaf pertama adalah orang-orang yang telah baligh dan berakal sempurna. Setiap jamaah wajib meluruskan shaf mereka, menutup celah kosong, serta menyempurnakan shaf pertama terlebih dahulu, kemudian shaf berikutnya, dan begitu seterusnya.",
+			  "start": 241.991,
+			  "end": 313.809
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 8,
+		  "title_ar": "(٨ - بَابُ سُجُودِ السَّهْوِ)",
+		  "title_id": "Bab Kedelapan — Sujud Sahwi",
+		  "start": 314.408,
+		  "paragraphs": [
+			{
+			  "ar": "وَهُوَ سَجْدَتَانِ قَبْلَ التَّسْلِيمِ أَوْ بَعْدَهُ؛ بِإِحْرَامٍ، وَتَشَهُّدٍ، وَتَحْلِيلٍ، وَيُشْرَعُ لِتَرْكِ مَسْنُونٍ، وَلِلزِّيَادَةِ - وَلَوْ رَكْعَةً - سَهْوًا، وَلِلشَّكِّ فِي الْعَدَدِ، وَإِذَا سَجَدَ الْإِمَامُ تَابَعَهُ الْمُؤْتَمُّ.",
+			  "id": "Sujud sahwi adalah dua kali sujud yang dilakukan sebelum atau sesudah salam, diawali dengan takbiratul ihram, disertai tasyahud, dan diakhiri dengan salam. Sujud sahwi disyariatkan karena meninggalkan suatu perkara sunnah, karena kelebihan rakaat akibat lupa —sekalipun kelebihan satu rakaat—, dan karena ragu terhadap jumlah rakaat yang telah dikerjakan. Apabila imam melakukan sujud sahwi, maka makmum wajib mengikutinya.",
+			  "start": 316.329,
+			  "end": 333.376
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 9,
+		  "title_ar": "(٩ - بَابُ الْقَضَاءِ لِلْفَوَائِتِ)",
+		  "title_id": "Bab Kesembilan — Qadha Shalat yang Terlewat",
+		  "start": 334.436,
+		  "paragraphs": [
+			{
+			  "ar": "إِنْ كَانَ التَّرْكُ عَمْدًا لَا لِعُذْرٍ؛ فَدَيْنُ اللَّهِ تَعَالَى أَحَقُّ أَنْ يُقْضَى، وَإِنْ كَانَ بِعُذْرٍ، فَلَيْسَ بِقَضَاءٍ؛ بَلْ أَدَاءٌ فِي وَقْتِ زَوَالِ الْعُذْرِ؛ إِلَّا صَلَاةَ الْعِيدِ؛ فَفِي ثَانِيهِ.",
+			  "id": "Apabila seseorang meninggalkan shalat dengan sengaja tanpa uzur, maka hutang kepada Allah Ta'ala lebih berhak untuk ditunaikan (diqadha). Namun jika ditinggalkan karena uzur, maka pelaksanaannya kemudian bukanlah qadha, melainkan tetap dianggap sebagai pelaksanaan tepat waktu (ada') pada saat uzur tersebut hilang, kecuali shalat 'Id, maka qadhanya dilakukan pada hari kedua.",
+			  "start": 336.997,
+			  "end": 352.019
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 10,
+		  "title_ar": "(١٠ - بَابُ صَلَاةِ الْجُمُعَةِ)",
+		  "title_id": "Bab Kesepuluh — Shalat Jum'at",
+		  "start": 353.080,
+		  "paragraphs": [
+			{
+			  "ar": "تَجِبُ عَلَى كُلِّ مُكَلَّفٍ؛ إِلَّا الْمَرْأَةَ، وَالْعَبْدَ، وَالْمُسَافِرَ، وَالْمَرِيضَ، وَهِيَ كَسَائِرِ الصَّلَوَاتِ؛ لَا تُخَالِفُهَا إِلَّا فِي مَشْرُوعِيَّةِ الْخُطْبَتَيْنِ قَبْلَهَا، وَوَقْتُهَا وَقْتُ الظُّهْرِ، وَعَلَى مَنْ حَضَرَهَا أَنْ لَا يَتَخَطَّى رِقَابَ النَّاسِ، وَأَنْ يُنْصِتَ حَالَ الْخُطْبَتَيْنِ، وَنُدِبَ لَهُ التَّبْكِيرُ، وَالتَّطَيُّبُ، وَالتَّجَمُّلُ، وَالدُّنُوُّ مِنَ الْإِمَامِ، وَمَنْ أَدْرَكَ رَكْعَةً مِنْهَا؛ فَقَدْ أَدْرَكَهَا، وَهِيَ فِي يَوْمِ الْعِيدِ رُخْصَةٌ.",
+			  "id": "Shalat Jum'at wajib bagi setiap mukallaf, kecuali wanita, budak, musafir, dan orang sakit. Hukumnya sama seperti shalat-shalat lainnya, tidak berbeda kecuali pada disyariatkannya dua khutbah sebelumnya. Waktunya sama dengan waktu Zhuhur. Orang yang menghadirinya wajib untuk tidak melangkahi pundak-pundak orang lain, serta wajib diam mendengarkan ketika kedua khutbah berlangsung. Disunnahkan baginya datang lebih awal, memakai wewangian, berhias rapi, dan mendekat kepada imam. Barangsiapa mendapati satu rakaat darinya, ia telah mendapatkan shalat Jum'at secara sempurna. Kewajiban Jum'at menjadi keringanan apabila bertepatan dengan hari raya ('Id).",
+			  "start": 355.040,
+			  "end": 390.474
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 11,
+		  "title_ar": "(١١ - بَابُ صَلَاةِ الْعِيدَيْنِ)",
+		  "title_id": "Bab Kesebelas — Shalat Dua Hari Raya",
+		  "start": 391.294,
+		  "paragraphs": [
+			{
+			  "ar": "هِيَ رَكْعَتَانِ؛ فِي الْأُولَى سَبْعُ تَكْبِيرَاتٍ قَبْلَ الْقِرَاءَةِ، وَفِي الثَّانِيَةِ خَمْسٌ كَذَلِكَ، وَيَخْطُبُ بَعْدَهَا، وَيُسْتَحَبُّ التَّجَمُّلُ، وَالْخُرُوجُ إِلَى خَارِجِ الْبَلَدِ، وَمُخَالَفَةُ الطَّرِيقِ، وَالْأَكْلُ قَبْلَ الْخُرُوجِ فِي الْفِطْرِ دُونَ الْأَضْحَى، وَوَقْتُهَا بَعْدَ ارْتِفَاعِ الشَّمْسِ قَدْرَ رُمْحٍ إِلَى الزَّوَالِ، وَلَا أَذَانَ فِيهَا وَلَا إِقَامَةَ.",
+			  "id": "Shalat dua hari raya terdiri dari dua rakaat: pada rakaat pertama terdapat tujuh kali takbir sebelum membaca Al-Fatihah, dan pada rakaat kedua lima kali takbir. Setelahnya imam berkhutbah. Disunnahkan berhias rapi, keluar menuju tempat lapang di luar kota, mengambil jalan berbeda antara pergi dan pulang, serta makan terlebih dahulu sebelum berangkat khusus pada Idul Fitri (bukan Idul Adha). Waktunya dimulai setelah matahari naik setinggi tombak hingga tergelincirnya matahari. Tidak ada adzan maupun iqamat pada shalat ini.",
+			  "start": 393.215,
+			  "end": 421.033
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 12,
+		  "title_ar": "(١٢ - بَابُ صَلَاةِ الْخَوْفِ)",
+		  "title_id": "Bab Kedua Belas — Shalat Khauf (Dalam Keadaan Takut/Perang)",
+		  "start": 421.814,
+		  "paragraphs": [
+			{
+			  "ar": "قَدْ صَلَّاهَا رَسُولُ اللَّهِ ﷺ عَلَى صِفَاتٍ مُخْتَلِفَةٍ؛ وَكُلُّهَا مُجْزِئَةٌ، وَإِذَا اشْتَدَّ الْخَوْفُ وَالْتَحَمَ الْقِتَالُ؛ صَلَّاهَا الرَّاجِلُ وَالرَّاكِبُ - وَلَوْ إِلَى غَيْرِ الْقِبْلَةِ وَلَوْ بِالْإِيمَاءِ -.",
+			  "id": "Rasulullah ﷺ telah melaksanakan shalat khauf dengan beberapa tata cara yang berbeda-beda, dan semuanya sah untuk diamalkan. Apabila rasa takut semakin mencekam dan pertempuran telah berkecamuk, maka shalat tetap dilaksanakan baik dalam keadaan berjalan kaki maupun berkendaraan, sekalipun tidak menghadap kiblat dan sekalipun hanya dengan isyarat.",
+			  "start": 423.715,
+			  "end": 441.164
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 13,
+		  "title_ar": "(١٣ - بَابُ صَلَاةِ السَّفَرِ)",
+		  "title_id": "Bab Ketiga Belas — Shalat Safar (Qashar)",
+		  "start": 442.272,
+		  "paragraphs": [
+			{
+			  "ar": "يَجِبُ الْقَصْرُ عَلَى مَنْ خَرَجَ مِنْ بَلَدِهِ قَاصِدًا لِلسَّفَرِ؛ وَإِنْ كَانَ دُونَ بَرِيدٍ، وَإِذَا أَقَامَ بِبَلَدٍ مُتَرَدِّدًا؛ قَصَرَ إِلَى عِشْرِينَ يَوْمًا، وَإِذَا عَزَمَ عَلَى إِقَامَةِ أَرْبَعٍ؛ أَتَمَّ بَعْدَهَا، وَلَهُ الْجَمْعُ تَقْدِيمًا وَتَأْخِيرًا؛ بِأَذَانٍ وَإِقَامَتَيْنِ.",
+			  "id": "Mengqashar shalat wajib dilakukan oleh siapa saja yang keluar dari negerinya dengan niat bepergian jauh (safar), sekalipun jaraknya kurang dari satu barid. Apabila ia menetap di suatu negeri dalam keadaan ragu (belum menentukan lama tinggal), ia tetap mengqashar hingga dua puluh hari. Namun jika ia berniat menetap selama empat hari atau lebih, maka setelah itu ia wajib menyempurnakan shalatnya. Musafir juga boleh menjamak shalat, baik jamak taqdim maupun ta'khir, cukup dengan satu adzan dan dua iqamat.",
+			  "start": 444.453,
+			  "end": 467.427
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 14,
+		  "title_ar": "(١٤ - بَابُ صَلَاةِ الْكُسُوفَيْنِ)",
+		  "title_id": "Bab Keempat Belas — Shalat Gerhana",
+		  "start": 468.728,
+		  "paragraphs": [
+			{
+			  "ar": "وَهِيَ سُنَّةٌ، وَأَصَحُّ مَا وَرَدَ فِي صِفَتِهَا رَكْعَتَانِ؛ وَفِي كُلِّ رَكْعَةٍ رُكُوعَانِ، وَوَرَدَ ثَلَاثَةٌ، وَأَرْبَعَةٌ، وَخَمْسَةٌ، يَقْرَأُ بَيْنَ كُلِّ رُكُوعَيْنِ، وَوَرَدَ فِي كُلِّ رَكْعَةٍ رُكُوعٌ، وَنُدِبَ الدُّعَاءُ، وَالتَّكْبِيرُ، وَالتَّصَدُّقُ، وَالِاسْتِغْفَارُ.",
+			  "id": "Shalat gerhana hukumnya sunnah. Tata cara paling shahih yang diriwayatkan adalah dua rakaat, dengan dua kali ruku' pada setiap rakaat. Diriwayatkan pula ada yang tiga, empat, dan lima kali ruku' dalam satu rakaat, dengan membaca ayat Al-Qur'an di antara setiap dua ruku'. Diriwayatkan juga cara dengan satu ruku' pada setiap rakaat seperti shalat biasa. Disunnahkan memperbanyak doa, takbir, sedekah, dan istighfar.",
+			  "start": 471.170,
+			  "end": 493.290
+			}
+		  ]
+		},
+		{
+		  "type": "bab",
+		  "no": 15,
+		  "title_ar": "(١٥ - بَابُ صَلَاةِ الِاسْتِسْقَاءِ)",
+		  "title_id": "Bab Kelima Belas — Shalat Istisqa' (Meminta Hujan)",
+		  "start": 494.192,
+		  "paragraphs": [
+			{
+			  "ar": "تُسَنُّ عِنْدَ الْجَدْبِ رَكْعَتَانِ؛ بَعْدَهُمَا خُطْبَةٌ؛ تَتَضَمَّنُ الذِّكْرَ، وَالتَّرْغِيبَ فِي الطَّاعَةِ، وَالزَّجْرَ عَنِ الْمَعْصِيَةِ، وَيَسْتَكْثِرُ الْإِمَامُ وَمَنْ مَعَهُ مِنَ الِاسْتِغْفَارِ، وَالدُّعَاءِ بِرَفْعِ الْجَدْبِ، وَيُحَوِّلُونَ - جَمِيعًا - أَرْدِيَتَهُمْ.",
+			  "id": "Disunnahkan ketika terjadi kekeringan (paceklik) untuk melaksanakan shalat dua rakaat, diikuti khutbah setelahnya. Khutbah tersebut berisi peringatan (dzikir), anjuran taat kepada Allah, dan larangan berbuat maksiat. Imam beserta jamaah memperbanyak istighfar dan doa memohon diangkatnya kekeringan, serta seluruh jamaah membalikkan posisi selendang/pakaian luar mereka (sebagai simbol pengharapan).",
+			  "start": 496.373,
+			  "end": 514.427
+			}
+		  ]
+		}
+	  ],
+	  "srt_source": "02.srt"
+	},
     {
       "no": 3,
       "id": "janaiz",
