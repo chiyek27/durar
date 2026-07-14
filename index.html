@@ -6,6 +6,7 @@
 <title>الدرر البهية — Ad-Durar Al-Bahiyyah</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="/css/arab.css" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Literata:ital,opsz,wght@0,18..72,400;0,18..72,500;0,18..72,600;1,18..72,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
@@ -21,7 +22,7 @@
     --ink-text:#28211a;
     --soft-text:#e6ddc4;
     --muted-text:#a9b8ac;
-    --font-ar:'Amiri', serif;
+    --font-ar:"Conv_original-hafs",'Amiri', serif;
     --font-id:'Literata', serif;
     --font-ui:'Inter', sans-serif;
   }
@@ -388,17 +389,17 @@
     <form id="loginForm" autocomplete="off">
       <div class="field">
         <label for="userInput">Nama pengguna</label>
-        <input id="userInput" type="text" placeholder="muslim" autocomplete="username">
+        <input id="userInput" type="text" value="muslim" autocomplete="username">
       </div>
       <div class="field">
         <label for="passInput">Kata sandi</label>
-        <input id="passInput" type="password" placeholder="••••••••••" autocomplete="current-password">
+        <input id="passInput" type="password" value="addurarulbahiyyah" autocomplete="current-password">
       </div>
       <button type="submit" id="loginBtn">Masuk</button>
       <div id="loginError"></div>
     </form>
     <div class="login-hint">
-      Akun contoh &mdash; user: <b>muslim</b> &nbsp;/&nbsp; sandi: <b>addurarulbahiyyah</b>
+      Hint: <i>muslim / addurarulbahiyyah</i>
     </div>
   </div>
 </div>
