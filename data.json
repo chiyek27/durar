@@ -756,7 +756,23 @@
       "title_id": "Kitab Khumus (Seperlima Harta Rampasan Perang)",
       "audio_file": "05.%20The%20Book%20of%20Al-Khums%20%28One%20Fifth%20%2820%25%29%20of%20the%20War%20Booty%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AE%D9%85%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/43",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٥ - كِتَابُ الْخُمُسِ)",
+          "title_id": "Kitab Khumus — Ghanimah dan Rikaz",
+          "start": 2.864,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ فِيمَا يُغْنَمُ فِي الْقِتَالِ، وَفِي الرِّكَازِ، وَلَا يَجِبُ فِيمَا عَدَا ذَلِكَ، وَمَصْرِفُهُ مِنْ قَوْلِهِ تَعَالَى: {وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ}.",
+              "id": "Khumus (seperlima) wajib dikeluarkan dari harta rampasan perang (ghanimah) dan dari rikaz (harta terpendam peninggalan masa jahiliyah yang ditemukan), dan tidak wajib pada selain keduanya. Golongan penerimanya berdasarkan firman Allah Ta'ala: 'Ketahuilah, sesungguhnya apa saja yang dapat kamu peroleh sebagai rampasan perang, maka sesungguhnya seperlima untuk Allah, Rasul, kerabat Rasul, anak-anak yatim, orang-orang miskin, dan ibnu sabil (orang yang kehabisan bekal dalam perjalanan).' (QS. Al-Anfal: 41)",
+              "start": 2.864,
+              "end": 24.211
+            }
+          ]
+        }
+      ],
+      "srt_source": "05.srt"
     },
     {
       "no": 6,
