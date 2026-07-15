@@ -544,8 +544,9 @@
       book.sections.forEach(function(sec){
         var blockClass = "section-block" + (sec.type === "fasal" ? " section-block--fasal" : "");
         var secSeek = sec.start != null ? sec.start : 0;
+        var secStartAttr = sec.start != null ? ' data-start="' + sec.start + '"' : '';
         html += '<div class="' + blockClass + '">';
-        html += '  <div class="section-marker" data-seek="' + secSeek + '">' +
+        html += '  <div class="section-marker" data-seek="' + secSeek + '"' + secStartAttr + '>' +
                 '    <button class="sec-play-btn" data-play-seek="' + secSeek + '" aria-label="Putar/Jeda bagian ini" type="button">▶</button>' +
                 '    <div class="section-titles">' +
                 '      <div class="section-title-ar" data-ar-full="' + encodeURIComponent(sec.title_ar || '') + '">' + escapeHtml(sec.title_ar || '') + '</div>' +
@@ -565,6 +566,7 @@
 
     document.getElementById("contentInner").innerHTML = html;
     document.getElementById("content").scrollTop = 0;
+    lastActiveAnchorEl = null;
     applyGundulMode();
     wireAudioEvents();
     wireSeekableElements();
@@ -638,13 +640,60 @@
     });
   }
 
+  var lastActiveAnchorEl = null;
+
   function highlightActiveParagraph(t){
+    // 1) sorot (highlight) paragraf yang sedang dibaca, seperti sebelumnya
     var paras = document.querySelectorAll(".para[data-start]");
     paras.forEach(function(el){
       var start = parseFloat(el.getAttribute("data-start"));
       var end = parseFloat(el.getAttribute("data-end"));
       var isActive = t >= start && t < end;
       el.classList.toggle("active", isActive);
+    });
+
+    // 2) tentukan titik "start" mana saja (judul bab/fasal ATAU kalimat/paragraf)
+    //    yang paling baru terlewati oleh waktu audio saat ini, lalu scroll ke situ
+    var activeAnchor = getActiveTimeAnchor(t);
+    if(activeAnchor && activeAnchor !== lastActiveAnchorEl){
+      lastActiveAnchorEl = activeAnchor;
+      scrollParaIntoView(activeAnchor);
+    } else if(!activeAnchor){
+      lastActiveAnchorEl = null;
+    }
+  }
+
+  function getActiveTimeAnchor(t){
+    // Mengumpulkan SEMUA elemen yang punya waktu mulai sendiri:
+    // - .section-marker (judul bab / fasal) yang punya data-start
+    // - .para (kalimat) yang punya data-start
+    // Karena elemen-elemen ini dirender berurutan sesuai urutan waktu dalam
+    // dokumen, elemen terakhir yang data-start <= t adalah anchor yang aktif.
+    var anchors = document.querySelectorAll(".section-marker[data-start], .para[data-start]");
+    var active = null;
+    anchors.forEach(function(el){
+      var start = parseFloat(el.getAttribute("data-start"));
+      if(!isNaN(start) && start <= t){
+        active = el;
+      }
+    });
+    return active;
+  }
+
+  function scrollParaIntoView(el){
+    var container = document.getElementById("content");
+    if(!container){ return; }
+    var containerRect = container.getBoundingClientRect();
+    var elRect = el.getBoundingClientRect();
+    // posisi elemen relatif terhadap area scroll saat ini
+    var elTopWithinContainer = (elRect.top - containerRect.top) + container.scrollTop;
+    // taruh paragraf aktif sedikit di bawah bagian atas viewport (bukan tepat di tengah)
+    // agar konteks kalimat sebelumnya masih terlihat
+    var targetOffset = containerRect.height * 0.28;
+    var targetScrollTop = elTopWithinContainer - targetOffset;
+    container.scrollTo({
+      top: Math.max(targetScrollTop, 0),
+      behavior: "smooth"
     });
   }
 
