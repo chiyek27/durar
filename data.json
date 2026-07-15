@@ -236,6 +236,7 @@
 	  "id": "shalat",
 	  "title_ar": "كتاب الصلاة",
 	  "title_id": "Kitab Shalat",
+	  "audio_file": "02.%20The%20Book%20of%20As-Salah%20%28Prayer%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9.mp3",
 	  "shamela_url": "https://shamela.ws/book/9293/34",
 	  "sections": [
 		{
@@ -479,7 +480,105 @@
       "title_id": "Kitab Jana'iz (Pengurusan Jenazah)",
       "audio_file": "03.%20The%20Book%20of%20Al-Janaa%27iz%20%28Funerals%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2.mp3",
       "shamela_url": "https://shamela.ws/book/9293/39",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٣ - كِتَابُ الْجَنَائِزِ)",
+          "title_id": "Pendahuluan — Adab Menjenguk Orang Sakit dan Sakaratul Maut",
+          "start": 2.201,
+          "paragraphs": [
+            {
+              "ar": "مِنَ السُّنَّةِ عِيَادَةُ الْمَرِيضِ، وَتَلْقِينُ الْمُحْتَضَرِ الشَّهَادَتَيْنِ، وَتَوْجِيهُهُ الْقِبْلَةَ، وَتَغْمِيضُهُ إِذَا مَاتَ، وَقِرَاءَةُ (يس) عَلَيْهِ، وَالْمُبَادَرَةُ بِتَجْهِيزِهِ - إِلَّا لِتَجْوِيزِ حَيَاتِهِ -، وَالْقَضَاءُ لِدَيْنِهِ، وَتَسْجِيَتُهُ، وَيَجُوزُ تَقْبِيلُهُ، وَعَلَى الْمَرِيضِ أَنْ يُحْسِنَ الظَّنَّ بِرَبِّهِ، وَيَتُوبَ إِلَيْهِ، وَيَتَخَلَّصَ عَنْ كُلِّ مَا عَلَيْهِ.",
+              "id": "Termasuk sunnah adalah menjenguk orang sakit, menuntun orang yang menghadapi sakaratul maut untuk mengucapkan dua kalimat syahadat, menghadapkannya ke arah kiblat, memejamkan matanya ketika telah meninggal, membacakan surat Yasin untuknya, serta bersegera mengurus jenazahnya — kecuali jika masih mungkin ia hidup —, melunasi utangnya, menutupi (tubuh)nya dengan kain, dan boleh menciumnya. Orang yang sedang sakit hendaknya berbaik sangka kepada Rabb-nya, bertaubat kepada-Nya, serta membebaskan diri dari segala (hak orang lain) yang menjadi tanggungannya.",
+              "start": 2.201,
+              "end": 31.682
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Memandikan Jenazah",
+          "start": 32.902,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ غُسْلُ الْمَيِّتِ الْمُسْلِمِ عَلَى الْأَحْيَاءِ، وَالْقَرِيبُ أَوْلَى بِالْقَرِيبِ إِذَا كَانَ مِنْ جِنْسِهِ، وَأَحَدُ الزَّوْجَيْنِ بِالْآخَرِ، وَيَكُونُ الْغُسْلُ ثَلَاثًا، أَوْ خَمْسًا، أَوْ أَكْثَرَ؛ بِمَاءٍ وَسِدْرٍ، وَفِي الْآخِرَةِ كَافُورٌ، وَتُقَدَّمُ الْمَيَامِنُ، وَلَا يُغَسَّلُ الشَّهِيدُ.",
+              "id": "Memandikan jenazah muslim merupakan kewajiban (fardhu kifayah) bagi orang-orang yang masih hidup. Kerabat yang lebih dekat lebih berhak memandikannya jika sejenis (sesama laki-laki atau sesama perempuan) dengannya, begitu pula salah satu dari suami-istri berhak memandikan pasangannya. Mandi jenazah dilakukan tiga kali, lima kali, atau lebih, dengan air dan daun bidara (sidr), dan pada basuhan terakhir dicampur kapur barus (kafur). Didahulukan membasuh bagian-bagian kanan tubuh. Orang yang mati syahid tidak dimandikan.",
+              "start": 32.902,
+              "end": 55.038
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي تَكْفِينِ الْمَيِّتِ",
+          "title_id": "Fasal — Mengkafani Jenazah",
+          "start": 55.917,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ تَكْفِينُهُ بِمَا يَسْتُرُهُ وَلَوْ لَمْ يَمْلِكْ غَيْرَهُ، وَلَا بَأْسَ بِالزِّيَادَةِ - مَعَ التَّمَكُّنِ - مِنْ غَيْرِ مُغَالَاةٍ، وَيُكَفَّنُ الشَّهِيدُ فِي ثِيَابِهِ الَّتِي قُتِلَ فِيهَا، وَنُدِبَ تَطْيِيبُ بَدَنِ الْمَيِّتِ وَكَفَنِهِ.",
+              "id": "Mengkafani jenazah dengan sesuatu yang menutup auratnya hukumnya wajib, meskipun ia tidak memiliki kain lain selain yang menutup aurat tersebut. Tidak mengapa menambah lapisan kafan selagi mampu, tanpa berlebih-lebihan. Orang yang mati syahid dikafani dengan pakaian yang ia kenakan saat terbunuh (tanpa dilepas). Disunnahkan mengharumkan tubuh jenazah dan kain kafannya.",
+              "start": 58.298,
+              "end": 75.147
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي صَلَاةِ الْجَنَازَةِ",
+          "title_id": "Fasal — Shalat Jenazah",
+          "start": 76.055,
+          "paragraphs": [
+            {
+              "ar": "وَتَجِبُ الصَّلَاةُ عَلَى الْمَيِّتِ، وَيَقُومُ الْإِمَامُ حِذَاءَ رَأْسِ الرَّجُلِ، وَوَسَطِ الْمَرْأَةِ، وَيُكَبِّرُ أَرْبَعًا أَوْ خَمْسًا، وَيَقْرَأُ بَعْدَ التَّكْبِيرَةِ الْأُولَى الْفَاتِحَةَ وَسُورَةً، وَيَدْعُو بَيْنَ التَّكْبِيرَاتِ بِالْأَدْعِيَةِ الْمَأْثُورَةِ، وَلَا يُصَلَّى عَلَى الْغَالِّ، وَقَاتِلِ نَفْسِهِ، وَالْكَافِرِ، وَالشَّهِيدِ، وَيُصَلَّى عَلَى الْقَبْرِ، وَعَلَى الْغَائِبِ.",
+              "id": "Shalat jenazah hukumnya wajib (fardhu kifayah). Imam berdiri sejajar dengan kepala mayit laki-laki, dan sejajar dengan bagian tengah tubuh mayit perempuan. Takbir dilakukan empat kali atau lima kali. Setelah takbir pertama, dibaca surat Al-Fatihah dan satu surat lainnya. Di antara takbir-takbir dibacakan doa-doa yang ma'tsur (bersumber dari Nabi ﷺ). Tidak boleh dishalati: orang yang berkhianat mengambil harta rampasan perang (ghulul), orang yang bunuh diri, orang kafir, dan orang yang mati syahid. Shalat jenazah boleh dilakukan di atas kubur (bagi yang belum sempat dishalatkan), maupun untuk jenazah yang tidak hadir (shalat ghaib).",
+              "start": 78.536,
+              "end": 106.135
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي الْمَشْيِ بِالْجِنَازَةِ وَاتِّبَاعِهَا",
+          "title_id": "Fasal — Mengiringi dan Mengantar Jenazah",
+          "start": 107.256,
+          "paragraphs": [
+            {
+              "ar": "وَيَكُونُ الْمَشْيُ بِالْجِنَازَةِ سَرِيعًا، وَالْمَشْيُ مَعَهَا، وَالْحَمْلُ لَهَا سُنَّةٌ، وَالْمُتَقَدِّمُ عَلَيْهَا وَالْمُتَأَخِّرُ عَنْهَا سَوَاءٌ، وَيُكْرَهُ الرُّكُوبُ، وَيَحْرُمُ النَّعْيُ، وَالنِّيَاحَةُ، وَاتِّبَاعُهَا بِنَارٍ، وَشَقُّ الْجَيْبِ، وَالدُّعَاءُ بِالْوَيْلِ وَالثُّبُورِ، وَلَا يَقْعُدُ الْمُتَّبِعُ لَهَا حَتَّى تُوضَعَ، وَالْقِيَامُ لَهَا مَنْسُوخٌ.",
+              "id": "Berjalan mengiringi jenazah dilakukan dengan cepat. Berjalan bersamanya dan turut memikulnya adalah sunnah. Kedudukan orang yang berjalan di depan jenazah maupun di belakangnya adalah sama (boleh keduanya). Dimakruhkan berkendaraan bagi yang mengiringi jenazah. Diharamkan mengabarkan kematian dengan cara jahiliyah (na'yu), meratapi mayit (niyahah), mengiringi jenazah dengan membawa api, merobek saku/kerah baju sebagai ungkapan duka, serta berdoa dengan ucapan celaka dan kebinasaan. Orang yang mengiringi jenazah tidak duduk hingga jenazah diletakkan di tanah. Adapun berdiri untuk menghormati jenazah, hukumnya telah dihapus (mansukh).",
+              "start": 111.278,
+              "end": 138.516
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي أَحْكَامِ الدَّفْنِ وَزِيَارَةِ الْقُبُورِ وَالتَّعْزِيَةِ",
+          "title_id": "Fasal — Hukum Penguburan, Ziarah Kubur, dan Ta'ziyah",
+          "start": 139.377,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ دَفْنُ الْمَيِّتِ فِي حُفْرَةٍ تَمْنَعُهُ مِنَ السِّبَاعِ، وَلَا بَأْسَ بِالضَّرْحِ، وَاللَّحْدُ أَوْلَى، وَيُدْخَلُ الْمَيِّتُ مِنْ مُؤَخَّرِ الْقَبْرِ، وَيُوضَعُ عَلَى جَنْبِهِ الْأَيْمَنِ مُسْتَقْبِلًا، وَيُسْتَحَبُّ حَثْوُ التُّرَابِ - مِنْ كُلِّ مَنْ حَضَرَ - ثَلَاثَ حَثَيَاتٍ، وَلَا يُرْفَعُ الْقَبْرُ زِيَادَةً عَلَى شِبْرٍ.",
+              "id": "Menguburkan jenazah wajib dilakukan di dalam liang yang dapat melindunginya dari gangguan binatang buas. Boleh menggunakan liang model dharh (lubang lurus di tengah), namun liang model lahd (lubang menyamping ke arah kiblat) lebih utama. Jenazah dimasukkan dari arah kaki kubur (bagian belakang liang), lalu diletakkan miring menghadap ke kanan (menghadap kiblat). Disunnahkan setiap orang yang hadir menaburkan tanah sebanyak tiga cakupan tangan. Kuburan tidak boleh ditinggikan lebih dari sejengkal.",
+              "start": 144.560,
+              "end": 167.842
+            },
+            {
+              "ar": "وَالزِّيَارَةُ لِلْمَوْتَى مَشْرُوعَةٌ، وَيَقِفُ الزَّائِرُ مُسْتَقْبِلًا لِلْقِبْلَةِ، وَيَحْرُمُ اتِّخَاذُ الْقُبُورِ مَسَاجِدَ، وَزَخْرَفَتُهَا، وَتَسْرِيجُهَا، وَالْقُعُودُ عَلَيْهَا، وَسَبُّ الْأَمْوَاتِ.",
+              "id": "Menziarahi kubur orang-orang yang telah meninggal disyariatkan. Peziarah berdiri menghadap kiblat. Diharamkan menjadikan kuburan sebagai masjid, menghiasinya, menyalakan lampu di atasnya, duduk di atasnya, serta mencaci-maki orang yang telah meninggal.",
+              "start": 168.523,
+              "end": 183.987
+            },
+            {
+              "ar": "وَالتَّعْزِيَةُ مَشْرُوعَةٌ، وَكَذَلِكَ إِهْدَاءُ الطَّعَامِ لِأَهْلِ الْمَيِّتِ.",
+              "id": "Ta'ziyah (menyampaikan bela sungkawa dan menghibur keluarga yang berduka) disyariatkan, begitu pula menghadiahkan makanan kepada keluarga mayit.",
+              "start": 184.669,
+              "end": 189.675
+            }
+          ]
+        }
+      ],
+      "srt_source": "03.srt"
     },
     {
       "no": 4,
@@ -488,7 +587,167 @@
       "title_id": "Kitab Zakat",
       "audio_file": "04.%20The%20Book%20of%20Zakat%20%28Compulsory%20Alms%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/40",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٤ - كِتَابُ الزَّكَاةِ)",
+          "title_id": "Pendahuluan — Kewajiban Zakat",
+          "start": 2.653,
+          "paragraphs": [
+            {
+              "ar": "تَجِبُ فِي الْأَمْوَالِ الَّتِي سَتَأْتِي؛ إِذَا كَانَ الْمَالِكُ مُكَلَّفًا.",
+              "id": "Zakat wajib dikeluarkan pada harta-harta yang akan disebutkan berikut ini, apabila pemiliknya adalah seorang mukallaf (baligh dan berakal).",
+              "start": 2.653,
+              "end": 7.017
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ زَكَاةِ الْحَيَوَانِ",
+          "title_id": "Bab Zakat Hewan Ternak",
+          "start": 8.038,
+          "paragraphs": [
+            {
+              "ar": "إِنَّمَا تَجِبُ مِنْهُ فِي النَّعَمِ، وَهِيَ: الْإِبِلُ، وَالْبَقَرُ، وَالْغَنَمُ.",
+              "id": "Zakat hewan hanya diwajibkan pada hewan ternak (an'am), yaitu: unta, sapi, dan kambing.",
+              "start": 10.480,
+              "end": 16.045
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي زَكَاةِ الْإِبِلِ",
+          "title_id": "Fasal — Zakat Unta",
+          "start": 16.986,
+          "paragraphs": [
+            {
+              "ar": "إِذَا بَلَغَتِ الْإِبِلُ خَمْسًا؛ فَفِيهَا شَاةٌ، ثُمَّ فِي كُلِّ خَمْسٍ شَاةٌ، فَإِذَا بَلَغَتْ خَمْسًا وَعِشْرِينَ؛ فَفِيهَا ابْنَةُ مَخَاضٍ، أَوِ ابْنُ لَبُونٍ، وَفِي سِتٍّ وَثَلَاثِينَ ابْنَةُ لَبُونٍ، وَفِي سِتٍّ وَأَرْبَعِينَ حِقَّةٌ، وَفِي إِحْدَى وَسِتِّينَ جَذَعَةٌ، وَفِي سِتٍّ وَسَبْعِينَ بِنْتَا لَبُونٍ، وَفِي إِحْدَى وَتِسْعِينَ حِقَّتَانِ إِلَى مِئَةٍ وَعِشْرِينَ، فَإِذَا زَادَتْ؛ فَفِي كُلِّ أَرْبَعِينَ ابْنَةُ لَبُونٍ، وَفِي كُلِّ خَمْسِينَ حِقَّةٌ.",
+              "id": "Apabila unta telah mencapai lima ekor, zakatnya seekor kambing, kemudian setiap kelipatan lima ekor zakatnya seekor kambing. Apabila mencapai dua puluh lima ekor, zakatnya seekor unta betina umur masuk tahun kedua (bintu makhadh), atau unta jantan umur masuk tahun kedua (ibnu labun). Pada tiga puluh enam ekor, zakatnya seekor unta betina umur masuk tahun ketiga (bintu labun). Pada empat puluh enam ekor, seekor unta betina umur masuk tahun keempat (hiqqah). Pada enam puluh satu ekor, seekor unta betina umur masuk tahun kelima (jadza'ah). Pada tujuh puluh enam ekor, dua ekor bintu labun. Pada sembilan puluh satu ekor hingga seratus dua puluh ekor, dua ekor hiqqah. Apabila jumlahnya bertambah lebih dari itu, maka setiap kelipatan empat puluh ekor zakatnya seekor bintu labun, dan setiap kelipatan lima puluh ekor seekor hiqqah.",
+              "start": 19.489,
+              "end": 55.003
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي زَكَاةِ الْبَقَرِ",
+          "title_id": "Fasal — Zakat Sapi",
+          "start": 55.864,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ فِي ثَلَاثِينَ مِنَ الْبَقَرِ تَبِيعٌ أَوْ تَبِيعَةٌ، وَفِي أَرْبَعِينَ مُسِنَّةٌ، ثُمَّ كَذَلِكَ.",
+              "id": "Pada tiga puluh ekor sapi, wajib dikeluarkan seekor tabi' (sapi jantan umur satu tahun) atau tabi'ah (sapi betina umur satu tahun). Pada empat puluh ekor, wajib dikeluarkan seekor musinnah (sapi betina umur dua tahun). Selanjutnya, dihitung dengan pola kelipatan yang sama.",
+              "start": 58.666,
+              "end": 65.893
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ فِي زَكَاةِ الْغَنَمِ",
+          "title_id": "Fasal — Zakat Kambing/Domba",
+          "start": 66.853,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ فِي أَرْبَعِينَ مِنَ الْغَنَمِ شَاةٌ إِلَى مِئَةٍ وَإِحْدَى وَعِشْرِينَ، وَفِيهَا شَاتَانِ إِلَى مِئَتَيْنِ وَوَاحِدَةٍ، وَفِيهَا ثَلَاثُ شِيَاهٍ إِلَى ثَلَاثِ مِئَةٍ وَوَاحِدَةٍ، وَفِيهَا أَرْبَعٌ، ثُمَّ فِي كُلِّ مِئَةٍ شَاةٌ.",
+              "id": "Pada empat puluh ekor kambing/domba, wajib dikeluarkan seekor kambing, hingga jumlahnya mencapai seratus dua puluh satu ekor. Pada jumlah tersebut, wajib dua ekor kambing, hingga mencapai dua ratus satu ekor. Pada jumlah tersebut, wajib tiga ekor kambing, hingga mencapai tiga ratus satu ekor. Pada jumlah tersebut, wajib empat ekor kambing. Selanjutnya, setiap kelipatan seratus ekor, wajib dikeluarkan seekor kambing.",
+              "start": 69.296,
+              "end": 87.021
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Larangan Menggabung/Memisah Ternak dan Syarat Hewan yang Diambil untuk Zakat",
+          "start": 88.423,
+          "paragraphs": [
+            {
+              "ar": "وَلَا يُجْمَعُ بَيْنَ مُفْتَرِقٍ مِنَ الْأَنْعَامِ، وَلَا يُفَرَّقُ بَيْنَ مُجْتَمِعٍ خَشْيَةَ الصَّدَقَةِ.",
+              "id": "Tidak boleh menggabungkan hewan ternak yang terpisah kepemilikannya, dan tidak boleh memisahkan hewan ternak yang tergabung, dengan tujuan menghindari kewajiban zakat.",
+              "start": 88.423,
+              "end": 96.147
+            },
+            {
+              "ar": "وَلَا شَيْءَ فِيمَا دُونَ الْفَرِيضَةِ، وَلَا فِي الْأَوْقَاصِ، وَمَا كَانَ مِنْ خَلِيطَيْنِ فَيَتَرَاجَعَانِ بِالسَّوِيَّةِ، وَلَا تُؤْخَذُ هَرِمَةٌ، وَلَا ذَاتُ عَوَارٍ، وَلَا عَيْبٍ، وَلَا صَغِيرَةٌ، وَلَا أَكُولَةٌ، وَلَا رُبَّى، وَلَا مَاخِضٌ، وَلَا فَحْلُ غَنَمٍ.",
+              "id": "Tidak ada kewajiban zakat pada jumlah yang kurang dari nisab yang ditentukan (fardh), begitu pula pada jumlah lebih di antara jenjang nisab (auqash). Apabila ternak berasal dari dua orang yang berserikat, keduanya saling menanggung selisihnya secara adil sesuai proporsi kepemilikan. Tidak boleh diambil untuk zakat: hewan yang sudah tua, hewan yang cacat, hewan yang memiliki aib, hewan yang masih kecil, hewan yang digemukkan untuk disembelih/dikonsumsi, hewan yang baru melahirkan dan sedang menyusui (rubba), hewan yang sedang bunting (makhidh), maupun pejantan kambing.",
+              "start": 96.747,
+              "end": 118.187
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ زَكَاةِ الذَّهَبِ وَالْفِضَّةِ",
+          "title_id": "Bab Zakat Emas dan Perak",
+          "start": 119.088,
+          "paragraphs": [
+            {
+              "ar": "هِيَ - إِذَا حَالَ عَلَى أَحَدِهِمَا الْحَوْلُ - رُبُعُ الْعُشْرِ، وَنِصَابُ الذَّهَبِ عِشْرُونَ دِينَارًا، وَنِصَابُ الْفِضَّةِ مِئَتَا دِرْهَمٍ، وَلَا شَيْءَ فِيمَا دُونَ ذَلِكَ، وَلَا زَكَاةَ فِي غَيْرِهِمَا مِنَ الْجَوَاهِرِ، وَأَمْوَالِ التِّجَارَةِ، وَالْمُسْتَغَلَّاتِ.",
+              "id": "Zakat emas dan perak — apabila telah genap setahun (haul) kepemilikannya — adalah seperempat puluh (2,5%). Nisab emas adalah dua puluh dinar, dan nisab perak adalah dua ratus dirham. Tidak ada kewajiban zakat pada jumlah di bawah nisab tersebut. Tidak ada zakat pada jenis perhiasan/permata lainnya selain emas dan perak, kecuali harta perniagaan dan harta yang dikembangkan/disewakan (mustaghallat).",
+              "start": 122.391,
+              "end": 141.320
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ زَكَاةِ النَّبَاتِ",
+          "title_id": "Bab Zakat Tumbuhan (Hasil Pertanian)",
+          "start": 142.442,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ الْعُشْرُ فِي الْحِنْطَةِ، وَالشَّعِيرِ، وَالذُّرَةِ، وَالتَّمْرِ، وَالزَّبِيبِ؛ وَمَا كَانَ يُسْقَى بِالْمَسْنِيِّ مِنْهَا؛ فَفِيهِ نِصْفُ الْعُشْرِ، وَنِصَابُهَا خَمْسَةُ أَوْسُقٍ، وَلَا شَيْءَ فِيمَا عَدَا ذَلِكَ، كَالْخُضْرَوَاتِ وَغَيْرِهَا، وَيَجِبُ فِي الْعَسَلِ الْعُشْرُ.",
+              "id": "Wajib zakat sepersepuluh (10%) pada gandum, jelai (sya'ir), jagung, kurma, dan kismis. Adapun yang pengairannya menggunakan alat penimba/mesin (bukan air hujan atau sungai), zakatnya setengah dari sepersepuluh (5%). Nisabnya adalah lima wasaq. Tidak ada kewajiban zakat pada selain itu, seperti sayur-mayur dan sejenisnya. Wajib pula zakat sepersepuluh pada madu.",
+              "start": 144.742,
+              "end": 163.751
+            },
+            {
+              "ar": "وَيَجُوزُ تَعْجِيلُ الزَّكَاةِ، وَعَلَى الْإِمَامِ أَنْ يَرُدَّ صَدَقَاتِ أَغْنِيَاءِ كُلِّ مَحَلٍّ فِي فُقَرَائِهِمْ، وَيَبْرَأُ رَبُّ الْمَالِ بِدَفْعِهَا إِلَى السُّلْطَانِ وَإِنْ كَانَ جَائِرًا.",
+              "id": "Boleh mempercepat pembayaran zakat sebelum haul/panen tiba. Imam (pemerintah) wajib mengembalikan/menyalurkan zakat orang-orang kaya di suatu daerah kepada orang-orang fakir di daerah tersebut. Pemilik harta telah terbebas dari kewajiban zakatnya apabila menyerahkannya kepada penguasa (sulthan), sekalipun penguasa tersebut zalim.",
+              "start": 164.431,
+              "end": 177.836
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ مَصَارِفِ الزَّكَاةِ",
+          "title_id": "Bab Golongan Penerima Zakat",
+          "start": 179.017,
+          "paragraphs": [
+            {
+              "ar": "هِيَ ثَمَانِيَةٌ - كَمَا فِي الْآيَةِ -، وَتَحْرُمُ عَلَى بَنِي هَاشِمٍ وَمَوَالِيهِمْ، وَعَلَى الْأَغْنِيَاءِ، وَالْأَقْوِيَاءِ الْمُكْتَسِبِينَ.",
+              "id": "Golongan penerima zakat ada delapan, sebagaimana disebutkan dalam ayat (QS. At-Taubah: 60). Zakat haram diberikan kepada Bani Hasyim dan para mantan budak mereka (mawali), serta kepada orang-orang kaya dan orang-orang kuat yang mampu bekerja/berusaha mencari nafkah.",
+              "start": 181.478,
+              "end": 191.802
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ صَدَقَةِ الْفِطْرِ",
+          "title_id": "Bab Zakat Fitrah",
+          "start": 193.123,
+          "paragraphs": [
+            {
+              "ar": "هِيَ صَاعٌ مِنَ الْقُوتِ الْمُعْتَادِ عَنْ كُلِّ فَرْدٍ، وَالْوُجُوبُ عَلَى سَيِّدِ الْعَبْدِ، وَمُنْفِقِ الصَّغِيرِ، وَنَحْوِهِ، وَيَكُونُ إِخْرَاجُهَا قَبْلَ صَلَاةِ الْعِيدِ.",
+              "id": "Zakat fitrah adalah satu sha' dari makanan pokok yang biasa dikonsumsi, untuk setiap individu. Kewajibannya dibebankan kepada tuan atas budaknya, orang yang menanggung nafkah anak kecil, dan yang semisalnya. Zakat fitrah dikeluarkan sebelum pelaksanaan shalat 'Id.",
+              "start": 195.365,
+              "end": 207.334
+            },
+            {
+              "ar": "وَمَنْ لَا يَجِدُ زِيَادَةً عَلَى قُوتِ يَوْمِهِ وَلَيْلَتِهِ؛ فَلَا فِطْرَةَ عَلَيْهِ، وَمَصْرِفُهَا مَصْرِفُ الزَّكَاةِ.",
+              "id": "Barangsiapa tidak memiliki kelebihan makanan melebihi kebutuhan sehari semalamnya, maka tidak ada kewajiban zakat fitrah atasnya. Penyalurannya sama dengan penyaluran zakat mal, yaitu kepada delapan golongan yang berhak menerimanya.",
+              "start": 208.114,
+              "end": 218.621
+            }
+          ]
+        }
+      ],
+      "srt_source": "04.srt"
     },
     {
       "no": 5,
