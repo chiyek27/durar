@@ -1518,7 +1518,23 @@
       "title_id": "Kitab Nadzar",
       "audio_file": "13.%20The%20Book%20of%20An-Nudhur%20%28Vows%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%86%D8%B0%D8%B1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/57",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٢ - كِتَابُ النَّذْرِ)",
+          "title_id": "Kitab Nadzar",
+          "start": 2.076,
+          "paragraphs": [
+            {
+              "ar": "إِنَّمَا يَصِحُّ إِذَا ابْتُغِيَ وَجْهُ اللَّهِ، فَلَا بُدَّ أَنْ يَكُونَ قُرْبَةً، وَلَا نَذْرَ فِي مَعْصِيَةِ اللَّهِ، وَمِنَ النَّذْرِ فِي الْمَعْصِيَةِ مَا فِيهِ مُخَالَفَةٌ لِلتَّسْوِيَةِ بَيْنَ الْأَوْلَادِ، أَوْ مُفَاضَلَةٌ بَيْنَ الْوَرَثَةِ؛ مُخَالَفَةً لِمَا شَرَعَهُ اللَّهُ تَعَالَى، وَمِنْهُ النَّذْرُ عَلَى الْقُبُورِ، وَعَلَى مَا لَمْ يَأْذَنْ بِهِ اللَّهُ، وَمَنْ أَوْجَبَ عَلَى نَفْسِهِ فِعْلًا لَمْ يَشْرَعْهُ اللَّهُ؛ لَمْ يَجِبْ عَلَيْهِ، وَكَذَلِكَ إِنْ كَانَ مِمَّا شَرَعَهُ اللَّهُ وَهُوَ لَا يُطِيقُهُ، وَمَنْ نَذَرَ نَذْرًا لَمْ يُسَمِّهِ - أَوْ كَانَ مَعْصِيَةً، أَوْ لَا يُطِيقُهُ -؛ فَعَلَيْهِ كَفَّارَةُ يَمِينٍ، وَمَنْ نَذَرَ بِقُرْبَةٍ وَهُوَ مُشْرِكٌ ثُمَّ أَسْلَمَ؛ لَزِمَهُ الْوَفَاءُ، وَلَا يَنْفُذُ النَّذْرُ إِلَّا مِنَ الثُّلُثِ، وَإِذَا مَاتَ النَّاذِرُ بِقُرْبَةٍ، فَفَعَلَهَا عَنْهُ وَلَدُهُ؛ أَجْزَأَهُ ذَلِكَ.",
+              "id": "Nadzar hanya sah apabila diniatkan untuk mencari keridhaan Allah, sehingga wajib berupa suatu bentuk qurbah (amal ketaatan). Tidak ada nadzar dalam perkara maksiat kepada Allah. Termasuk nadzar dalam kemaksiatan adalah nadzar yang mengandung penyimpangan dari kewajiban berlaku adil di antara anak-anak, atau melebihkan sebagian ahli waris atas yang lain, karena hal itu menyalahi apa yang telah disyariatkan Allah Ta'ala. Termasuk pula bernadzar di kuburan-kuburan, dan nadzar atas sesuatu yang tidak diizinkan oleh Allah. Barangsiapa mewajibkan atas dirinya suatu perbuatan yang tidak disyariatkan Allah, maka nadzar tersebut tidak wajib dipenuhi. Demikian pula jika perbuatan tersebut termasuk yang disyariatkan Allah namun ia tidak mampu melaksanakannya. Barangsiapa bernadzar dengan nadzar yang tidak ia tentukan jenisnya -atau nadzar tersebut berupa maksiat, atau ia tidak mampu memenuhinya- maka wajib baginya membayar kafarat sumpah. Barangsiapa bernadzar dengan suatu qurbah ketika ia masih musyrik, kemudian ia masuk Islam, maka wajib baginya memenuhi nadzar tersebut. Nadzar tidak dilaksanakan dari harta warisan kecuali dari sepertiga harta. Apabila orang yang bernadzar meninggal dunia sedangkan ia memiliki tanggungan nadzar berupa qurbah, lalu anaknya melaksanakan nadzar tersebut untuknya, maka hal itu mencukupi (menggugurkan kewajibannya).",
+              "start": 2.076,
+              "end": 62.987
+            }
+          ]
+        }
+      ],
+      "srt_source": "13.srt"
     },
     {
       "no": 14,
@@ -1527,7 +1543,79 @@
       "title_id": "Kitab Ath'imah (Makanan)",
       "audio_file": "14.%20The%20Book%20of%20Al-At%27imah%20%28Foods%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D8%B7%D8%B9%D9%85%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/58",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٣ - كِتَابُ الْأَطْعِمَةِ)",
+          "title_id": "Kitab Ath'imah — Hukum Asal Makanan",
+          "start": 2.828,
+          "paragraphs": [
+            {
+              "ar": "الْأَصْلُ فِي كُلِّ شَيْءٍ الْحِلُّ، وَلَا يَحْرُمُ إِلَّا مَا حَرَّمَهُ اللَّهُ وَرَسُولُهُ، وَمَا سَكَتَا عَنْهُ فَهُوَ عَفْوٌ، فَيَحْرُمُ مَا فِي الْكِتَابِ الْعَزِيزِ، وَكُلُّ ذِي نَابٍ مِنَ السِّبَاعِ، وَكُلُّ ذِي مِخْلَبٍ مِنَ الطَّيْرِ، وَالْحُمُرُ الْإِنْسِيَّةُ، وَالْجَلَّالَةُ قَبْلَ الِاسْتِحَالَةِ، وَالْكِلَابُ، وَالْهِرُّ، وَمَا كَانَ مُسْتَخْبَثًا، وَمَا عَدَا ذَلِكَ فَهُوَ حَلَالٌ.",
+              "id": "Hukum asal segala sesuatu adalah halal, dan tidak ada yang haram kecuali apa yang diharamkan oleh Allah dan Rasul-Nya. Apa yang keduanya diamkan (tidak dijelaskan hukumnya), maka itu dimaafkan (boleh). Yang diharamkan adalah apa yang disebutkan dalam Al-Qur'an, setiap hewan buas yang bertaring, setiap burung yang berkuku tajam (bercakar), keledai jinak, hewan jalalah (pemakan kotoran) sebelum berubah keadaannya, anjing, kucing, dan segala sesuatu yang dianggap kotor atau menjijikkan. Selain itu semuanya halal.",
+              "start": 2.828,
+              "end": 34.033
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الصَّيْدِ",
+          "title_id": "Bab Berburu",
+          "start": 34.873,
+          "paragraphs": [
+            {
+              "ar": "مَا صِيدَ بِالسِّلَاحِ الْجَارِحِ وَالْجَوَارِحِ؛ كَانَ حَلَالًا إِذَا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ، وَمَا صِيدَ بِغَيْرِ ذَلِكَ؛ فَلَا بُدَّ مِنَ التَّذْكِيَةِ، وَإِذَا شَارَكَ الْكَلْبَ الْمُعَلَّمَ كَلْبٌ آخَرُ؛ لَمْ يَحِلَّ صَيْدُهُمَا، وَإِذَا أَكَلَ الْكَلْبُ الْمُعَلَّمُ وَنَحْوُهُ مِنَ الصَّيْدِ؛ لَمْ يَحِلَّ؛ فَإِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ، وَإِذَا وُجِدَ الصَّيْدُ بَعْدَ وُقُوعِ الرَّمِيَّةِ فِيهِ مَيِّتًا - وَلَوْ بَعْدَ أَيَّامٍ - فِي غَيْرِ مَاءٍ؛ كَانَ حَلَالًا مَا لَمْ يُنْتِنْ، أَوْ يُعْلَمْ أَنَّ الَّذِي قَتَلَهُ غَيْرُ سَهْمِهِ.",
+              "id": "Hewan buruan yang diburu dengan senjata tajam atau hewan pemburu terlatih, hukumnya halal apabila disebutkan nama Allah saat memburunya. Adapun yang diburu dengan cara selain itu, maka wajib disembelih terlebih dahulu. Apabila anjing terlatih untuk berburu berbagi buruan dengan anjing lain yang tidak terlatih, maka buruan keduanya tidak halal. Apabila anjing terlatih atau semisalnya memakan sebagian dari buruannya, maka buruan itu tidak halal, karena hal itu menunjukkan ia menangkapnya untuk dirinya sendiri, bukan untuk pemiliknya. Apabila buruan ditemukan dalam keadaan mati setelah terkena lemparan atau panah -sekalipun setelah beberapa hari- di tempat yang tidak berair, maka hukumnya halal selama belum membusuk, atau selama tidak diketahui bahwa yang membunuhnya adalah sebab lain, bukan senjata pemburu tersebut.",
+              "start": 36.835,
+              "end": 77.510
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الذَّبْحِ",
+          "title_id": "Bab Penyembelihan",
+          "start": 78.943,
+          "paragraphs": [
+            {
+              "ar": "هُوَ مَا أَنْهَرَ الدَّمَ، وَفَرَى الْأَوْدَاجَ، وَذُكِرَ اسْمُ اللَّهِ عَلَيْهِ - وَلَوْ بِحَجَرٍ أَوْ نَحْوِهِ -؛ مَا لَمْ يَكُنْ سِنًّا أَوْ ظُفْرًا، وَيَحْرُمُ تَعْذِيبُ الذَّبِيحَةِ، وَالْمُثْلَةُ بِهَا، وَذَبْحُهَا لِغَيْرِ اللَّهِ، وَإِذَا تَعَذَّرَ الذَّبْحُ لِوَجْهٍ؛ جَازَ الطَّعْنُ وَالرَّمْيُ، وَكَانَ ذَلِكَ كَالذَّبْحِ، وَذَكَاةُ الْجَنِينِ ذَكَاةُ أُمِّهِ، وَمَا أُبِينَ مِنَ الْحَيِّ فَهُوَ مَيْتَةٌ، وَيَحِلُّ مَيْتَتَانِ وَدَمَانِ: السَّمَكُ وَالْجَرَادُ، وَالْكَبِدُ وَالطِّحَالُ، وَتَحِلُّ الْمَيْتَةُ لِلْمُضْطَرِّ.",
+              "id": "Penyembelihan yang sah adalah yang mengalirkan darah dan memutuskan urat leher, disertai penyebutan nama Allah -sekalipun menggunakan batu atau semisalnya- selama bukan menggunakan gigi atau kuku. Diharamkan menyiksa hewan sembelihan, memotong-motong tubuhnya, dan menyembelihnya untuk selain Allah. Apabila penyembelihan pada bagian leher tidak memungkinkan karena suatu sebab, maka boleh menusuk atau melemparnya, dan hal itu berkedudukan seperti penyembelihan. Penyembelihan janin dalam kandungan hewan yang disembelih mengikuti hukum penyembelihan induknya. Apa yang terputus dari hewan yang masih hidup, statusnya sama dengan bangkai. Terdapat dua jenis bangkai dan dua jenis darah yang halal: ikan dan belalang, serta hati dan limpa. Bangkai juga halal dimakan bagi orang yang dalam keadaan darurat.",
+              "start": 80.705,
+              "end": 120.760
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الضِّيَافَةِ",
+          "title_id": "Bab Menjamu Tamu",
+          "start": 121.841,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى مَنْ وَجَدَ مَا يَقْرِي بِهِ مَنْ نَزَلَ مِنَ الضُّيُوفِ أَنْ يَفْعَلَ ذَلِكَ، وَحَدُّ الضِّيَافَةِ إِلَى ثَلَاثَةِ أَيَّامٍ، وَمَا كَانَ وَرَاءَ ذَلِكَ فَصَدَقَةٌ، وَلَا يَحِلُّ لِلضَّيْفِ أَنْ يَثْوِيَ عِنْدَهُ حَتَّى يُحْرِجَهُ، وَإِذَا لَمْ يَفْعَلِ الْقَادِرُ عَلَى الضِّيَافَةِ مَا يَجِبُ عَلَيْهِ؛ كَانَ لِلضَّيْفِ أَنْ يَأْخُذَ مِنْ مَالِهِ بِقَدْرِ قِرَاهُ، وَيَحْرُمُ أَكْلُ طَعَامِ الْغَيْرِ بِغَيْرِ إِذْنِهِ، وَمِنْ ذَلِكَ حَلْبُ مَاشِيَتِهِ، وَأَخْذُ ثَمَرَتِهِ وَزَرْعِهِ، لَا يَجُوزُ إِلَّا بِإِذْنِهِ؛ إِلَّا أَنْ يَكُونَ مُحْتَاجًا إِلَى ذَلِكَ؛ فَلْيُنَادِ صَاحِبَ الْإِبِلِ أَوِ الْحَائِطِ، فَإِنْ أَجَابَهُ؛ وَإِلَّا فَلْيَشْرَبْ وَلْيَأْكُلْ - غَيْرَ مُتَّخِذٍ خُبْنَةً -.",
+              "id": "Wajib bagi orang yang memiliki sesuatu untuk menjamu tamu yang singgah kepadanya. Batas waktu jamuan wajib adalah tiga hari, dan lebih dari itu terhitung sebagai sedekah. Tidak boleh bagi tamu untuk terus tinggal hingga menyusahkan tuan rumah. Apabila orang yang mampu menjamu tidak melaksanakan kewajibannya, maka tamu tersebut berhak mengambil dari hartanya sekadar jamuan yang seharusnya ia terima. Diharamkan memakan makanan orang lain tanpa izinnya, termasuk di antaranya memerah susu hewan ternak orang lain, atau mengambil buah dan hasil tanamannya, kecuali dengan izin pemiliknya. Namun jika seseorang dalam keadaan membutuhkan, hendaknya ia memanggil pemilik unta atau kebun tersebut; jika dijawab (diizinkan), maka silakan, dan jika tidak, ia tetap boleh minum dan makan seperlunya -tanpa membawa pulang sisanya-.",
+              "start": 123.703,
+              "end": 176.138
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ آدَابِ الْأَكْلِ",
+          "title_id": "Bab Adab Makan",
+          "start": 177.377,
+          "paragraphs": [
+            {
+              "ar": "يُشْرَعُ لِلْآكِلِ التَّسْمِيَةُ، وَالْأَكْلُ بِالْيَمِينِ وَمِنْ حَافَتَيِ الطَّعَامِ لَا مِنْ وَسَطِهِ، وَمِمَّا يَلِيهِ، وَيَلْعَقُ أَصَابِعَهُ وَالصَّحْفَةَ، وَالْحَمْدُ عِنْدَ الْفَرَاغِ، وَالدُّعَاءُ، وَلَا يَأْكُلُ مُتَّكِئًا.",
+              "id": "Disyariatkan bagi orang yang makan untuk membaca basmalah, makan dengan tangan kanan, dari pinggir makanan bukan dari tengahnya, serta dari bagian yang terdekat dengannya. Ia menjilat jari-jarinya dan wadah makanannya, membaca hamdalah setelah selesai makan, lalu berdoa. Ia tidak makan sambil bersandar.",
+              "start": 179.758,
+              "end": 197.074
+            }
+          ]
+        }
+      ],
+      "srt_source": "14.srt"
     },
     {
       "no": 15,
@@ -1536,7 +1624,29 @@
       "title_id": "Kitab Asyribah (Minuman)",
       "audio_file": "15.%20The%20Book%20of%20Al-Ashribah%20%28Drinks%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D8%A8%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/59",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٤ - كِتَابُ الْأَشْرِبَةِ)",
+          "title_id": "Kitab Asyribah — Hukum Minuman dan Adab Minum",
+          "start": 2.513,
+          "paragraphs": [
+            {
+              "ar": "كُلُّ مُسْكِرٍ حَرَامٌ، وَكُلُّ مُفَتِّرٍ حَرَامٌ، وَمَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ، وَيَجُوزُ الِانْتِبَاذُ فِي جَمِيعِ الْآنِيَةِ، وَلَا يَجُوزُ انْتِبَاذُ جِنْسَيْنِ مُخْتَلِطَيْنِ، وَيَحْرُمُ تَخْلِيلُ الْخَمْرِ، وَيَجُوزُ شُرْبُ الْعَصِيرِ وَالنَّبِيذِ قَبْلَ غَلَيَانِهِ، وَمَظِنَّةُ ذَلِكَ مَا زَادَ عَلَى ثَلَاثَةِ أَيَّامٍ.",
+              "id": "Setiap yang memabukkan hukumnya haram, dan setiap yang melemahkan kesadaran hukumnya haram. Apa yang memabukkan dalam jumlah banyak, maka sedikitnya pun haram. Diperbolehkan membuat nabidz (rendaman kurma/anggur) dalam wadah apa saja. Tidak diperbolehkan merendam dua jenis bahan yang berbeda secara bercampur. Diharamkan menjadikan khamar sebagai cuka dengan sengaja mengubahnya. Diperbolehkan minum perasan buah dan nabidz sebelum mengalami fermentasi, dan batas dugaan terjadinya fermentasi adalah lebih dari tiga hari.",
+              "start": 2.513,
+              "end": 30.835
+            },
+            {
+              "ar": "وَآدَابُ الشُّرْبِ؛ أَنْ يَكُونَ ثَلَاثَةَ أَنْفَاسٍ، وَبِالْيَمِينِ، وَمِنْ قُعُودٍ، وَتَقْدِيمُ الْأَيْمَنِ فَالْأَيْمَنِ، وَيَكُونُ السَّاقِي آخِرَهُمْ شُرْبًا، وَيُسَمِّي فِي أَوَّلِهِ، وَيَحْمَدُ فِي آخِرِهِ، وَيُكْرَهُ التَّنَفُّسُ فِي السِّقَاءِ، وَالنَّفْخُ فِيهِ، وَالشُّرْبُ مِنْ فِيهِ، وَإِذَا وَقَعَتِ النَّجَاسَةُ فِي شَيْءٍ مِنَ الْمَائِعَاتِ؛ لَمْ يَحِلَّ شُرْبُهُ، وَإِنْ كَانَ جَامِدًا؛ أُلْقِيَتْ وَمَا حَوْلَهَا، وَيَحْرُمُ الْأَكْلُ وَالشُّرْبُ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ.",
+              "id": "Adapun adab minum: hendaknya bernapas sebanyak tiga kali di luar wadah selama minum, minum dengan tangan kanan, sambil duduk, dan mendahulukan orang yang di sebelah kanan lalu yang berikutnya. Orang yang menuangkan minuman hendaknya minum paling akhir. Ia membaca basmalah di awal minum dan membaca hamdalah di akhirnya. Dimakruhkan bernapas di dalam wadah air, meniup ke dalamnya, serta minum langsung dari mulut wadah tanpa dituang. Apabila najis jatuh ke dalam sesuatu yang cair, maka tidak halal untuk diminum. Namun jika benda tersebut padat (beku), maka cukup dibuang bagian najis tersebut beserta bagian di sekitarnya, dan sisanya tetap halal. Diharamkan makan dan minum menggunakan wadah dari emas dan perak.",
+              "start": 32.076,
+              "end": 71.466
+            }
+          ]
+        }
+      ],
+      "srt_source": "15.srt"
     },
     {
       "no": 16,
@@ -1545,7 +1655,23 @@
       "title_id": "Kitab Libas (Pakaian)",
       "audio_file": "16.%20The%20Book%20of%20Al-Libaas%20%28Clothing%2C%20Dress%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%A8%D8%A7%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/60",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٥ - كِتَابُ اللِّبَاسِ)",
+          "title_id": "Kitab Libas — Hukum Menutup Aurat dan Pakaian",
+          "start": 2.866,
+          "paragraphs": [
+            {
+              "ar": "سَتْرُ الْعَوْرَةِ وَاجِبٌ فِي الْمَلَإِ وَالْخَلَاءِ، وَلَا يَلْبَسُ الرَّجُلُ الْخَالِصَ مِنَ الْحَرِيرِ، إِذَا كَانَ فَوْقَ أَرْبَعِ أَصَابِعَ؛ إِلَّا لِلتَّدَاوِي، وَلَا يَفْتَرِشُهُ، وَلَا الْمَصْبُوغَ بِالْعُصْفُرِ، وَلَا ثَوْبَ شُهْرَةٍ، وَلَا مَا يَخْتَصُّ بِالنِّسَاءِ، وَلَا الْعَكْسُ، وَيَحْرُمُ عَلَى الرِّجَالِ التَّحَلِّي بِالذَّهَبِ - لَا بِغَيْرِهِ -.",
+              "id": "Menutup aurat wajib hukumnya baik di tempat ramai maupun sepi. Seorang laki-laki tidak boleh memakai kain sutra murni apabila lebarnya lebih dari empat jari, kecuali untuk keperluan pengobatan, dan tidak boleh pula menghamparkannya sebagai alas duduk atau tidur. Tidak boleh memakai kain yang dicelup dengan pewarna 'ushfur (pewarna merah mencolok), tidak boleh memakai pakaian syuhrah (pakaian mencolok untuk mencari popularitas), tidak boleh memakai pakaian yang khusus untuk wanita, begitu pula sebaliknya. Diharamkan bagi laki-laki berhias dengan emas -namun tidak diharamkan dengan logam selain emas-.",
+              "start": 2.866,
+              "end": 29.047
+            }
+          ]
+        }
+      ],
+      "srt_source": "16.srt"
     },
     {
       "no": 17,
@@ -1554,7 +1680,51 @@
       "title_id": "Kitab Udhiyyah (Kurban)",
       "audio_file": "17.%20The%20Book%20of%20Al-Udhiyyah%20%28Sacrifice%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%8F%D8%B6%D9%92%D8%AD%D9%90%D9%8A%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/60",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(كِتَابُ الْأُضْحِيَّةِ)",
+          "title_id": "Kitab Udhiyyah — Hukum Berkurban",
+          "start": 2.637,
+          "paragraphs": [
+            {
+              "ar": "تُشْرَعُ لِأَهْلِ كُلِّ بَيْتٍ، وَأَقَلُّهَا شَاةٌ، وَوَقْتُهَا بَعْدَ صَلَاةِ عِيدِ النَّحْرِ إِلَى آخِرِ أَيَّامِ التَّشْرِيقِ، وَأَفْضَلُهَا أَسْمَنُهَا، وَلَا يُجْزِئُ مَا دُونَ الْجَذَعِ مِنَ الضَّأْنِ، وَلَا الثَّنِيَّ مِنَ الْمَعْزِ، وَلَا الْأَعْوَرَ، وَالْمَرِيضَ، وَالْأَعْرَجَ، وَالْأَعْجَفَ، وَأَعْضَبَ الْقَرْنِ وَالْأُذُنِ، وَيَتَصَدَّقُ مِنْهَا وَيَأْكُلُ وَيَدَّخِرُ، وَالذَّبْحُ فِي الْمُصَلَّى أَفْضَلُ، وَلَا يَأْخُذُ - مَنْ لَهُ أُضْحِيَةٌ - مِنْ شَعْرِهِ وَظُفْرِهِ بَعْدَ دُخُولِ عَشْرِ ذِي الْحِجَّةِ؛ حَتَّى يُضَحِّيَ.",
+              "id": "Kurban disyariatkan bagi setiap keluarga, dan yang paling sedikit adalah seekor kambing. Waktunya dimulai setelah shalat Id Nahr hingga akhir hari-hari Tasyriq. Yang paling utama adalah yang paling gemuk. Tidak sah berkurban dengan domba yang belum genap satu tahun, maupun kambing yang belum genap dua tahun; tidak sah pula dengan hewan yang buta sebelah, sakit, pincang, sangat kurus, atau yang tanduk maupun telinganya terpotong. Dianjurkan bersedekah dari daging kurban tersebut, memakannya, dan menyimpan sebagiannya. Menyembelih di tempat shalat (mushalla) lebih utama. Orang yang hendak berkurban tidak boleh memotong rambut maupun kukunya sejak masuknya sepuluh hari pertama Dzulhijjah hingga ia selesai berkurban.",
+              "start": 2.637,
+              "end": 44.551
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْوَلِيمَةِ",
+          "title_id": "Bab Walimah (Resepsi Pernikahan)",
+          "start": 45.612,
+          "paragraphs": [
+            {
+              "ar": "هِيَ مَشْرُوعَةٌ، وَيَجِبُ الْإِجَابَةُ عَلَيْهَا، وَيُقَدَّمُ السَّابِقُ ثُمَّ الْأَقْرَبُ بَابًا، وَلَا يَجُوزُ حُضُورُهَا إِذَا اشْتَمَلَتْ عَلَى مَعْصِيَةٍ.",
+              "id": "Walimah disyariatkan, dan wajib memenuhi undangannya. Yang didahulukan adalah undangan yang lebih dulu diterima, kemudian yang pintunya (rumahnya) lebih dekat. Tidak boleh menghadirinya apabila di dalamnya terdapat kemaksiatan.",
+              "start": 47.411,
+              "end": 58.902
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Akikah",
+          "start": 59.944,
+          "paragraphs": [
+            {
+              "ar": "وَالْعَقِيقَةُ مُسْتَحَبَّةٌ - وَهِيَ شَاتَانِ عَنِ الذَّكَرِ، وَشَاةٌ عَنِ الْأُنْثَى - يَوْمَ سَابِعِ الْمَوْلُودِ، وَفِيهِ يُسَمَّى، وَيُحْلَقُ رَأْسُهُ، وَيُتَصَدَّقُ بِوَزْنِهِ ذَهَبًا أَوْ فِضَّةً.",
+              "id": "Akikah hukumnya sunnah -yaitu dua ekor kambing untuk anak laki-laki dan satu ekor kambing untuk anak perempuan- dilaksanakan pada hari ketujuh kelahiran bayi. Pada hari itu pula bayi diberi nama, dicukur rambutnya, dan disedekahkan emas atau perak seberat rambut yang dicukur tersebut.",
+              "start": 61.085,
+              "end": 76.879
+            }
+          ]
+        }
+      ],
+      "srt_source": "17.srt"
     },
     {
       "no": 18,
