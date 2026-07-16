@@ -1733,7 +1733,23 @@
       "title_id": "Kitab Thibb (Pengobatan)",
       "audio_file": "18.%20The%20Book%20of%20At-Tibb%20%28Medication%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D8%A8%D9%91.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٧ - كِتَابُ الطِّبِّ)",
+          "title_id": "Kitab Thibb — Hukum Berobat",
+          "start": 2.492,
+          "paragraphs": [
+            {
+              "ar": "يَجُوزُ التَّدَاوِي، وَالتَّفْوِيضُ أَفْضَلُ لِمَنْ يَقْدِرُ عَلَى الصَّبْرِ، وَيَحْرُمُ بِالْمُحَرَّمَاتِ، وَيُكْرَهُ الِاكْتِوَاءُ، وَلَا بَأْسَ بِالْحِجَامَةِ، وَبِالرُّقْيَةِ - بِمَا يَجُوزُ - مِنَ الْعَيْنِ وَغَيْرِهَا.",
+              "id": "Berobat diperbolehkan, dan menyerahkan diri kepada Allah tanpa berobat lebih utama bagi orang yang mampu bersabar. Diharamkan berobat dengan sesuatu yang diharamkan. Dimakruhkan berobat dengan kay (menyundut dengan besi panas). Tidak mengapa berbekam, begitu pula meruqyah -dengan cara yang dibolehkan- untuk mengobati penyakit 'ain (pengaruh mata dengki) dan penyakit lainnya.",
+              "start": 2.492,
+              "end": 18.204
+            }
+          ]
+        }
+      ],
+      "srt_source": "18.srt"
     },
     {
       "no": 19,
@@ -1742,7 +1758,23 @@
       "title_id": "Kitab Wakalah (Perwakilan)",
       "audio_file": "19.%20The%20Book%20of%20Al-Wakalah%20%28Agency%2C%20Representation%2C%20Authorization%2C%20Business%20by%20Proxy%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٨ - كِتَابُ الْوِكَالَةِ)",
+          "title_id": "Kitab Wakalah — Hukum Perwakilan",
+          "start": 2.605,
+          "paragraphs": [
+            {
+              "ar": "يَجُوزُ لِجَائِزِ التَّصَرُّفِ أَنْ يُوَكِّلَ غَيْرَهُ فِي كُلِّ شَيْءٍ؛ مَا لَمْ يَمْنَعْ مِنْهُ مَانِعٌ، وَإِذَا بَاعَ الْوَكِيلُ - بِزِيَادَةٍ عَلَى مَا رَسَمَهُ مُوَكِّلُهُ -؛ كَانَتِ الزِّيَادَةُ لِلْمُوَكِّلِ، وَإِذَا خَالَفَهُ إِلَى مَا هُوَ أَنْفَعُ، أَوْ إِلَى غَيْرِهِ وَرَضِيَ بِهِ؛ صَحَّ.",
+              "id": "Diperbolehkan bagi orang yang sah tasarrufnya untuk mewakilkan orang lain dalam segala urusan, selama tidak ada penghalang syar'i yang mencegahnya. Apabila wakil menjual dengan harga lebih tinggi dari yang ditentukan oleh pemberi kuasa (muwakkil), maka kelebihan tersebut menjadi hak muwakkil. Apabila wakil menyelisihi perintah muwakkil dengan melakukan sesuatu yang lebih bermanfaat, atau melakukan hal lain yang kemudian diridhai oleh muwakkil, maka tindakannya tetap sah.",
+              "start": 2.605,
+              "end": 24.663
+            }
+          ]
+        }
+      ],
+      "srt_source": "19.srt"
     },
     {
       "no": 20,
@@ -1751,7 +1783,23 @@
       "title_id": "Kitab Dhamanah (Jaminan)",
       "audio_file": "20.%20The%20Book%20of%20Adh-Dhamaanah%20%28Guarantee%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٩ - كِتَابُ الضَّمَانَةِ)",
+          "title_id": "Kitab Dhamanah — Hukum Penjaminan",
+          "start": 3.125,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى مَنْ ضَمِنَ عَلَى حَيٍّ أَوْ مَيِّتٍ تَسْلِيمَ مَالٍ أَنْ يَغْرَمَهُ عِنْدَ الطَّلَبِ، وَيُرْجَعُ عَلَى الْمَضْمُونِ عَنْهُ؛ إِنْ كَانَ مَأْمُورًا مِنْ جِهَتِهِ، وَمَنْ ضَمِنَ بِإِحْضَارِ شَخْصٍ؛ وَجَبَ عَلَيْهِ إِحْضَارُهُ؛ وَإِلَّا غَرِمَ مَا عَلَيْهِ.",
+              "id": "Wajib bagi orang yang menjamin penyerahan harta dari orang yang masih hidup maupun yang telah meninggal, untuk membayarnya ketika diminta. Ia berhak menagih kembali kepada orang yang dijamin, apabila penjaminan tersebut dilakukan atas perintahnya. Barangsiapa menjamin untuk menghadirkan seseorang, wajib baginya menghadirkan orang tersebut; jika tidak, ia wajib membayar tanggungan yang menjadi kewajiban orang yang dijamin tersebut.",
+              "start": 3.125,
+              "end": 22.279
+            }
+          ]
+        }
+      ],
+      "srt_source": "20.srt"
     },
     {
       "no": 21,
@@ -1760,7 +1808,23 @@
       "title_id": "Kitab Sulh (Perdamaian)",
       "audio_file": "21.%20The%20Book%20of%20As-Sulh%20%28Reconciliation%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%84%D8%AD.mp3",
       "shamela_url": "https://shamela.ws/book/9293/61",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٠ - كِتَابُ الصُّلْحِ)",
+          "title_id": "Kitab Sulh — Hukum Perdamaian",
+          "start": 2.342,
+          "paragraphs": [
+            {
+              "ar": "هُوَ جَائِزٌ بَيْنَ الْمُسْلِمِينَ؛ إِلَّا صُلْحًا أَحَلَّ حَرَامًا، أَوْ حَرَّمَ حَلَالًا، وَيَجُوزُ عَنِ الْمَعْلُومِ وَالْمَجْهُولِ؛ بِمَعْلُومٍ وَبِمَجْهُولٍ، وَعَنِ الدَّمِ - كَالْمَالِ - بِأَقَلَّ مِنَ الدِّيَةِ أَوْ أَكْثَرَ؛ وَلَوْ عَنْ إِنْكَارٍ.",
+              "id": "Perdamaian (sulh) diperbolehkan di antara sesama muslim, kecuali perdamaian yang menghalalkan yang haram atau mengharamkan yang halal. Diperbolehkan berdamai atas suatu hak yang jelas maupun yang belum jelas, dengan imbalan yang jelas maupun yang belum jelas. Begitu pula berdamai atas darah (kasus pembunuhan) -sebagaimana halnya harta- dengan jumlah yang lebih sedikit maupun lebih banyak dari diyat, sekalipun pihak tertuduh mengingkari tuduhan tersebut.",
+              "start": 2.342,
+              "end": 22.123
+            }
+          ]
+        }
+      ],
+      "srt_source": "21.srt"
     },
     {
       "no": 22,
@@ -1769,7 +1833,23 @@
       "title_id": "Kitab Hawalah (Pengalihan Utang)",
       "audio_file": "22.%20The%20Book%20of%20Al-Hawaala%20%28Transfer%20of%20Debt%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%8E%D9%88%D8%A7%D9%84%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢١ - كِتَابُ الْحَوَالَةِ)",
+          "title_id": "Kitab Hawalah — Hukum Pengalihan Utang",
+          "start": 2.601,
+          "paragraphs": [
+            {
+              "ar": "مَنْ أُحِيلَ عَلَى مَلِيءٍ فَلْيَحْتَلْ، وَإِذَا مَطَلَ الْمُحَالُ عَلَيْهِ أَوْ أَفْلَسَ؛ كَانَ لِلْمُحَالِ أَنْ يُطَالِبَ الْمُحِيلَ بِدَيْنِهِ.",
+              "id": "Barangsiapa dialihkan hutangnya kepada orang yang mampu membayar, hendaknya ia menerima pengalihan tersebut. Apabila pihak yang menerima pengalihan menunda-nunda pembayaran atau bangkrut, maka orang yang piutangnya dialihkan berhak menagih kembali kepada orang yang mengalihkan hutangnya atas hutang tersebut.",
+              "start": 2.601,
+              "end": 12.808
+            }
+          ]
+        }
+      ],
+      "srt_source": "22.srt"
     },
     {
       "no": 23,
@@ -1778,7 +1858,23 @@
       "title_id": "Kitab Muflis (Pailit)",
       "audio_file": "23.%20The%20Book%20of%20Al-Muflis%20%28Bankruptcy%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%85%D9%81%D9%84%D9%90%D8%B3.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٢ - كِتَابُ الْمُفْلِسِ)",
+          "title_id": "Kitab Muflis — Hukum Orang yang Pailit",
+          "start": 2.488,
+          "paragraphs": [
+            {
+              "ar": "يَجُوزُ لِأَهْلِ الدَّيْنِ أَنْ يَأْخُذُوا جَمِيعَ مَا يَجِدُونَهُ مَعَهُ؛ إِلَّا مَا كَانَ لَا يُسْتَغْنَى عَنْهُ - وَهُوَ: الْمَنْزِلُ، وَسَتْرُ الْعَوْرَةِ، وَمَا يَقِيهِ الْبَرْدَ، وَيَسُدُّ رَمَقَهُ وَمَنْ يَعُولُ -، وَمَنْ وَجَدَ مَالَهُ عِنْدَهُ بِعَيْنِهِ فَهُوَ أَحَقُّ بِهِ، وَإِذَا نَقَصَ مَالُ الْمُفْلِسِ عَنِ الْوَفَاءِ بِجَمِيعِ دَيْنِهِ؛ كَانَ الْمَوْجُودُ أُسْوَةَ الْغُرَمَاءِ، وَإِذَا تَبَيَّنَ إِفْلَاسُهُ؛ فَلَا يَجُوزُ حَبْسُهُ، وَلَيُّ الْوَاجِدِ ظُلْمٌ يُحِلُّ عِرْضَهُ وَعُقُوبَتَهُ، وَيَجُوزُ لِلْحَاكِمِ أَنْ يَحْجُرَهُ عَنِ التَّصَرُّفِ فِي مَالِهِ، وَيَبِيعَهُ لِقَضَاءِ دَيْنِهِ، وَكَذَلِكَ يَجُوزُ لَهُ الْحَجْرُ عَلَى الْمُبَذِّرِ وَمَنْ لَا يُحْسِنُ التَّصَرُّفَ، وَلَا يُمَكَّنُ الْيَتِيمُ مِنَ التَّصَرُّفِ فِي مَالِهِ؛ حَتَّى يُؤْنَسَ مِنْهُ الرُّشْدُ، وَيَجُوزُ لِوَلِيِّهِ أَنْ يَأْكُلَ مِنْ مَالِهِ بِالْمَعْرُوفِ.",
+              "id": "Para pemberi utang boleh mengambil seluruh harta yang mereka dapati pada orang yang berutang (pailit), kecuali harta yang tidak dapat ditinggalkan darinya, yaitu: tempat tinggal, penutup aurat, sesuatu yang melindunginya dari dingin, serta yang mencukupi kebutuhan pokoknya dan orang yang menjadi tanggungannya. Barangsiapa mendapati hartanya yang masih utuh berada pada orang yang pailit tersebut, maka ia lebih berhak atasnya. Apabila harta orang yang pailit tidak mencukupi untuk melunasi seluruh utangnya, maka harta yang ada dibagi rata di antara para pemberi utang. Apabila jelas kepailitannya, maka tidak boleh memenjarakannya. Menunda-nunda pembayaran utang oleh orang yang mampu adalah suatu kezaliman, yang menghalalkan untuk mencela kehormatannya dan menghukumnya. Hakim boleh menetapkan pengampuan atasnya dari bertindak pada hartanya, dan menjual hartanya untuk melunasi utangnya. Demikian pula hakim boleh menetapkan pengampuan atas orang yang boros dan orang yang tidak pandai mengelola harta. Anak yatim tidak diberi kewenangan untuk bertindak pada hartanya sampai terlihat kematangan (kecerdasan) padanya. Walinya boleh memakan dari hartanya dengan cara yang patut.",
+              "start": 2.488,
+              "end": 67.003
+            }
+          ]
+        }
+      ],
+      "srt_source": "23.srt"
     },
     {
       "no": 24,
@@ -1787,7 +1883,23 @@
       "title_id": "Kitab Luqathah (Barang Temuan)",
       "audio_file": "24.%20The%20Book%20of%20Al-Luqata%20%28Lost%20Properties%2C%20Items%2C%20Animals%2C%20People%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D9%8F%D9%91%D9%82%D8%B7%D8%A9%D9%8E.mp3",
       "shamela_url": "https://shamela.ws/book/9293/62",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٣ - كِتَابُ اللُّقَطَةِ)",
+          "title_id": "Kitab Luqathah — Hukum Barang Temuan",
+          "start": 2.516,
+          "paragraphs": [
+            {
+              "ar": "مَنْ وَجَدَ لُقَطَةً فَلْيَعْرِفْ عِفَاصَهَا وَوِكَاءَهَا، فَإِنْ جَاءَ صَاحِبُهَا دَفَعَهَا إِلَيْهِ؛ وَإِلَّا عَرَّفَ بِهَا حَوْلًا، وَبَعْدَ ذَلِكَ يَجُوزُ لَهُ صَرْفُهَا وَلَوْ فِي نَفْسِهِ، وَيَضْمَنُ مَعَ مَجِيءِ صَاحِبِهَا، وَلُقَطَةُ مَكَّةَ أَشَدُّ تَعْرِيفًا مِنْ غَيْرِهَا، وَلَا بَأْسَ بِأَنْ يَنْتَفِعَ الْمُلْتَقِطُ بِالشَّيْءِ الْحَقِيرِ - كَالْعَصَا وَالسَّوْطِ وَنَحْوِهِمَا - بَعْدَ التَّعْرِيفِ بِهِ ثَلَاثًا، وَتُلْتَقَطُ ضَالَّةُ الدَّوَابِّ؛ إِلَّا الْإِبِلَ.",
+              "id": "Barangsiapa menemukan barang temuan (luqathah), hendaklah ia mengenali wadah/pembungkusnya dan tali pengikatnya. Apabila pemiliknya datang, ia serahkan kepadanya; jika tidak, ia umumkan barang tersebut selama satu tahun. Setelah itu, ia boleh menggunakannya, sekalipun untuk dirinya sendiri, namun ia tetap menanggung ganti rugi apabila pemiliknya datang kembali menuntutnya. Barang temuan di Makkah lebih ketat masa pengumumannya dibandingkan tempat lain. Tidak mengapa bagi penemu untuk memanfaatkan barang yang remeh (nilainya kecil) -seperti tongkat, cambuk, dan semacamnya- setelah diumumkan selama tiga hari. Hewan ternak yang tersesat boleh diambil (ditemukan), kecuali unta.",
+              "start": 2.516,
+              "end": 39.222
+            }
+          ]
+        }
+      ],
+      "srt_source": "24.srt"
     },
     {
       "no": 25,
@@ -1796,7 +1908,23 @@
       "title_id": "Kitab Qadha (Peradilan)",
       "audio_file": "25.%20The%20Book%20of%20Al-Qadhaa%20%28Judgements%2C%20Adjudication%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D9%8E%D8%B6%D9%8E%D8%A7%D8%A1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/63",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٤ - كِتَابُ الْقَضَاءِ)",
+          "title_id": "Kitab Qadha — Syarat dan Adab Hakim",
+          "start": 2.528,
+          "paragraphs": [
+            {
+              "ar": "إِنَّمَا يَصِحُّ قَضَاءُ مَنْ كَانَ مُجْتَهِدًا، مُتَوَرِّعًا عَنْ أَمْوَالِ النَّاسِ، عَادِلًا فِي الْقَضِيَّةِ، حَاكِمًا بِالسَّوِيَّةِ، وَيَحْرُمُ عَلَيْهِ الْحِرْصُ عَلَى الْقَضَاءِ وَطَلَبُهُ، وَلَا يَحِلُّ لِلْإِمَامِ تَوْلِيَةُ مَنْ كَانَ كَذَلِكَ، وَمَنْ كَانَ مُتَأَهِّلًا لِلْقَضَاءِ؛ فَهُوَ عَلَى خَطَرٍ عَظِيمٍ، وَلَهُ مَعَ الْإِصَابَةِ أَجْرَانِ، وَمَعَ الْخَطَإِ أَجْرٌ - إِنْ لَمْ يَأْلُ جَهْدًا فِي الْبَحْثِ -، وَتَحْرُمُ عَلَيْهِ الرِّشْوَةُ، وَالْهَدِيَّةُ الَّتِي أُهْدِيَتْ إِلَيْهِ لِأَجْلِ كَوْنِهِ قَاضِيًا، وَلَا يَجُوزُ لَهُ الْحُكْمُ حَالَ الْغَضَبِ، وَعَلَيْهِ التَّسْوِيَةُ بَيْنَ الْخَصْمَيْنِ؛ إِلَّا إِذَا كَانَ أَحَدُهُمَا كَافِرًا، وَالسَّمَاعُ مِنْهُمَا قَبْلَ الْقَضَاءِ، وَتَسْهِيلُ الْحِجَابِ بِحَسَبِ الْإِمْكَانِ، وَيَجُوزُ لَهُ اتِّخَاذُ الْأَعْوَانِ مَعَ الْحَاجَةِ، وَالشَّفَاعَةُ وَالِاسْتِيضَاعُ وَالْإِرْشَادُ إِلَى الصُّلْحِ، وَحُكْمُهُ يَنْفُذُ ظَاهِرًا فَقَطْ، فَمَنْ قُضِيَ لَهُ بِشَيْءٍ فَلَا يَحِلُّ لَهُ؛ إِلَّا إِذَا كَانَ الْحُكْمُ مُطَابِقًا لِلْوَاقِعِ.",
+              "id": "Peradilan (memutuskan perkara) hanya sah dilakukan oleh orang yang mujtahid, yang menjaga diri dari harta manusia dengan cara yang tidak sah, berlaku adil dalam perkara, dan menghukumi dengan kesetaraan. Haram baginya rakus terhadap jabatan qadha dan memintanya. Tidak halal bagi pemimpin mengangkat orang yang demikian sebagai hakim. Barangsiapa telah memenuhi syarat untuk menjadi hakim, maka ia berada dalam bahaya yang besar. Ia mendapat dua pahala jika benar dalam ijtihadnya, dan satu pahala jika keliru -selama ia tidak bermalas-malasan dalam mencari kebenaran-. Haram baginya menerima suap, dan hadiah yang diberikan kepadanya karena kedudukannya sebagai hakim. Tidak boleh baginya memutuskan perkara dalam keadaan marah. Wajib baginya menyamakan perlakuan di antara kedua pihak yang bersengketa, kecuali jika salah satunya kafir, demikian pula dalam mendengarkan keterangan keduanya sebelum memutuskan perkara, dan mempermudah akses tanpa penghalang semampu mungkin. Ia boleh mengangkat pembantu sesuai kebutuhan, boleh memberi syafaat (rekomendasi damai), meminta sebagian hak digugurkan, dan mengarahkan kedua pihak untuk berdamai. Keputusannya hanya berlaku secara lahiriah saja -tidak mengubah hakikat perkara yang sebenarnya-. Maka barangsiapa diputuskan baginya sesuatu, tidaklah halal baginya mengambilnya, kecuali apabila keputusan tersebut memang sesuai dengan kenyataan.",
+              "start": 2.528,
+              "end": 78.048
+            }
+          ]
+        }
+      ],
+      "srt_source": "25.srt"
     },
     {
       "no": 26,
@@ -1805,7 +1933,23 @@
       "title_id": "Kitab Khushumah (Persengketaan)",
       "audio_file": "26.%20The%20Book%20of%20Al-Khusoomaah%20%28Prosecution%2C%20Quarrels%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AE%D9%8F%D8%B5%D9%8F%D9%88%D9%85%D9%8E%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/63",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٥ - كِتَابُ الْخُصُومَةِ)",
+          "title_id": "Kitab Khushumah — Hukum Pembuktian dan Persengketaan",
+          "start": 2.605,
+          "paragraphs": [
+            {
+              "ar": "عَلَى الْمُدَّعِي الْبَيِّنَةُ، وَعَلَى الْمُنْكِرِ الْيَمِينُ، وَيَحْكُمُ الْحَاكِمُ بِالْإِقْرَارِ، وَبِشَهَادَةِ رَجُلَيْنِ، أَوْ رَجُلٍ وَامْرَأَتَيْنِ، أَوْ رَجُلٍ وَيَمِينِ الْمُدَّعِي، وَبِيَمِينِ الْمُنْكِرِ، وَبِيَمِينِ الرَّدِّ وَبِعِلْمِهِ، وَلَا تُقْبَلُ شَهَادَةُ مَنْ لَيْسَ بِعَدْلٍ، وَلَا الْخَائِنِ، وَلَا ذِي الْعَدَاوَةِ، وَالْمُتَّهَمِ، وَالْقَانِعِ لِأَهْلِ الْبَيْتِ، وَالْقَاذِفِ، وَلَا بَدَوِيٍّ عَلَى صَاحِبِ قَرْيَةٍ، وَتَجُوزُ شَهَادَةُ مَنْ يَشْهَدُ عَلَى تَقْرِيرِ فِعْلِهِ أَوْ قَوْلِهِ إِذَا انْتَفَتِ التُّهْمَةُ، وَشَهَادَةُ الزُّورِ مِنْ أَكْبَرِ الْكَبَائِرِ، وَإِذَا تَعَارَضَ الْبَيِّنَتَانِ وَلَمْ يُوجَدْ وَجْهُ تَرْجِيحٍ؛ قُسِّمَ الْمُدَّعَى، وَإِذَا لَمْ يَكُنْ لِلْمُدَّعِي بَيِّنَةٌ؛ فَلَيْسَ لَهُ إِلَّا يَمِينُ صَاحِبِهِ، وَلَوْ كَانَ فَاجِرًا، وَلَا تُقْبَلُ الْبَيِّنَةُ بَعْدَ الْيَمِينِ، وَمَنْ أَقَرَّ بِشَيْءٍ - عَاقِلًا بَالِغًا غَيْرَ هَازِلٍ وَلَا بِمُحَالٍ عَقْلًا أَوْ عَادَةً -؛ لَزِمَهُ مَا أَقَرَّ بِهِ؛ كَائِنًا مَا كَانَ، وَيَكْفِي مَرَّةً وَاحِدَةً؛ مِنْ غَيْرِ فَرْقٍ بَيْنَ مُوجِبَاتِ الْحُدُودِ وَغَيْرِهَا - كَمَا سَيَأْتِي -.",
+              "id": "Kewajiban bagi pihak penggugat adalah mendatangkan bukti (bayyinah), sedangkan bagi pihak yang mengingkari (tergugat) adalah bersumpah. Hakim memutuskan perkara berdasarkan pengakuan, atau kesaksian dua orang laki-laki, atau seorang laki-laki dan dua orang perempuan, atau seorang laki-laki disertai sumpah penggugat, atau sumpah pihak yang mengingkari, atau sumpah radd (dikembalikan kepada penggugat), dan juga berdasarkan pengetahuan hakim sendiri. Tidak diterima kesaksian orang yang tidak adil, juga tidak diterima kesaksian pengkhianat, orang yang memiliki permusuhan, orang yang tertuduh, orang yang menumpang pada tuan rumah, orang yang pernah menuduh zina, dan tidak diterima kesaksian orang badui atas penduduk desa/kota. Namun diperbolehkan kesaksian seseorang yang bersaksi atas penetapan perbuatan atau ucapannya sendiri, apabila tidak ada faktor yang meragukan. Kesaksian palsu termasuk salah satu dosa besar yang paling besar. Apabila dua bukti saling bertentangan dan tidak ditemukan sisi yang bisa mengunggulkan salah satunya, maka barang yang disengketakan dibagi di antara kedua belah pihak. Apabila penggugat tidak memiliki bukti, maka haknya hanya bersumpahnya pihak tergugat, sekalipun orang tersebut dikenal fasik. Tidak diterima bukti yang diajukan setelah sumpah diucapkan. Barangsiapa mengakui sesuatu -dalam keadaan berakal, balig, tidak bercanda, dan pengakuannya tidak mustahil secara akal maupun kebiasaan-, maka wajib baginya menepati apa yang telah diakuinya, apa pun itu. Cukup sekali pengakuan saja, tanpa membedakan antara perkara yang mewajibkan hukuman had maupun perkara lainnya -sebagaimana akan dijelaskan nanti-.",
+              "start": 2.605,
+              "end": 24.679
+            }
+          ]
+        }
+      ],
+      "srt_source": "26.srt"
     },
     {
       "no": 27,
@@ -1814,7 +1958,107 @@
       "title_id": "Kitab Hudud",
       "audio_file": "27.%20The%20Book%20of%20Al-Hudud%20%28Limits%20%26%20Legal%20Punishments%20set%20by%20Allah%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF.mp3",
       "shamela_url": "https://shamela.ws/book/9293/64",
-      "sections": []
+      "sections": [
+        {
+          "type": "bab",
+          "title_ar": "بَابُ حَدِّ الزَّانِي",
+          "title_id": "Bab Had Zina",
+          "start": 5.374,
+          "paragraphs": [
+            {
+              "ar": "إِنْ كَانَ بِكْرًا حُرًّا جُلِدَ مِئَةَ جَلْدَةٍ، وَبَعْدَ الْجَلْدِ يُغَرَّبُ عَامًا، وَإِنْ كَانَ ثَيِّبًا جُلِدَ كَمَا يُجْلَدُ الْبِكْرُ، ثُمَّ يُرْجَمُ حَتَّى يَمُوتَ، وَيَكْفِي إِقْرَارُهُ مَرَّةً، وَمَا وَرَدَ مِنَ التَّكْرَارِ فِي وَقَائِعِ الْأَعْيَانِ؛ فَلِقَصْدِ الِاسْتِثْبَاتِ، وَأَمَّا الشَّهَادَةُ فَلَا بُدَّ مِنْ أَرْبَعَةٍ، وَلَا بُدَّ أَنْ يَتَضَمَّنَ الْإِقْرَارُ وَالشَّهَادَةُ التَّصْرِيحَ بِإِيلَاجِ الْفَرْجِ فِي الْفَرْجِ، وَيَسْقُطُ بِالشُّبُهَاتِ الْمُحْتَمَلَةِ، وَبِالرُّجُوعِ عَنِ الْإِقْرَارِ، وَبِكَوْنِ الْمَرْأَةِ عَذْرَاءَ أَوْ رَتْقَاءَ، وَيَكُونُ الرَّجُلُ مَجْبُوبًا أَوْ عِنِّينًا، وَتَحْرُمُ الشَّفَاعَةُ فِي الْحُدُودِ، وَيُحْفَرُ لِلْمَرْجُومِ إِلَى الصَّدْرِ، وَلَا تُرْجَمُ الْحُبْلَى حَتَّى تَضَعَ وَتُرْضِعَ وَلَدَهَا - إِنْ لَمْ يُوجَدْ مَنْ يُرْضِعُهُ -، وَيَجُوزُ الْجَلْدُ حَالَ الْمَرَضِ بِعِثْكَالٍ وَنَحْوِهِ، وَمَنْ لَاطَ بِذَكَرٍ، قُتِلَ وَلَوْ كَانَ بِكْرًا، وَكَذَلِكَ الْمَفْعُولُ بِهِ؛ إِذَا كَانَ مُخْتَارًا، وَيُعَزَّرُ مَنْ نَكَحَ بَهِيمَةً، وَيُجْلَدُ الْمَمْلُوكُ نِصْفَ جَلْدِ الْحُرِّ، وَيَحُدُّهُ سَيِّدُهُ أَوِ الْإِمَامُ.",
+              "id": "Apabila pelaku zina adalah orang merdeka yang belum menikah, ia didera seratus kali cambukan, dan setelah dicambuk ia diasingkan selama satu tahun. Apabila pelakunya sudah pernah menikah, ia dicambuk sebagaimana yang belum menikah, kemudian dirajam sampai mati. Cukup satu kali pengakuan untuk menetapkan hukuman, adapun pengulangan yang disebutkan dalam beberapa kasus adalah untuk memastikan kebenaran pengakuan tersebut. Adapun kesaksian, harus ada empat orang saksi. Pengakuan maupun kesaksian harus memuat penegasan tentang persetubuhan yang jelas. Hukuman gugur karena adanya syubhat yang mungkin terjadi, karena mencabut kembali pengakuan, karena perempuan tersebut masih perawan atau tertutup, atau karena laki-laki tersebut impoten atau terputus alat kelaminnya. Haram memberikan syafaat dalam perkara hudud. Orang yang dirajam digali lubang untuknya sampai ke dada. Wanita hamil tidak dirajam sampai ia melahirkan dan menyusui anaknya -jika tidak ada orang lain yang bisa menyusuinya-. Boleh mencambuk dalam keadaan sakit dengan menggunakan pelepah kurma atau semacamnya. Barangsiapa melakukan liwath dengan seorang laki-laki, ia dibunuh sekalipun belum menikah, demikian pula pihak yang menjadi objeknya apabila ia melakukannya dengan sukarela. Orang yang menyetubuhi hewan dikenai ta'zir. Budak dicambuk setengah dari cambukan orang merdeka, dan yang menghukumnya adalah tuannya atau pemimpin.",
+              "start": 5.374,
+              "end": 87.64
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ حَدِّ السَّرِقَةِ",
+          "title_id": "Bab Had Pencurian",
+          "start": 92.003,
+          "paragraphs": [
+            {
+              "ar": "مَنْ سَرَقَ - مُكَلَّفًا مُخْتَارًا - مِنْ حِرْزٍ رُبُعَ دِينَارٍ فَصَاعِدًا؛ قُطِعَتْ كَفُّهُ الْيُمْنَى، وَيَكْفِي الْإِقْرَارُ مَرَّةً وَاحِدَةً، أَوْ شَهَادَةُ عَدْلَيْنِ، وَيُنْدَبُ تَلْقِينُ الْمُسْقِطِ، وَيُحْسَمُ مَوْضِعُ الْقَطْعِ، وَتُعَلَّقُ الْيَدُ فِي عُنُقِ السَّارِقِ، وَيَسْقُطُ بِعَفْوِ الْمَسْرُوقِ عَلَيْهِ قَبْلَ الْبُلُوغِ إِلَى السُّلْطَانِ - لَا بَعْدَهُ؛ فَقَدْ وَجَبَ -، وَلَا قَطْعَ فِي ثَمَرٍ وَلَا كَثَرٍ؛ مَا لَمْ يُؤْوِهِ الْجَرِينُ - إِذَا أَكَلَ وَلَمْ يَتَّخِذْ خُبْنَةً -؛ وَإِلَّا كَانَ عَلَيْهِ ثَمَنُ مَا حَمَلَهُ مَرَّتَيْنِ، وَضَرْبُ نَكَالٍ، وَلَيْسَ عَلَى الْخَائِنِ وَالْمُنْتَهِبِ وَالْمُخْتَلِسِ قَطْعٌ، وَقَدْ ثَبَتَ الْقَطْعُ فِي جَحْدِ الْعَارِيَّةِ.",
+              "id": "Barangsiapa mencuri -dalam keadaan mukallaf dan atas kehendaknya sendiri- dari tempat penyimpanan yang terjaga, senilai seperempat dinar atau lebih, maka dipotong tangan kanannya. Cukup satu kali pengakuan, atau kesaksian dua orang yang adil. Dianjurkan mengajarkan alasan yang bisa menggugurkan hukuman kepada pencuri. Tempat potongan tersebut dihentikan pendarahannya. Tangan yang dipotong digantungkan di leher pencuri. Hukuman gugur apabila pemilik barang memaafkannya sebelum perkaranya sampai kepada penguasa -bukan setelahnya, karena hukuman sudah wajib dilaksanakan-. Tidak ada potong tangan dalam pencurian buah-buahan yang masih di pohon atau pucuk kurma, selama belum disimpan di tempat penjemuran, apabila ia memakannya dan tidak membawanya pergi; jika ia membawanya, maka ia wajib membayar dua kali lipat harganya disertai hukuman cambuk sebagai pelajaran. Tidak ada potong tangan bagi pengkhianat, perampas secara terang-terangan, dan pencopet. Namun potong tangan telah ditetapkan bagi orang yang mengingkari barang pinjaman yang dititipkan kepadanya.",
+              "start": 92.003,
+              "end": 144.035
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ حَدِّ الْقَذْفِ",
+          "title_id": "Bab Had Qadzf (Tuduhan Zina)",
+          "start": 147.178,
+          "paragraphs": [
+            {
+              "ar": "مَنْ رَمَى غَيْرَهُ بِالزِّنَا؛ وَجَبَ عَلَيْهِ حَدُّ الْقَذْفِ ثَمَانِينَ جَلْدَةً إِنْ كَانَ حُرًّا، وَأَرْبَعِينَ إِنْ كَانَ مَمْلُوكًا، وَيَثْبُتُ ذَلِكَ بِإِقْرَارِهِ مَرَّةً، أَوْ بِشَهَادَةِ عَدْلَيْنِ، وَإِذَا لَمْ يَتُبْ؛ لَمْ تُقْبَلْ شَهَادَتُهُ أَبَدًا، فَإِنْ جَاءَ بَعْدَ الْقَذْفِ بِأَرْبَعَةِ شُهُودٍ؛ سَقَطَ عَنْهُ الْحَدُّ، وَهَكَذَا إِذَا أَقَرَّ الْمَقْذُوفُ بِالزِّنَا.",
+              "id": "Barangsiapa menuduh orang lain berzina, maka wajib atasnya hukuman had qadzf sebanyak delapan puluh kali cambukan jika ia orang merdeka, dan empat puluh kali jika ia seorang budak. Hal itu ditetapkan dengan pengakuannya sekali, atau dengan kesaksian dua orang yang adil. Apabila ia tidak bertaubat, maka kesaksiannya tidak akan diterima selamanya. Namun apabila ia datang setelah menuduh dengan membawa empat orang saksi, maka gugurlah hukuman had darinya. Demikian pula apabila orang yang dituduh tersebut mengakui perbuatan zinanya.",
+              "start": 147.178,
+              "end": 177.556
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ حَدِّ الشُّرْبِ",
+          "title_id": "Bab Had Minum Khamr",
+          "start": 181.399,
+          "paragraphs": [
+            {
+              "ar": "مَنْ شَرِبَ مُسْكِرًا - مُكَلَّفًا مُخْتَارًا -؛ جُلِدَ عَلَى مَا يَرَاهُ الْإِمَامُ - إِمَّا أَرْبَعِينَ جَلْدَةً، أَوْ أَقَلَّ، أَوْ أَكْثَرَ -؛ وَلَوْ بِالنِّعَالِ، وَيَكْفِي إِقْرَارُهُ مَرَّةً، أَوْ شَهَادَةُ عَدْلَيْنِ - وَلَوْ عَلَى الْقَيْءِ -، وَقَتْلُهُ فِي الرَّابِعَةِ مَنْسُوخٌ.",
+              "id": "Barangsiapa minum minuman yang memabukkan -dalam keadaan mukallaf dan atas kehendaknya sendiri-, maka ia dicambuk sesuai dengan yang dipandang baik oleh pemimpin -baik empat puluh kali cambukan, atau kurang, atau lebih-, sekalipun dengan menggunakan sandal. Cukup satu kali pengakuannya, atau kesaksian dua orang yang adil -sekalipun berdasarkan bau atau bekas muntahannya-. Adapun hukuman bunuh baginya pada pelanggaran keempat kalinya, hukum tersebut telah dihapus (mansukh).",
+              "start": 181.399,
+              "end": 202.587
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Ta'zir dalam Kemaksiatan yang Tidak Mewajibkan Had",
+          "start": 204.72,
+          "paragraphs": [
+            {
+              "ar": "وَالتَّعْزِيرُ فِي الْمَعَاصِي - الَّتِي لَا تُوجِبُ حَدًّا - ثَابِتٌ؛ بِحَبْسٍ، أَوْ ضَرْبٍ، أَوْ نَحْوِهِمَا، وَلَا يُجَاوِزُ عَشَرَةَ أَسْوَاطٍ.",
+              "id": "Ta'zir bagi perbuatan-perbuatan maksiat yang tidak mewajibkan had tetap berlaku, baik berupa penjara, cambukan, atau semacamnya, namun tidak boleh melebihi sepuluh kali cambukan.",
+              "start": 204.72,
+              "end": 214.991
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ حَدِّ الْمُحَارِبِ",
+          "title_id": "Bab Had Muharib (Perampok/Pembegal)",
+          "start": 219.055,
+          "paragraphs": [
+            {
+              "ar": "وَهُوَ أَحَدُ الْأَنْوَاعِ الْمَذْكُورَةِ فِي الْقُرْآنِ الْكَرِيمِ - الْقَتْلُ، أَوِ الصَّلْبُ، أَوْ قَطْعُ الْيَدِ وَالرِّجْلِ مِنْ خِلَافٍ، أَوِ النَّفْيُ مِنَ الْأَرْضِ -، يَفْعَلُ الْإِمَامُ مِنْهَا مَا رَأَى فِيهِ صَلَاحًا؛ لِكُلِّ مَنْ قَطَعَ طَرِيقًا وَلَوْ فِي الْمِصْرِ؛ إِذَا كَانَ قَدْ سَعَى فِي الْأَرْضِ فَسَادًا، فَإِنْ تَابَ قَبْلَ الْقُدْرَةِ عَلَيْهِ؛ سَقَطَ عَنْهُ ذَلِكَ.",
+              "id": "Hukuman bagi perampok (muharib) adalah salah satu dari jenis-jenis hukuman yang disebutkan dalam Al-Qur'an yang mulia -yaitu: dibunuh, disalib, dipotong tangan dan kakinya secara bersilang, atau diasingkan dari negerinya-. Pemimpin memilih salah satu dari hukuman-hukuman tersebut sesuai dengan yang dipandangnya mengandung kemaslahatan, bagi setiap orang yang melakukan perampokan di jalan sekalipun di dalam kota, apabila ia telah berbuat kerusakan di muka bumi. Namun apabila ia bertaubat sebelum berhasil ditangkap, maka gugurlah hukuman tersebut darinya.",
+              "start": 219.055,
+              "end": 246.25
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ مَنْ يَسْتَحِقُّ الْقَتْلَ حَدًّا",
+          "title_id": "Bab Orang yang Berhak Dijatuhi Hukuman Mati",
+          "start": 250.95,
+          "paragraphs": [
+            {
+              "ar": "هُوَ الْحَرْبِيُّ، وَالْمُرْتَدُّ، وَالسَّاحِرُ، وَالْكَاهِنُ، وَالسَّابُّ لِلَّهِ، أَوْ لِرَسُولِهِ، أَوْ لِلْإِسْلَامِ، أَوْ لِلْكِتَابِ، أَوْ لِلسُّنَّةِ، وَالطَّاعِنُ فِي الدِّينِ وَالزِّنْدِيقُ بَعْدَ اسْتِتَابَتِهِمْ، وَالزَّانِي الْمُحْصَنُ، وَاللُّوطِيُّ - مُطْلَقًا -، وَالْمُحَارِبُ.",
+              "id": "Orang-orang yang berhak dijatuhi hukuman mati sebagai had adalah: orang kafir harbi (yang memerangi kaum muslimin), orang yang murtad, tukang sihir, dukun, orang yang mencaci Allah, Rasul-Nya, Islam, Al-Qur'an, atau As-Sunnah, orang yang mencela agama dan orang zindiq setelah diminta bertaubat namun tidak mau, pezina yang telah menikah (muhshan), pelaku liwath secara mutlak, dan perampok (muharib).",
+              "start": 250.95,
+              "end": 272.475
+            }
+          ]
+        }
+      ],
+      "srt_source": "27.srt"
     },
     {
       "no": 28,
@@ -1823,7 +2067,23 @@
       "title_id": "Kitab Qishash",
       "audio_file": "28.%20The%20Book%20of%20Al-Qisas%20%28Law%20of%20Equality%20in%20Punishment%2C%20Retaliation%2C%20Vengeance%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D9%90%D8%B5%D9%8E%D8%A7%D8%B5.mp3",
       "shamela_url": "https://shamela.ws/book/9293/66",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٧ - كِتَابُ الْقِصَاصِ)",
+          "title_id": "Kitab Qishash — Hukum Balasan Setimpal",
+          "start": 2.181,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى الْمُكَلَّفِ الْمُخْتَارِ الْعَامِدِ - إِنِ اخْتَارَ ذَلِكَ الْوَرَثَةُ -؛ وَإِلَّا فَلَهُمْ طَلَبُ الدِّيَةِ، وَتُقْتَلُ الْمَرْأَةُ بِالرَّجُلِ - وَالْعَكْسُ -، وَالْعَبْدُ بِالْحُرِّ، وَالْكَافِرُ بِالْمُسْلِمِ - لَا الْعَكْسُ -، وَالْفَرْعُ بِالْأَصْلِ - لَا الْعَكْسُ -، وَيَثْبُتُ الْقِصَاصُ فِي الْأَعْضَاءِ وَنَحْوِهَا، وَالْجُرُوحِ - مَعَ الْإِمْكَانِ -، وَيَسْقُطُ بِإِبْرَاءِ أَحَدِ الْوَرَثَةِ، وَيَلْزَمُ نَصِيبَ الْآخَرِينَ مِنَ الدِّيَةِ، فَإِنْ كَانَ فِيهِمْ صَغِيرٌ؛ يُنْتَظَرُ فِي الْقِصَاصِ بُلُوغُهُ، وَيُهْدَرُ مَا سَبَّبَهُ مِنَ الْمَجْنِيِّ عَلَيْهِ، وَإِذَا أَمْسَكَ رَجُلٌ وَقَتَلَ آخَرُ؛ قُتِلَ الْقَاتِلُ وَحُبِسَ الْمُمْسِكُ، وَفِي قَتْلِ الْخَطَإِ الدِّيَةُ وَالْكَفَّارَةُ - وَهُوَ مَا لَيْسَ بِعَمْدٍ، أَوْ مِنْ صَبِيٍّ، أَوْ مَجْنُونٍ -، وَهِيَ عَلَى الْعَاقِلَةِ - وَهُمُ الْعَصَبَةُ -.",
+              "id": "Qishash (hukuman balasan setimpal) wajib dilaksanakan terhadap orang mukallaf yang membunuh dengan sengaja dan atas kehendaknya sendiri -jika ahli waris korban memilih untuk menuntut qishash tersebut-; jika tidak, mereka berhak menuntut diyat sebagai gantinya. Perempuan diqishash karena membunuh laki-laki, begitu pula sebaliknya. Budak diqishash karena membunuh orang merdeka. Orang kafir diqishash karena membunuh seorang muslim -namun tidak sebaliknya-. Anak (keturunan) diqishash karena membunuh orang tuanya -namun tidak sebaliknya-. Qishash juga berlaku pada anggota tubuh dan semacamnya, serta pada luka-luka -selama memungkinkan-. Hukuman qishash gugur apabila salah seorang ahli waris memaafkan, namun bagian ahli waris yang lain tetap wajib dibayarkan dari diyat. Apabila di antara ahli waris terdapat anak kecil, pelaksanaan qishash ditunda hingga ia baligh. Sesuatu yang disebabkan oleh perbuatan korban sendiri tidak dikenai tanggungan. Apabila seseorang menahan korban lalu orang lain membunuhnya, maka yang membunuh dihukum qishash sedangkan yang menahan dipenjara. Dalam pembunuhan tidak sengaja, berlaku diyat dan kafarat -yaitu pembunuhan yang bukan disengaja, atau yang dilakukan oleh anak kecil, atau orang gila-, dan kewajiban tersebut dibebankan kepada 'aqilah (keluarga besar pelaku dari pihak ayah).",
+              "start": 2.181,
+              "end": 60.518
+            }
+          ]
+        }
+      ],
+      "srt_source": "28.srt"
     },
     {
       "no": 29,
@@ -1832,7 +2092,37 @@
       "title_id": "Kitab Diyat",
       "audio_file": "29.%20The%20Book%20of%20Ad-Diyaat%20%28Blood%20Money%2C%20Compensation%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AF%D9%90%D9%91%D9%8A%D8%A7%D8%AA.mp3",
       "shamela_url": "https://shamela.ws/book/9293/66",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٨ - كِتَابُ الدِّيَاتِ)",
+          "title_id": "Kitab Diyat — Ketentuan Denda Pembunuhan dan Pelukaan",
+          "start": 1.961,
+          "paragraphs": [
+            {
+              "ar": "دِيَةُ الرَّجُلِ الْمُسْلِمِ مِئَةٌ مِنَ الْإِبِلِ، أَوْ مِئَتَا بَقَرَةٍ، أَوْ أَلْفَا شَاةٍ، أَوْ أَلْفُ دِينَارٍ، أَوِ اثْنَا عَشَرَ أَلْفَ دِرْهَمٍ، أَوْ مِئَتَا حُلَّةٍ، وَتُغَلَّظُ دِيَةُ الْعَمْدِ وَشِبْهِهِ؛ بِأَنْ يَكُونَ الْمِئَةُ مِنَ الْإِبِلِ؛ فِي بُطُونِ أَرْبَعِينَ مِنْهَا أَوْلَادُهَا، وَدِيَةُ الذِّمِّيِّ نِصْفُ دِيَةِ الْمُسْلِمِ، وَدِيَةُ الْمَرْأَةِ نِصْفُ دِيَةِ الرَّجُلِ، وَالْأَطْرَافُ وَغَيْرُهَا كَذَلِكَ فِي الزَّائِدِ عَلَى الثُّلُثِ، وَتَجِبُ الدِّيَةُ كَامِلَةً فِي الْعَيْنَيْنِ، وَالشَّفَتَيْنِ، وَالْيَدَيْنِ، وَالرِّجْلَيْنِ، وَالْبَيْضَتَيْنِ، وَفِي الْوَاحِدَةِ مِنْهَا نِصْفُهَا، وَكَذَلِكَ تَجِبُ كَامِلَةً فِي الْأَنْفِ، وَاللِّسَانِ، وَالذَّكَرِ، وَالصُّلْبِ، وَأَرْشُ الْمَأْمُومَةِ وَالْجَائِفَةِ ثُلُثُ دِيَةِ الْمَجْنِيِّ عَلَيْهِ، وَفِي الْمُنَقِّلَةِ عُشْرُ الدِّيَةِ وَنِصْفُ عُشْرِهَا، وَفِي الْهَاشِمَةِ عُشْرُهَا، وَفِي كُلِّ سِنٍّ نِصْفُ عُشْرِهَا، وَكَذَا فِي الْمُوضِحَةِ، وَمَا عَدَا هَذِهِ الْمُسَمَّاةَ؛ فَيَكُونُ أَرْشُهُ بِمِقْدَارِ نِسْبَتِهِ إِلَى أَحَدِهَا تَقْرِيبًا، وَفِي الْجَنِينِ - إِذَا خَرَجَ مَيِّتًا - الْغُرَّةُ، وَفِي الْعَبْدِ قِيمَتُهُ، وَأَرْشُهُ بِحَسَبِهَا.",
+              "id": "Diyat bagi seorang laki-laki muslim adalah seratus ekor unta, atau dua ratus ekor sapi, atau seribu ekor kambing, atau seribu dinar, atau dua belas ribu dirham, atau dua ratus pasang pakaian. Diyat pembunuhan sengaja dan yang menyerupai sengaja diperberat, yaitu dari seratus ekor unta tersebut, empat puluh ekor di antaranya harus dalam keadaan bunting. Diyat bagi orang kafir dzimmi adalah setengah dari diyat seorang muslim. Diyat bagi seorang perempuan adalah setengah dari diyat seorang laki-laki. Demikian pula diyat anggota tubuh dan lainnya, pada bagian yang melebihi sepertiga. Diyat penuh wajib dibayarkan untuk kedua mata, kedua bibir, kedua tangan, kedua kaki, dan kedua buah zakar; sedangkan untuk salah satu darinya, wajib setengah diyat. Demikian pula wajib diyat penuh untuk hidung, lidah, kemaluan, dan tulang punggung. Denda untuk luka ma'mumah (sampai ke selaput otak) dan luka ja'ifah (menembus rongga tubuh) adalah sepertiga diyat korban. Untuk luka munaqqilah (menggeser tulang) adalah sepersepuluh diyat ditambah setengah dari sepersepuluhnya. Untuk luka hasyimah (meretakkan tulang) adalah sepersepuluh diyat. Untuk setiap gigi adalah setengah dari sepersepuluh diyat, begitu pula untuk luka mudhihah (menampakkan tulang). Adapun luka-luka selain yang telah disebutkan ini, dendanya ditentukan menurut kadar kemiripan tingkat keparahannya dengan salah satu jenis luka tersebut secara perkiraan. Untuk janin -apabila keluar dalam keadaan meninggal- dikenakan denda ghurrah (seorang budak atau senilai dengannya). Untuk budak, dendanya senilai harganya, dan diyat anggota tubuhnya dihitung berdasarkan proporsi dari nilai tersebut.",
+              "start": 1.961,
+              "end": 85.837
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْقَسَامَةِ",
+          "title_id": "Bab Qasamah (Sumpah dalam Kasus Pembunuhan Tak Diketahui Pelakunya)",
+          "start": 88.838,
+          "paragraphs": [
+            {
+              "ar": "إِذَا كَانَ الْقَاتِلُ مِنْ جَمَاعَةٍ مَحْصُورِينَ ثَبَتَتْ - وَهِيَ خَمْسُونَ يَمِينًا -، يَخْتَارُهُمْ وَلِيُّ الْقَتِيلِ، وَالدِّيَةُ - إِنْ نَكَلُوا - عَلَيْهِمْ؛ وَإِنْ حَلَفُوا سَقَطَتْ، وَإِنِ الْتَبَسَ الْأَمْرُ؛ كَانَتْ مِنْ بَيْتِ الْمَالِ.",
+              "id": "Apabila pembunuh berasal dari sekelompok orang tertentu yang terbatas namun tidak diketahui pelakunya secara pasti, maka qasamah (sumpah) ditetapkan -yaitu lima puluh kali sumpah-, yang orang-orangnya dipilih oleh wali korban terbunuh. Diyat dibebankan kepada mereka apabila mereka menolak bersumpah. Namun apabila mereka bersedia bersumpah, maka gugurlah kewajiban diyat tersebut. Dan apabila perkaranya tidak jelas, maka diyat dibayar dari baitul mal (kas negara).",
+              "start": 88.838,
+              "end": 105.566
+            }
+          ]
+        }
+      ],
+      "srt_source": "29.srt"
     },
     {
       "no": 30,
@@ -1841,7 +2131,22 @@
       "title_id": "Kitab Wasiat",
       "audio_file": "30.%20The%20Book%20of%20Al-Wasiyyah%20%28Wills%20%26%20Testament%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%88%D8%B5%D9%90%D9%8A%D9%91%D8%A9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/67",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٢٩ - كِتَابُ الْوَصِيَّةِ)",
+          "title_id": "Kitab Wasiat — Ketentuan Berwasiat",
+          "start": 0.088,
+          "paragraphs": [
+            {
+              "ar": "تَجِبُ عَلَى مَنْ لَهُ مَا يُوصِي فِيهِ، وَلَا تَصِحُّ ضِرَارًا، وَلَا لِوَارِثٍ، وَلَا فِي مَعْصِيَةٍ، وَهِيَ - فِي الْقُرْبِ - مِنَ الثُّلُثِ، وَيَجِبُ تَقْدِيمُ قَضَاءِ الدُّيُونِ، وَمَنْ لَمْ يَتْرُكْ مَا يَقْضِي دَيْنَهُ؛ قَضَاهُ السُّلْطَانُ مِنْ بَيْتِ الْمَالِ.",
+              "id": "Wasiat wajib bagi orang yang memiliki sesuatu untuk diwasiatkan. Wasiat tidak sah jika bertujuan mencelakakan ahli waris, juga tidak sah diberikan kepada ahli waris, dan tidak sah pula jika berupa kemaksiatan. Batas wasiat yang paling mendekati (dianjurkan) adalah sepertiga dari harta. Wajib mendahulukan pelunasan utang sebelum wasiat dan warisan dibagikan. Barang siapa yang tidak meninggalkan harta untuk melunasi utangnya, maka penguasa (pemerintah) yang akan melunasinya dari baitulmal (kas negara).",
+              "start": 2.189,
+              "end": 21.515
+            }
+          ]
+        }
+      ]
     },
     {
       "no": 31,
@@ -1850,7 +2155,22 @@
       "title_id": "Kitab Mawarits (Waris)",
       "audio_file": "31.%20The%20Book%20of%20Al-Mawaareeth%20%28Inheritance%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%8E%D9%88%D8%A7%D8%B1%D9%90%D9%8A%D8%AB.mp3",
       "shamela_url": "https://shamela.ws/book/9293/67",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٣٠ - كِتَابُ الْمَوَارِيثِ)",
+          "title_id": "Kitab Mawarits — Hukum Waris",
+          "start": 0.12,
+          "paragraphs": [
+            {
+              "ar": "هِيَ مُفَصَّلَةٌ فِي الْكِتَابِ الْعَزِيزِ، وَيَجِبُ الِابْتِدَاءُ بِذَوِي الْفُرُوضِ الْمُقَدَّرَةِ، وَمَا بَقِيَ فَلِلْعَصَبَةِ، وَالْأَخَوَاتُ مَعَ الْبَنَاتِ عَصَبَةٌ، وَلِبِنْتِ الِابْنِ مَعَ الْبِنْتِ السُّدُسُ تَكْمِلَةَ الثُّلُثَيْنِ، وَكَذَا الْأُخْتُ لِأَبٍ مَعَ الْأُخْتِ لِأَبَوَيْنِ، وَلِلْجَدَّةِ أَوِ الْجَدَّاتِ السُّدُسُ مَعَ عَدَمِ الْأُمِّ، وَهُوَ لِلْجَدِّ مَعَ مَنْ لَا يُسْقِطُهُ، وَلَا مِيرَاثَ لِلْإِخْوَةِ وَالْأَخَوَاتِ مُطْلَقًا مَعَ الِابْنِ أَوِ ابْنِ الِابْنِ أَوِ الْأَبِ، وَفِي مِيرَاثِهِمْ مَعَ الْجَدِّ خِلَافٌ، وَيَرِثُونَ مَعَ الْبَنَاتِ إِلَّا الْإِخْوَةَ لِأُمٍّ، وَيَسْقُطُ الْأَخُ لِأَبٍ مَعَ الْأَخِ لِأَبَوَيْنِ، وَأُولُو الْأَرْحَامِ يَتَوَارَثُونَ؛ وَهُمْ أَقْدَمُ مِنْ بَيْتِ الْمَالِ؛ فَإِنْ تَزَاحَمَتِ الْفَرَائِضُ فَالْعَوْلُ، وَلَا يَرِثُ وَلَدُ الْمُلَاعَنَةِ وَالزَّانِيَةِ؛ إِلَّا مِنْ أُمِّهِ وَقَرَابَتِهَا وَالْعَكْسُ، وَلَا يَرِثُ الْمَوْلُودُ إِلَّا إِذَا اسْتَهَلَّ، وَمِيرَاثُ الْعَتِيقِ لِمُعْتِقِهِ، وَيَسْقُطُ بِالْعَصَبَاتِ، وَلَهُ الْبَاقِي بَعْدَ ذَوِي السِّهَامِ، وَيَحْرُمُ بَيْعُ الْوَلَاءِ وَهِبَتُهُ، وَلَا تَوَارُثَ بَيْنَ أَهْلِ مِلَّتَيْنِ، وَلَا يَرِثُ الْقَاتِلُ مِنَ الْمَقْتُولِ.",
+              "id": "Hukum warisan telah dijelaskan secara rinci dalam Kitab yang mulia (Al-Qur'an). Wajib memulai pembagian dengan ahli waris yang memiliki bagian tertentu (dzawil furudh), dan sisanya menjadi hak ashabah. Saudari-saudari perempuan menjadi ashabah bila bersama anak-anak perempuan pewaris. Cucu perempuan dari anak laki-laki bersama anak perempuan mendapat seperenam sebagai penggenap dua pertiga. Demikian pula saudari seayah bersama saudari sekandung. Nenek atau para nenek mendapat seperenam bila tidak ada ibu. Bagian seperenam itu juga berlaku bagi kakek bila bersama orang yang tidak menggugurkan haknya. Saudara-saudari sama sekali tidak mendapat warisan bila bersama anak laki-laki, cucu laki-laki dari anak laki-laki, atau ayah pewaris. Adapun warisan mereka bersama kakek, terdapat perselisihan ulama. Mereka tetap mewarisi bersama anak-anak perempuan, kecuali saudara-saudari seibu. Saudara seayah gugur haknya bila ada saudara sekandung. Kerabat dzawil arham saling mewarisi satu sama lain, dan mereka lebih didahulukan daripada baitulmal. Apabila bagian-bagian warisan yang ditetapkan melebihi harta yang ada, maka dilakukan al-'aul (pengurangan proporsional). Anak hasil li'an dan anak zina tidak mewarisi dari pihak ayah, kecuali dari ibunya dan kerabat ibunya, demikian pula sebaliknya. Bayi yang lahir tidak mewarisi kecuali jika ia lahir dalam keadaan hidup. Warisan budak yang dimerdekakan menjadi hak orang yang memerdekakannya, namun hak ini gugur bila ada ashabah, dan ia mendapat sisa setelah dibagikan kepada ahli waris dzawil furudh. Haram menjual atau menghibahkan hak wala' (perwalian atas budak yang dimerdekakan). Tidak ada saling mewarisi antara pemeluk dua agama yang berbeda. Pembunuh tidak mewarisi dari orang yang dibunuhnya.",
+              "start": 2.402,
+              "end": 28.655
+            }
+          ]
+        }
+      ]
     },
     {
       "no": 32,
@@ -1859,7 +2179,92 @@
       "title_id": "Kitab Jihad wa Siyar",
       "audio_file": "32.%20The%20Book%20of%20Al-Jihaad%20was-Siyar%20%28Jihaad%20%26%20History%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AC%D9%90%D9%87%D9%8E%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D8%B3%D9%90%D9%91%D9%8A%D9%8E%D8%B1.mp3",
       "shamela_url": "https://shamela.ws/book/9293/68",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٣١ - كِتَابُ الْجِهَادِ وَالسِّيَرِ)",
+          "title_id": "Kitab Jihad wa Siyar — Ketentuan Umum Jihad",
+          "start": 0.152,
+          "paragraphs": [
+            {
+              "ar": "الْجِهَادُ فَرْضُ كِفَايَةٍ مَعَ كُلِّ بَرٍّ وَفَاجِرٍ - إِذَا أَذِنَ الْأَبَوَانِ -، وَهُوَ - مَعَ إِخْلَاصِ النِّيَّةِ - يُكَفِّرُ الْخَطَايَا إِلَّا الدَّيْنَ، وَيَلْحَقُ بِهِ حُقُوقُ الْآدَمِيِّينَ، وَلَا يُسْتَعَانُ فِيهِ بِالْمُشْرِكِينَ إِلَّا لِضَرُورَةٍ، وَيَجِبُ عَلَى الْجَيْشِ طَاعَةُ أَمِيرِهِمْ؛ إِلَّا فِي مَعْصِيَةِ اللَّهِ، وَعَلَيْهِ مُشَاوَرَتُهُمْ، وَالرِّفْقُ بِهِمْ، وَكَفُّهُمْ عَنِ الْحَرَامِ، وَيُشْرَعُ لِلْإِمَامِ إِذَا أَرَادَ غَزْوًا أَنْ يُوَرِّيَ بِغَيْرِ مَا يُرِيدُهُ، وَأَنْ يُذَكِّيَ الْعُيُونَ، وَيَسْتَطْلِعَ الْأَخْبَارَ، وَيُرَتِّبَ الْجُيُوشَ، وَيَتَّخِذَ الرَّايَاتِ وَالْأَلْوِيَةَ، وَتَجِبُ الدَّعْوَةُ قَبْلَ الْقِتَالِ إِلَى إِحْدَى ثَلَاثِ خِصَالٍ: إِمَّا الْإِسْلَامُ، أَوِ الْجِزْيَةُ، أَوِ السَّيْفُ، وَيَحْرُمُ قَتْلُ النِّسَاءِ، وَالْأَطْفَالِ، وَالشُّيُوخِ - إِلَّا لِضَرُورَةٍ -، وَالْمُثْلَةُ، وَالْإِحْرَاقُ بِالنَّارِ، وَالْفِرَارُ مِنَ الزَّحْفِ - إِلَّا إِلَى فِئَةٍ -، وَيَجُوزُ تَبْيِيتُ الْكُفَّارِ، وَالْكَذِبُ فِي الْحَرْبِ وَالْخِدَاعُ.",
+              "id": "Jihad hukumnya fardhu kifayah bersama setiap orang, baik yang baik maupun yang fasik — apabila kedua orang tua mengizinkannya. Jihad, disertai keikhlasan niat, dapat menghapuskan dosa-dosa kecuali utang, sedangkan hak-hak sesama manusia tetap melekat padanya. Tidak boleh meminta bantuan orang musyrik dalam jihad kecuali dalam keadaan darurat. Wajib bagi pasukan menaati pemimpin mereka, kecuali dalam kemaksiatan kepada Allah. Pemimpin wajib bermusyawarah dengan mereka, bersikap lemah lembut, dan mencegah mereka dari yang haram. Disyariatkan bagi pemimpin, apabila hendak berperang, untuk menyamarkan tujuannya, mengirim mata-mata, mencari informasi, mengatur barisan pasukan, serta mengibarkan bendera dan panji. Wajib menyampaikan dakwah sebelum berperang kepada salah satu dari tiga pilihan: masuk Islam, membayar jizyah, atau perang. Haram membunuh perempuan, anak-anak, dan orang tua renta — kecuali dalam keadaan darurat —, mencincang mayat, membakar dengan api, serta lari dari medan pertempuran kecuali untuk bergabung dengan pasukan lain. Boleh menyerang musuh secara mendadak di malam hari, serta berbohong dan menipu dalam peperangan.",
+              "start": 3.153,
+              "end": 81.528
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Pembagian Harta Rampasan Perang (Ghanimah)",
+          "start": 82.789,
+          "paragraphs": [
+            {
+              "ar": "وَمَا غَنِمَهُ الْجَيْشُ؛ كَانَ لَهُمْ أَرْبَعَةُ أَخْمَاسِهِ، وَخُمْسُهُ يَصْرِفُهُ الْإِمَامُ فِي مَصَارِفِهِ، وَيَأْخُذُ الْفَارِسُ مِنَ الْغَنِيمَةِ ثَلَاثَةَ أَسْهُمٍ، وَالرَّاجِلُ سَهْمًا، وَيَسْتَوِي فِي ذَلِكَ الْقَوِيُّ وَالضَّعِيفُ، وَمَنْ قَاتَلَ وَمَنْ لَمْ يُقَاتِلْ، وَيَجُوزُ تَنْفِيلُ الْإِمَامِ بَعْضَ الْجَيْشِ، وَلِلْإِمَامِ الصَّفِيُّ، وَسَهْمُهُ كَأَحَدِ الْجَيْشِ، وَيَرْضَخُ مِنَ الْغَنِيمَةِ لِمَنْ حَضَرَ، وَيُؤْثِرُ الْمُؤَلَّفَةَ إِنْ رَأَى فِي ذَلِكَ صَلَاحًا، وَإِذَا رَجَعَ مَا أَخَذَهُ الْكُفَّارُ مِنَ الْمُسْلِمِينَ كَانَ لِمَالِكِهِ، وَيَحْرُمُ الِانْتِفَاعُ بِشَيْءٍ مِنَ الْغَنِيمَةِ قَبْلَ الْقِسْمَةِ - إِلَّا الطَّعَامَ وَالْعَلَفَ -، وَيَحْرُمُ الْغُلُولُ، وَمِنْ جُمْلَةِ الْغَنِيمَةِ الْأَسْرَى؛ وَيَجُوزُ الْقَتْلُ، أَوِ الْفِدَاءُ، أَوِ الْمَنُّ.",
+              "id": "Apa yang dirampas pasukan dari harta perang, empat perlima bagian menjadi hak mereka, dan seperlimanya dibelanjakan oleh Imam sesuai peruntukannya. Pasukan berkuda mendapat tiga bagian dari harta rampasan, sedangkan pasukan berjalan kaki mendapat satu bagian. Dalam hal ini sama saja antara yang kuat dan yang lemah, yang ikut bertempur maupun yang tidak. Imam boleh memberikan tambahan bagian (nafl) kepada sebagian pasukan. Imam berhak atas ash-shafiy (barang pilihan sebelum pembagian), dan bagiannya dari sisa harta rampasan sama seperti anggota pasukan lainnya. Imam boleh memberikan sebagian harta rampasan kepada orang yang hadir meski tidak ikut berperang. Imam boleh memprioritaskan al-muallafah qulubuhum jika dipandang ada maslahat. Apabila harta yang dirampas orang kafir dari kaum muslimin kembali direbut, maka dikembalikan kepada pemiliknya semula. Haram memanfaatkan sesuatu dari harta rampasan sebelum dibagikan, kecuali makanan dan pakan ternak. Haram melakukan ghulul (penggelapan harta rampasan). Termasuk harta rampasan adalah para tawanan, dan Imam boleh memilih untuk membunuh mereka, menebus mereka, atau membebaskan mereka secara cuma-cuma.",
+              "start": 83.93,
+              "end": 143.278
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Hukum Tawanan, Tanah Rampasan, dan Gencatan Senjata",
+          "start": 144.099,
+          "paragraphs": [
+            {
+              "ar": "وَيَجُوزُ اسْتِرْقَاقُ الْعَرَبِ، وَقَتْلُ الْجَاسُوسِ، وَإِذَا أَسْلَمَ الْحَرْبِيُّ قَبْلَ الْقُدْرَةِ عَلَيْهِ أَحْرَزَ أَمْوَالَهُ، وَإِذَا أَسْلَمَ عَبْدُ الْكَافِرِ؛ صَارَ حُرًّا، وَالْأَرْضُ الْمَغْنُومَةُ أَمْرُهَا إِلَى الْإِمَامِ؛ فَيَفْعَلُ الْأَصْلَحَ مِنْ قِسْمَتِهَا، أَوْ تَرْكِهَا مُشْتَرَكَةً بَيْنَ الْغَانِمِينَ، أَوْ بَيْنَ جَمِيعِ الْمُسْلِمِينَ، وَمَنْ أَمَّنَهُ أَحَدُ الْمُسْلِمِينَ؛ صَارَ آمِنًا، وَالرَّسُولُ كَالْمُؤْمِنِ، وَتَجُوزُ مُهَادَنَةُ الْكُفَّارِ وَلَوْ بِشَرْطٍ، وَإِلَى أَجَلٍ أَكْثَرُهُ عَشْرُ سِنِينَ، وَيَجُوزُ تَأْيِيدُ الْمُهَادَنَةِ بِالْجِزْيَةِ، وَيُمْنَعُ الْمُشْرِكُونَ وَأَهْلُ الذِّمَّةِ مِنَ السُّكُونِ مِنْ جَزِيرَةِ الْعَرَبِ.",
+              "id": "Boleh memperbudak tawanan dari kalangan Arab. Boleh membunuh mata-mata musuh. Apabila orang harbi (musuh yang memerangi) masuk Islam sebelum kaum muslimin mampu menguasainya, maka hartanya tetap menjadi miliknya. Apabila budak milik orang kafir masuk Islam, maka ia menjadi merdeka. Tanah yang dirampas urusannya diserahkan kepada Imam; ia melakukan yang paling maslahat, baik dengan membaginya kepada yang berhak, atau membiarkannya menjadi milik bersama di antara para prajurit yang merampasnya, atau milik bersama seluruh kaum muslimin. Barang siapa yang diberi jaminan keamanan oleh salah seorang muslim, maka ia menjadi aman. Utusan dari pihak musuh statusnya sama seperti orang yang beriman. Boleh mengadakan gencatan senjata dengan orang-orang kafir, sekalipun disertai syarat, dengan batas waktu paling lama sepuluh tahun. Boleh menguatkan perjanjian gencatan senjata dengan pembayaran jizyah. Orang-orang musyrik dan ahli dzimmah dilarang menetap di Jazirah Arab.",
+              "start": 145.221,
+              "end": 194.839
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Hukum Memerangi Kelompok Pemberontak (Bughat)",
+          "start": 196.2,
+          "paragraphs": [
+            {
+              "ar": "وَيَجِبُ قِتَالُ الْبُغَاةِ حَتَّى يَرْجِعُوا إِلَى الْحَقِّ، وَلَا يُقْتَلُ أَسِيرُهُمْ، وَلَا يُتْبَعُ مُدْبِرُهُمْ، وَلَا يُجَازُ عَلَى جَرِيحِهِمْ، وَلَا تُغْنَمُ أَمْوَالُهُمْ.",
+              "id": "Wajib memerangi kelompok pemberontak (bughat) hingga mereka kembali kepada kebenaran. Tawanan dari mereka tidak boleh dibunuh, orang yang melarikan diri dari mereka tidak boleh dikejar, orang yang terluka dari mereka tidak boleh dihabisi, dan harta mereka tidak boleh dirampas.",
+              "start": 197.48,
+              "end": 211.788
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Ketaatan kepada Pemimpin (Imam) dan Kewajibannya",
+          "start": 212.628,
+          "paragraphs": [
+            {
+              "ar": "وَطَاعَةُ الْأَئِمَّةِ وَاجِبَةٌ؛ إِلَّا فِي مَعْصِيَةِ اللَّهِ، وَلَا يَجُوزُ الْخُرُوجُ عَلَيْهِمْ؛ مَا أَقَامُوا الصَّلَاةَ، وَلَمْ يُظْهِرُوا كُفْرًا بَوَاحًا، وَيَجِبُ الصَّبْرُ عَلَى جَوْرِهِمْ، وَبَذْلُ النَّصِيحَةِ لَهُمْ، وَعَلَيْهِمُ الذَّبُّ عَنِ الْمُسْلِمِينَ، وَكَفُّ يَدِ الظَّالِمِ، وَحِفْظُ ثُغُورِهِمْ، وَتَدْبِيرُهُمْ بِالشَّرْعِ فِي الْأَبْدَانِ، وَالْأَدْيَانِ، وَالْأَمْوَالِ، وَتَفْرِيقُ أَمْوَالِ اللَّهِ فِي مَصَارِفِهَا، وَعَدَمُ الِاسْتِئْثَارِ بِمَا فَوْقَ الْكِفَايَةِ بِالْمَعْرُوفِ، وَالْمُبَالَغَةُ فِي إِصْلَاحِ السِّيرَةِ وَالسَّرِيرَةِ.",
+              "id": "Menaati para pemimpin wajib hukumnya, kecuali dalam hal kemaksiatan kepada Allah. Tidak boleh memberontak terhadap mereka selama mereka masih menegakkan shalat dan tidak menampakkan kekufuran yang nyata. Wajib bersabar atas kezaliman mereka dan memberikan nasihat kepada mereka. Kewajiban para pemimpin adalah membela kaum muslimin, mencegah tangan orang zalim, menjaga perbatasan negeri, mengatur urusan rakyat sesuai syariat baik dalam hal jiwa, agama, maupun harta, membagikan harta Allah (baitulmal) sesuai peruntukannya, tidak mengambil untuk diri sendiri lebih dari kadar kecukupan secara wajar, serta bersungguh-sungguh memperbaiki perilaku lahir dan batin.",
+              "start": 213.909,
+              "end": 257.333
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "خَاتِمَةُ الْكِتَابِ",
+          "title_id": "Penutup Kitab (Bait Penutup Penulis)",
+          "start": 258.552,
+          "paragraphs": [
+            {
+              "ar": "تَمَّ الْكِتَابُ وَرَبُّنَا مَحْمُودٌ، وَلَهُ الْمَكَارِمُ وَالْعُلَا وَالْجُودُ، وَعَلَى النَّبِيِّ مُحَمَّدٍ صَلَوَاتُهُ، مَا نَاحَ قُمْرِيٌّ وَأَوْرَقَ عُودُ، وَالْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ.",
+              "id": "Selesailah kitab ini, dan Rabb kami Maha Terpuji, milik-Nyalah segala kemuliaan, ketinggian, dan kedermawanan. Semoga shalawat tercurah atas Nabi Muhammad, selama burung merpati bersenandung dan dahan pohon berdaun hijau. Segala puji bagi Allah yang dengan nikmat-Nya segala kebaikan menjadi sempurna.",
+              "start": 258.552,
+              "end": 276.483
+            }
+          ]
+        }
+      ]
     }
   ]
 }
