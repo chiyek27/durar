@@ -781,7 +781,79 @@
       "title_id": "Kitab Shiyam (Puasa)",
       "audio_file": "06.%20The%20Book%20of%20As-Siyam%20%28Fasting%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85.mp3",
       "shamela_url": "https://shamela.ws/book/9293/43",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٦ - كِتَابُ الصِّيَامِ)",
+          "title_id": "Kitab Shiyam — Ketentuan Puasa Ramadhan",
+          "start": 2.460,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ صِيَامُ رَمَضَانَ لِرُؤْيَةِ هِلَالِهِ مِنْ عَدْلٍ، أَوْ إِكْمَالِ عِدَّةِ شَعْبَانَ، وَيَصُومُ ثَلَاثِينَ يَوْمًا؛ مَا لَمْ يَظْهَرْ هِلَالُ شَوَّالٍ قَبْلَ إِكْمَالِهَا، وَإِذَا رَآهُ أَهْلُ بَلَدٍ؛ لَزِمَ سَائِرَ الْبِلَادِ الْمُوَافَقَةُ، وَعَلَى الصَّائِمِ النِّيَّةُ قَبْلَ الْفَجْرِ.",
+              "id": "Puasa Ramadhan wajib dilaksanakan karena melihat hilalnya dari orang yang adil, atau karena telah sempurnanya bilangan bulan Sya'ban (30 hari). Ia berpuasa selama tiga puluh hari selama hilal Syawal belum tampak sebelum genap tiga puluh hari tersebut. Apabila penduduk suatu negeri telah melihat hilal, maka wajib bagi seluruh negeri lainnya untuk mengikutinya. Bagi orang yang berpuasa wajib berniat sebelum terbit fajar.",
+              "start": 2.460,
+              "end": 24.134
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ مُبْطِلَاتِ الصِّيَامِ",
+          "title_id": "Bab Pembatal-pembatal Puasa",
+          "start": 24.993,
+          "paragraphs": [
+            {
+              "ar": "وَيَبْطُلُ بِالْأَكْلِ، وَالشُّرْبِ، وَالْجِمَاعِ، وَالْقَيْءِ عَمْدًا، وَيَحْرُمُ الْوِصَالُ، وَعَلَى مَنْ أَفْطَرَ عَمْدًا كَفَّارَةٌ كَكَفَّارَةِ الظِّهَارِ، وَيُنْدَبُ تَعْجِيلُ الْفِطْرِ وَتَأْخِيرُ السَّحُورِ.",
+              "id": "Puasa batal karena makan, minum, jima' (berhubungan suami-istri), dan muntah dengan sengaja. Al-wishal (menyambung puasa tanpa berbuka pada malam harinya) diharamkan. Barangsiapa berbuka dengan sengaja tanpa udzur, wajib membayar kafarat sebagaimana kafarat zhihar. Disunnahkan menyegerakan berbuka dan mengakhirkan sahur.",
+              "start": 27.655,
+              "end": 43.266
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Qadha Puasa bagi yang Berhalangan",
+          "start": 44.307,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى مَنْ أَفْطَرَ لِعُذْرٍ شَرْعِيٍّ أَنْ يَقْضِيَ، وَالْفِطْرُ لِلْمُسَافِرِ وَنَحْوِهِ رُخْصَةٌ؛ إِلَّا أَنْ يَخْشَى التَّلَفَ أَوِ الضَّعْفَ عَنِ الْقِتَالِ؛ فَعَزِيمَةٌ، وَمَنْ مَاتَ وَعَلَيْهِ صَوْمٌ؛ صَامَ عَنْهُ وَلِيُّهُ، وَالْكَبِيرُ الْعَاجِزُ عَنِ الْأَدَاءِ وَالْقَضَاءِ؛ يُكَفِّرُ عَنْ كُلِّ يَوْمٍ بِإِطْعَامِ مِسْكِينٍ، وَالصَّائِمُ الْمُتَطَوِّعُ أَمِيرُ نَفْسِهِ، لَا قَضَاءَ عَلَيْهِ وَلَا كَفَّارَةَ.",
+              "id": "Wajib bagi orang yang berbuka karena udzur syar'i untuk mengqadha puasanya. Berbuka bagi musafir dan yang semisalnya adalah keringanan (rukhshah), kecuali jika ia khawatir binasa atau lemah untuk berperang, maka wajib baginya berbuka ('azimah). Barangsiapa meninggal dunia sedangkan ia masih memiliki hutang puasa, maka walinya boleh berpuasa untuknya. Orang tua yang sudah tidak mampu berpuasa maupun mengqadhanya, wajib membayar fidyah dengan memberi makan seorang miskin untuk setiap harinya. Orang yang berpuasa sunnah adalah pemilik atas dirinya sendiri (boleh membatalkan puasanya), tidak ada kewajiban qadha maupun kafarat baginya.",
+              "start": 45.569,
+              "end": 75.194
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ صَوْمِ التَّطَوُّعِ",
+          "title_id": "Bab Puasa Sunnah (Tathawwu')",
+          "start": 76.215,
+          "paragraphs": [
+            {
+              "ar": "يُسْتَحَبُّ صِيَامُ سِتٍّ مِنْ شَوَّالٍ، وَتِسْعِ ذِي الْحِجَّةِ، وَمُحَرَّمٍ، وَشَعْبَانَ، وَالِاثْنَيْنِ وَالْخَمِيسِ، وَأَيَّامِ الْبِيضِ، وَأَفْضَلُ التَّطَوُّعِ صَوْمُ يَوْمٍ وَإِفْطَارُ يَوْمٍ، وَيُكْرَهُ صَوْمُ الدَّهْرِ، وَإِفْرَادُ يَوْمِ الْجُمُعَةِ، وَيَوْمِ السَّبْتِ، وَيَحْرُمُ صَوْمُ الْعِيدَيْنِ، وَأَيَّامِ التَّشْرِيقِ، وَاسْتِقْبَالُ رَمَضَانَ بِيَوْمٍ أَوْ يَوْمَيْنِ.",
+              "id": "Disunnahkan berpuasa enam hari di bulan Syawal, sembilan hari pertama bulan Dzulhijjah, bulan Muharram, bulan Sya'ban, hari Senin dan Kamis, serta hari-hari Ayyamul Bidh (tanggal 13, 14, 15 tiap bulan Hijriah). Puasa sunnah yang paling utama adalah berpuasa sehari dan berbuka sehari (puasa Nabi Dawud). Dimakruhkan berpuasa sepanjang tahun tanpa henti, dan mengkhususkan puasa hanya pada hari Jumat saja atau hari Sabtu saja. Diharamkan berpuasa pada dua hari raya ('Idul Fitri dan 'Idul Adha) dan hari-hari Tasyriq, serta menyongsong bulan Ramadhan dengan berpuasa sehari atau dua hari sebelumnya tanpa sebab syar'i.",
+              "start": 78.456,
+              "end": 108.722
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الِاعْتِكَافِ",
+          "title_id": "Bab I'tikaf",
+          "start": 109.862,
+          "paragraphs": [
+            {
+              "ar": "يُشْرَعُ - وَيَصِحُّ - فِي كُلِّ وَقْتٍ فِي الْمَسَاجِدِ، وَهُوَ فِي رَمَضَانَ آكَدُ، سِيَّمَا فِي الْعَشْرِ الْأَوَاخِرِ مِنْهُ، وَيُسْتَحَبُّ الِاجْتِهَادُ فِي الْعَمَلِ فِيهَا، وَقِيَامُ لَيَالِي الْقَدْرِ، وَلَا يَخْرُجُ الْمُعْتَكِفُ إِلَّا لِحَاجَةٍ.",
+              "id": "I'tikaf disyariatkan -dan sah dilakukan- di masjid kapan saja, namun lebih ditekankan pada bulan Ramadhan, terutama pada sepuluh hari terakhirnya. Disunnahkan bersungguh-sungguh dalam beramal pada hari-hari tersebut serta menghidupkan malam-malam Lailatul Qadar. Orang yang beri'tikaf tidak keluar dari masjid kecuali karena suatu keperluan.",
+              "start": 111.804,
+              "end": 129.819
+            }
+          ]
+        }
+      ],
+      "srt_source": "06.srt"
     },
     {
       "no": 7,
@@ -790,7 +862,121 @@
       "title_id": "Kitab Haji",
       "audio_file": "07.%20The%20Book%20of%20Al-Hajj%20%28Pilgrimage%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC.mp3",
       "shamela_url": "https://shamela.ws/book/9293/44",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٧ - كِتَابُ الْحَجِّ)",
+          "title_id": "Kitab Haji — Kewajiban Haji dan Umrah",
+          "start": 2.421,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى كُلِّ مُكَلَّفٍ مُسْتَطِيعٍ فَوْرًا، وَكَذَلِكَ الْعُمْرَةُ؛ وَمَا زَادَ فَهُوَ نَافِلَةٌ.",
+              "id": "Haji wajib dilaksanakan segera bagi setiap mukallaf yang mampu, demikian pula umrah. Adapun yang lebih dari itu (mengerjakannya lebih dari sekali) hukumnya sunnah (nafilah).",
+              "start": 2.421,
+              "end": 9.783
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Jenis dan Miqat Ihram Haji",
+          "start": 10.583,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ تَعْيِينُ نَوْعِ الْحَجِّ بِالنِّيَّةِ؛ مِنْ تَمَتُّعٍ أَوْ قِرَانٍ أَوْ إِفْرَادٍ، وَالْأَوَّلُ أَفْضَلُهَا، وَيَكُونُ الْإِحْرَامُ مِنَ الْمَوَاقِيتِ الْمَعْرُوفَةِ، وَمَنْ كَانَ دُونَهَا؛ فَمُهَلُّهُ أَهْلُهُ؛ حَتَّى أَهْلُ مَكَّةَ مِنْ مَكَّةَ.",
+              "id": "Wajib menentukan jenis haji dengan niat; apakah tamattu', qiran, atau ifrad, dan yang pertama (tamattu') adalah yang paling utama di antara ketiganya. Ihram dilakukan dari miqat-miqat yang telah diketahui. Barangsiapa tempat tinggalnya berada di dalam batas miqat tersebut, maka ia memulai ihram dari tempat tinggalnya sendiri, bahkan penduduk Makkah pun berihram dari Makkah.",
+              "start": 11.703,
+              "end": 29.267
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Larangan-larangan Ihram",
+          "start": 30.059,
+          "paragraphs": [
+            {
+              "ar": "وَلَا يَلْبَسُ الْمُحْرِمُ الْقَمِيصَ، وَلَا الْعِمَامَةَ، وَلَا الْبُرْنُسَ، وَلَا السَّرَاوِيلَ، وَلَا ثَوْبًا مَسَّهُ وَرْسٌ، وَلَا زَعْفَرَانٌ، وَلَا الْخُفَّيْنِ إِلَّا أَنْ لَا يَجِدَ نَعْلَيْنِ؛ فَلْيَقْطَعْهُمَا حَتَّى يَكُونَا أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلَا تَنْتَقِبُ الْمَرْأَةُ، وَلَا تَلْبَسُ الْقُفَّازَيْنِ، وَمَا مَسَّهُ الْوَرْسُ وَالزَّعْفَرَانُ، وَلَا يَتَطَيَّبُ ابْتِدَاءً، وَلَا يَأْخُذُ مِنْ شَعْرِهِ أَوْ بَشَرِهِ إِلَّا لِعُذْرٍ، وَلَا يَرْفُثُ، وَلَا يَفْسُقُ، وَلَا يُجَادِلُ، وَلَا يَنْكِحُ، وَلَا يُنْكِحُ، وَلَا يَخْطُبُ، وَلَا يَقْتُلُ صَيْدًا، وَمَنْ قَتَلَهُ؛ فَعَلَيْهِ جَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ، وَلَا يَأْكُلُ مَا صَادَهُ غَيْرُهُ؛ إِلَّا إِذَا كَانَ الصَّائِدُ حَلَالًا وَلَمْ يَصِدْهُ لِأَجْلِهِ، وَلَا يَعْضِدُ مِنْ شَجَرِ الْحَرَمِ؛ إِلَّا الْإِذْخِرَ، وَيَجُوزُ قَتْلُ الْفَوَاسِقِ الْخَمْسِ، وَصَيْدُ حَرَمِ الْمَدِينَةِ وَشَجَرُهُ كَحَرَمِ مَكَّةَ؛ إِلَّا أَنَّ مَنْ قَطَعَ شَجَرَهُ أَوْ خَبَطَهُ؛ كَانَ سَلَبُهُ حَلَالًا لِمَنْ وَجَدَهُ، وَيَحْرُمُ صَيْدُ وَجٍّ وَشَجَرُهُ.",
+              "id": "Orang yang berihram tidak boleh memakai qamis (baju berjahit), imamah (sorban), burnus (jubah bertopi), maupun sirwal (celana panjang); tidak boleh memakai pakaian yang terkena wars atau za'faran (pewangi/pewarna). Ia tidak boleh memakai khuf (sepatu tertutup) kecuali jika tidak menemukan sandal, maka ia boleh memotongnya hingga di bawah mata kaki. Wanita tidak boleh memakai cadar (niqab) maupun sarung tangan, atau apa pun yang terkena wars dan za'faran. Tidak boleh memakai wewangian sejak awal ihram. Tidak boleh memotong rambut atau kukunya kecuali karena udzur. Tidak boleh berkata kotor (rafats), berbuat fasik, maupun berbantah-bantahan. Tidak boleh menikah maupun menikahkan orang lain, dan tidak boleh melamar wanita. Tidak boleh membunuh hewan buruan; barangsiapa membunuhnya, wajib membayar tebusan senilai hewan ternak yang dibunuhnya, yang keputusannya ditetapkan oleh dua orang yang adil. Tidak boleh memakan hasil buruan orang lain, kecuali jika pemburunya adalah orang yang halal berburu dan tidak memburunya untuk kepentingan orang yang berihram tersebut. Tidak boleh menebang pohon Tanah Haram kecuali idzkhir (sejenis rerumputan wangi). Diperbolehkan membunuh lima jenis hewan pengganggu (al-fawasiq al-khams). Hewan buruan dan pepohonan Tanah Haram Madinah sama hukumnya dengan Tanah Haram Makkah, hanya saja barangsiapa menebang atau merontokkan daun pohonnya, maka pakaian yang ia kenakan saat itu halal diambil oleh siapa yang menemukannya. Diharamkan pula berburu dan menebang pohon di lembah Wajj.",
+              "start": 31.221,
+              "end": 108.525
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Tawaf Qudum",
+          "start": 109.405,
+          "paragraphs": [
+            {
+              "ar": "وَعِنْدَ قُدُومِ الْحَاجِّ مَكَّةَ؛ يَطُوفُ لِلْقُدُومِ سَبْعَةَ أَشْوَاطٍ، يَرْمُلُ فِي الثَّلَاثَةِ الْأُولَى، وَيَمْشِي فِيمَا بَقِيَ، وَيُقَبِّلُ الْحَجَرَ الْأَسْوَدَ، أَوْ يَسْتَلِمُهُ بِمِحْجَنٍ وَيُقَبِّلُ الْمِحْجَنَ وَنَحْوَهُ، وَيَسْتَلِمُ الرُّكْنَ الْيَمَانِيَ، وَيَكْفِي الْقَارِنَ طَوَافٌ وَاحِدٌ، وَسَعْيٌ وَاحِدٌ، وَيَكُونُ حَالَ الطَّوَافِ مُتَوَضِّئًا سَاتِرَ الْعَوْرَةِ، وَالْحَائِضُ تَفْعَلُ مَا يَفْعَلُ الْحَاجُّ؛ غَيْرَ أَنْ لَا تَطُوفَ بِالْبَيْتِ، وَيُنْدَبُ الذِّكْرُ حَالَ الطَّوَافِ بِالْمَأْثُورِ، وَبَعْدَ فَرَاغِهِ يُصَلِّي رَكْعَتَيْنِ فِي مَقَامِ إِبْرَاهِيمَ، ثُمَّ يَعُودُ إِلَى الرُّكْنِ فَيَسْتَلِمُهُ.",
+              "id": "Ketika jamaah haji tiba di Makkah, ia melakukan tawaf qudum (kedatangan) sebanyak tujuh putaran; berlari-lari kecil (raml) pada tiga putaran pertama, dan berjalan biasa pada putaran yang tersisa. Ia mencium Hajar Aswad, atau jika tidak memungkinkan, mengusapnya dengan tongkat lalu mencium tongkat tersebut atau semisalnya. Ia juga mengusap Rukun Yamani. Bagi yang berhaji qiran cukup melakukan satu kali tawaf dan satu kali sa'i. Ketika tawaf hendaknya dalam keadaan berwudhu dan menutup aurat. Wanita yang sedang haid melakukan seluruh amalan haji sebagaimana jamaah lainnya, kecuali tawaf mengelilingi Ka'bah. Disunnahkan berdzikir dengan dzikir yang ma'tsur (bersumber dari Nabi) selama tawaf. Setelah selesai tawaf, ia shalat dua rakaat di Maqam Ibrahim, kemudian kembali ke Rukun (Hajar Aswad) untuk mengusapnya.",
+              "start": 110.566,
+              "end": 157.753
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Sa'i dan Hari Tarwiyah",
+          "start": 158.634,
+          "paragraphs": [
+            {
+              "ar": "وَيَسْعَى بَيْنَ الصَّفَا وَالْمَرْوَةِ سَبْعَةَ أَشْوَاطٍ دَاعِيًا بِالْمَأْثُورِ، وَإِذَا كَانَ مُتَمَتِّعًا؛ صَارَ بَعْدَ السَّعْيِ حَلَالًا؛ حَتَّى إِذَا كَانَ يَوْمُ التَّرْوِيَةِ؛ أَهَلَّ بِالْحَجِّ، وَتَوَجَّهَ إِلَى مِنًى، وَصَلَّى بِهَا: الظُّهْرَ، وَالْعَصْرَ، وَالْمَغْرِبَ، وَالْعِشَاءَ، وَالْفَجْرَ.",
+              "id": "Ia bersa'i antara Shafa dan Marwah sebanyak tujuh putaran sambil berdoa dengan doa-doa yang ma'tsur. Bagi yang berhaji tamattu', setelah sa'i ia menjadi halal (bertahallul dari ihram umrahnya). Ketika tiba hari Tarwiyah (8 Dzulhijjah), ia berihram kembali untuk haji, lalu menuju Mina dan shalat di sana: Zhuhur, Ashar, Maghrib, Isya, dan Shubuh.",
+              "start": 159.814,
+              "end": 181.549
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Wukuf di Arafah hingga Tawaf Wada'",
+          "start": 182.530,
+          "paragraphs": [
+            {
+              "ar": "ثُمَّ يَأْتِي عَرَفَةَ صُبْحَ يَوْمِ عَرَفَةَ مُلَبِّيًا مُكَبِّرًا، وَيَجْمَعُ الْعَصْرَيْنِ فِيهَا، وَيَخْطُبُ، ثُمَّ يُفِيضُ مِنْ عَرَفَةَ بَعْدَ الْغُرُوبِ، وَيَأْتِي الْمُزْدَلِفَةَ؛ وَيَجْمَعُ فِيهَا بَيْنَ الْعِشَاءَيْنِ، ثُمَّ يَبِيتُ بِهَا، ثُمَّ يُصَلِّي الْفَجْرَ، وَيَأْتِي الْمَشْعَرَ؛ فَيَذْكُرُ اللَّهَ عِنْدَهُ، وَيَقِفُ بِهِ إِلَى قَبْلَ طُلُوعِ الشَّمْسِ، ثُمَّ يَدْفَعُ حَتَّى يَأْتِيَ بَطْنَ مُحَسِّرٍ، ثُمَّ يَسْلُكُ الطَّرِيقَ الْوُسْطَى إِلَى الْجَمْرَةِ الَّتِي عِنْدَ الشَّجَرَةِ وَهِيَ جَمْرَةُ الْعَقَبَةِ، فَيَرْمِيهَا بِسَبْعِ حَصَيَاتٍ؛ يُكَبِّرُ مَعَ كُلِّ حَصَاةٍ - مِثْلَ حَصَى الْخَذْفِ -، وَلَا يَرْمِيهَا إِلَّا بَعْدَ طُلُوعِ الشَّمْسِ؛ إِلَّا النِّسَاءَ وَالصِّبْيَانَ؛ فَيَجُوزُ لَهُمْ قَبْلَ ذَلِكَ، وَيَحْلِقُ رَأْسَهُ أَوْ يُقَصِّرُهُ، فَيَحِلُّ لَهُ كُلُّ شَيْءٍ إِلَّا النِّسَاءَ، وَمَنْ حَلَقَ أَوْ ذَبَحَ أَوْ أَفَاضَ إِلَى الْبَيْتِ قَبْلَ أَنْ يَرْمِيَ؛ فَلَا حَرَجَ، ثُمَّ يَرْجِعُ إِلَى مِنًى: فَيَبِيتُ بِهَا لَيَالِيَ التَّشْرِيقِ، وَيَرْمِي فِي كُلِّ يَوْمٍ مِنْ أَيَّامِ التَّشْرِيقِ الْجَمَرَاتِ الثَّلَاثَ بِسَبْعِ حَصَيَاتٍ؛ مُبْتَدِئًا بِالْجَمْرَةِ الدُّنْيَا، ثُمَّ الْوُسْطَى، ثُمَّ جَمْرَةَ الْعَقَبَةِ، وَيُسْتَحَبُّ لِمَنْ يَحُجُّ بِالنَّاسِ أَنْ يَخْطُبَهُمْ يَوْمَ النَّحْرِ، وَفِي وَسَطِ أَيَّامِ التَّشْرِيقِ، وَيَطُوفُ الْحَاجُّ طَوَافَ الْإِفَاضَةِ - وَهُوَ طَوَافُ الزِّيَارَةِ - يَوْمَ النَّحْرِ، وَإِذَا فَرَغَ مِنْ أَعْمَالِ الْحَجِّ، وَأَرَادَ الرُّجُوعَ؛ طَافَ لِلْوَدَاعِ وُجُوبًا؛ إِلَّا أَنَّهُ خُفِّفَ عَنِ الْحَائِضِ.",
+              "id": "Kemudian ia menuju Arafah pada pagi hari Arafah sambil bertalbiyah dan bertakbir; ia menjamak shalat Zhuhur dan Ashar di sana, lalu berkhutbah, kemudian bertolak (ifadhah) dari Arafah setelah matahari terbenam. Ia menuju Muzdalifah, menjamak antara shalat Maghrib dan Isya di sana, kemudian bermalam di sana, lalu shalat Shubuh. Ia mendatangi Masy'aril Haram untuk berdzikir kepada Allah di sana, dan berhenti di sana hingga sebelum terbit matahari. Kemudian ia bertolak hingga sampai di Bathn Muhassir, lalu menempuh jalan tengah menuju jamrah yang berada di dekat pohon, yaitu Jamrah Aqabah, lalu melemparnya dengan tujuh butir kerikil sambil bertakbir pada setiap lemparan -seukuran batu untuk melempar (hashal khadzfi)-. Ia tidak melemparnya kecuali setelah terbit matahari, kecuali bagi wanita dan anak-anak, mereka boleh melemparnya sebelum itu. Kemudian ia mencukur atau memendekkan rambutnya, sehingga halal baginya segala sesuatu kecuali berhubungan dengan istri. Barangsiapa mencukur rambut, menyembelih, atau bertolak ke Baitullah sebelum melempar jumrah, maka tidak mengapa. Kemudian ia kembali ke Mina untuk bermalam pada malam-malam Tasyriq, dan melempar tiga jumrah pada setiap hari dari hari-hari Tasyriq dengan tujuh butir kerikil, dimulai dari jumrah yang terdekat (Ula), kemudian jumrah pertengahan (Wustha), kemudian Jamrah Aqabah. Disunnahkan bagi orang yang memimpin rombongan haji untuk berkhutbah kepada mereka pada hari Nahr (10 Dzulhijjah) dan di pertengahan hari-hari Tasyriq. Jamaah haji melakukan tawaf ifadhah -yaitu tawaf ziarah- pada hari Nahr. Apabila telah selesai dari seluruh amalan haji dan hendak kembali pulang, ia wajib melakukan tawaf wada' (perpisahan), hanya saja kewajiban ini diringankan bagi wanita yang sedang haid.",
+              "start": 183.671,
+              "end": 293.278
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Hadyu (Sembelihan Haji)",
+          "start": 294.139,
+          "paragraphs": [
+            {
+              "ar": "وَالْهَدْيُ؛ أَفْضَلُهُ الْبَدَنَةُ، ثُمَّ الْبَقَرَةُ، ثُمَّ الشَّاةُ، وَتُجْزِئُ الْبَدَنَةُ وَالْبَقَرَةُ عَنْ سَبْعَةٍ، وَيَجُوزُ لِلْمُهْدِي أَنْ يَأْكُلَ مِنْ لَحْمِ هَدْيِهِ، وَيَرْكَبَ عَلَيْهِ، وَيُنْدَبُ لَهُ إِشْعَارُهُ وَتَقْلِيدُهُ، وَمَنْ بَعَثَ بِهَدْيٍ؛ لَمْ يَحْرُمْ عَلَيْهِ شَيْءٌ مِمَّا يَحْرُمُ عَلَى الْمُحْرِمِ.",
+              "id": "Adapun hadyu (hewan sembelihan haji), yang paling utama adalah unta, kemudian sapi, kemudian kambing. Seekor unta atau sapi mencukupi untuk tujuh orang. Orang yang berkurban boleh memakan sebagian daging hadyunya dan boleh menungganginya. Disunnahkan baginya memberi tanda (isy'ar) dan mengalungkan sesuatu (taqlid) pada hewan tersebut. Barangsiapa mengirimkan hadyu tanpa ikut berihram, maka tidak diharamkan baginya sesuatu pun dari larangan-larangan yang berlaku bagi orang yang berihram.",
+              "start": 295.220,
+              "end": 317.530
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْعُمْرَةِ الْمُفْرَدَةِ",
+          "title_id": "Bab Umrah Mufradah (Umrah Tersendiri)",
+          "start": 318.530,
+          "paragraphs": [
+            {
+              "ar": "يُحْرِمُ لَهَا مِنَ الْمِيقَاتِ، وَمَنْ كَانَ فِي مَكَّةَ؛ خَرَجَ إِلَى الْحِلِّ، ثُمَّ يَطُوفُ، وَيَسْعَى، وَيَحْلِقُ - أَوْ يُقَصِّرُ -، وَهِيَ مَشْرُوعَةٌ فِي جَمِيعِ السَّنَةِ.",
+              "id": "Untuk umrah, seseorang berihram dari miqat. Adapun orang yang sudah berada di Makkah, ia keluar menuju Tanah Halal (di luar batas Tanah Haram) untuk memulai ihram dari sana. Kemudian ia melakukan tawaf, sa'i, lalu mencukur atau memendekkan rambutnya. Umrah disyariatkan (boleh dilakukan) kapan saja sepanjang tahun.",
+              "start": 320.891,
+              "end": 333.500
+            }
+          ]
+        }
+      ],
+      "srt_source": "07.srt"
     },
     {
       "no": 8,
@@ -799,7 +985,93 @@
       "title_id": "Kitab Nikah",
       "audio_file": "08.%20The%20Book%20of%20Nikah%20%28Marriage%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD.mp3",
       "shamela_url": "https://shamela.ws/book/9293/47",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٨ - كِتَابُ النِّكَاحِ)",
+          "title_id": "Kitab Nikah — Anjuran Menikah dan Kriteria Pasangan",
+          "start": 2.916,
+          "paragraphs": [
+            {
+              "ar": "يُشْرَعُ لِمَنِ اسْتَطَاعَ الْبَاءَةَ، وَيَجِبُ عَلَى مَنْ خَشِيَ الْوُقُوعَ فِي الْمَعْصِيَةِ، وَالتَّبَتُّلُ غَيْرُ جَائِزٍ؛ إِلَّا لِعَجْزٍ عَنِ الْقِيَامِ بِمَا لَا بُدَّ مِنْهُ، وَيَنْبَغِي أَنْ تَكُونَ الْمَرْأَةُ وَدُودًا، وَلُودًا، بِكْرًا، ذَاتَ جَمَالٍ، وَحَسَبٍ، وَدِينٍ، وَمَالٍ، وَتُخْطَبُ الْكَبِيرَةُ إِلَى نَفْسِهَا، وَالْمُعْتَبَرُ حُصُولُ الرِّضَا مِنْهَا لِمَنْ كَانَ كُفْأً، وَالصَّغِيرَةُ إِلَى وَلِيِّهَا، وَرِضَا الْبِكْرِ صُمَاتُهَا، وَتَحْرُمُ الْخِطْبَةُ فِي الْعِدَّةِ وَعَلَى الْخِطْبَةِ، وَيُسْتَحَبُّ النَّظَرُ إِلَى الْمَخْطُوبَةِ، وَلَا نِكَاحَ إِلَّا بِوَلِيٍّ وَشَاهِدَيْنِ؛ إِلَّا أَنْ يَكُونَ عَاضِلًا، أَوْ غَيْرَ مُسْلِمٍ؛ وَيَجُوزُ لِكُلِّ وَاحِدٍ مِنَ الزَّوْجَيْنِ أَنْ يُوَكِّلَ لِعَقْدِ النِّكَاحِ وَلَوْ وَاحِدًا.",
+              "id": "Nikah disyariatkan bagi orang yang mampu menikah, dan wajib bagi orang yang khawatir terjerumus dalam maksiat (zina). Membujang (tabattul) tidak diperbolehkan, kecuali karena tidak mampu memenuhi kewajiban-kewajiban yang harus dipenuhi dalam pernikahan. Hendaknya wanita yang dinikahi memiliki sifat penyayang, subur (banyak keturunan), perawan, memiliki kecantikan, keturunan (nasab) yang baik, agama yang baik, serta harta. Wanita dewasa dilamar dengan persetujuan dirinya sendiri, dan yang menjadi patokan adalah adanya kerelaan darinya bagi yang sekufu (sepadan) dengannya. Wanita yang masih kecil dilamar melalui walinya. Persetujuan gadis (perawan) cukup dengan diamnya. Diharamkan melamar wanita yang masih dalam masa iddah maupun melamar wanita yang telah dilamar orang lain dan lamarannya diterima. Disunnahkan melihat wanita yang hendak dilamar. Tidak sah nikah kecuali dengan adanya wali dan dua orang saksi, kecuali jika walinya enggan menikahkan tanpa alasan syar'i atau wali tersebut bukan muslim. Diperbolehkan bagi masing-masing dari kedua mempelai untuk mewakilkan akad nikahnya, sekalipun kepada satu orang saja.",
+              "start": 2.916,
+              "end": 59.369
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Nikah yang Dilarang",
+          "start": 60.590,
+          "paragraphs": [
+            {
+              "ar": "وَنِكَاحُ الْمُتْعَةِ مَنْسُوخٌ، وَالتَّحْلِيلُ حَرَامٌ، وَكَذَلِكَ الشِّغَارُ، وَيَجِبُ عَلَى الزَّوْجِ الْوَفَاءُ بِشَرْطِ الْمَرْأَةِ؛ إِلَّا أَنْ يُحِلَّ حَرَامًا، أَوْ يُحَرِّمَ حَلَالًا.",
+              "id": "Nikah mut'ah telah dihapus hukumnya (mansukh), dan nikah tahlil (untuk menghalalkan mantan istri yang telah ditalak tiga) hukumnya haram, demikian pula nikah syighar (tukar-menukar anak perempuan tanpa mahar). Suami wajib memenuhi syarat yang diajukan istri dalam akad nikah, kecuali jika syarat tersebut menghalalkan yang haram atau mengharamkan yang halal.",
+              "start": 61.730,
+              "end": 75.896
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْمُحَرَّمَاتِ فِي النِّكَاحِ",
+          "title_id": "Bab Wanita dan Bilangan yang Diharamkan dalam Nikah",
+          "start": 77.420,
+          "paragraphs": [
+            {
+              "ar": "وَيَحْرُمُ عَلَى الرَّجُلِ أَنْ يَنْكِحَ زَانِيَةً أَوْ مُشْرِكَةً؛ وَالْعَكْسُ، وَمَنْ صَرَّحَ الْقُرْآنُ بِتَحْرِيمِهِ، وَالرَّضَاعُ كَالنَّسَبِ، وَالْجَمْعُ بَيْنَ الْمَرْأَةِ وَعَمَّتِهَا، أَوْ خَالَتِهَا، وَمَا زَادَ عَلَى الْعَدَدِ الْمُبَاحِ؛ لِلْحُرِّ وَالْعَبْدِ، وَإِذَا تَزَوَّجَ الْعَبْدُ بِغَيْرِ إِذْنِ سَيِّدِهِ؛ فَنِكَاحُهُ بَاطِلٌ، وَإِذَا أُعْتِقَتِ الْأَمَةُ مَلَكَتْ أَمْرَ نَفْسِهَا، وَخُيِّرَتْ فِي زَوْجِهَا.",
+              "id": "Diharamkan bagi seorang laki-laki menikahi wanita pezina atau wanita musyrik, begitu pula sebaliknya, serta orang-orang yang telah dijelaskan keharamannya secara tegas dalam Al-Qur'an (mahram). Hubungan sepersusuan (radha'ah) memiliki hukum yang sama dengan hubungan nasab dalam hal keharaman menikah. Diharamkan pula menggabungkan dalam satu pernikahan antara seorang wanita dengan bibinya dari pihak ayah atau bibinya dari pihak ibu, serta menikahi lebih dari jumlah yang dibolehkan, baik bagi orang merdeka maupun budak. Apabila seorang budak menikah tanpa izin tuannya, maka pernikahannya batal. Apabila seorang budak wanita (amah) dimerdekakan, maka ia memiliki hak penuh atas dirinya sendiri dan boleh memilih untuk tetap bersama suaminya atau berpisah.",
+              "start": 80.322,
+              "end": 111.602
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْعُيُوبِ وَأَنْكِحَةِ الْكُفَّارِ",
+          "title_id": "Bab Cacat/Aib dan Pernikahan Orang Kafir",
+          "start": 112.923,
+          "paragraphs": [
+            {
+              "ar": "وَيَجُوزُ فَسْخُ النِّكَاحِ بِالْعَيْبِ، وَيُقَرُّ مِنْ أَنْكِحَةِ الْكُفَّارِ - إِذَا أَسْلَمُوا - مَا يُوَافِقُ الشَّرْعَ، وَإِذَا أَسْلَمَ أَحَدُ الزَّوْجَيْنِ؛ انْفَسَخَ النِّكَاحُ، وَتَجِبُ الْعِدَّةُ، فَإِنْ أَسْلَمَ وَلَمْ تَتَزَوَّجِ الْمَرْأَةُ؛ كَانَا عَلَى نِكَاحِهِمَا الْأَوَّلِ؛ وَلَوْ طَالَتِ الْمُدَّةُ؛ إِذَا اخْتَارَا ذَلِكَ.",
+              "id": "Diperbolehkan membatalkan (fasakh) pernikahan karena adanya aib atau cacat pada salah satu pasangan. Pernikahan orang-orang kafir tetap diakui -apabila mereka masuk Islam- selama sesuai dengan syariat. Apabila salah satu dari pasangan suami-istri masuk Islam sementara yang lain belum, maka pernikahan mereka batal (fasakh), dan wanita tersebut wajib menjalani masa iddah. Namun jika pasangan yang belum masuk Islam kemudian masuk Islam sebelum wanita tersebut menikah lagi, maka keduanya tetap berada dalam ikatan pernikahan mereka yang pertama, sekalipun waktu yang berlalu cukup lama, apabila keduanya memilih untuk itu.",
+              "start": 116.486,
+              "end": 140.324
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْمَهْرِ وَالْعِشْرَةِ",
+          "title_id": "Bab Mahar dan Pergaulan Suami-Istri",
+          "start": 141.725,
+          "paragraphs": [
+            {
+              "ar": "الْمَهْرُ وَاجِبٌ، وَتُكْرَهُ الْمُغَالَاةُ فِيهِ، وَيَصِحُّ وَلَوْ خَاتَمًا مِنْ حَدِيدٍ، أَوْ تَعْلِيمَ قُرْآنٍ، وَمَنْ تَزَوَّجَ امْرَأَةً وَلَمْ يُسَمِّ لَهَا صَدَاقًا؛ فَلَهَا مَهْرُ نِسَائِهَا إِذَا دَخَلَ بِهَا، وَيُسْتَحَبُّ تَقْدِيمُ شَيْءٍ مِنَ الْمَهْرِ قَبْلَ الدُّخُولِ، وَعَلَيْهِ إِحْسَانُ الْعِشْرَةِ، وَعَلَيْهَا الطَّاعَةُ، وَمَنْ كَانَتْ لَهُ زَوْجَتَانِ فَصَاعِدًا؛ عَدَلَ بَيْنَهُنَّ فِي الْقِسْمَةِ وَمَا تَدْعُو الْحَاجَةُ إِلَيْهِ، وَإِذَا سَافَرَ أَقْرَعَ بَيْنَهُنَّ، وَلِلْمَرْأَةِ أَنْ تَهَبَ نَوْبَتَهَا، أَوْ تُصَالِحَ الزَّوْجَ عَلَى إِسْقَاطِهَا، وَيُقِيمُ عِنْدَ الْجَدِيدَةِ الْبِكْرِ سَبْعًا، وَالثَّيِّبِ ثَلَاثًا، وَلَا يَجُوزُ الْعَزْلُ، وَلَا يَجُوزُ إِتْيَانُ الْمَرْأَةِ فِي دُبُرِهَا.",
+              "id": "Mahar hukumnya wajib, namun dimakruhkan berlebih-lebihan dalam menentukan jumlahnya. Mahar tetap sah sekalipun berupa cincin besi atau mengajarkan Al-Qur'an. Barangsiapa menikahi seorang wanita tanpa menyebutkan mahar tertentu, maka wanita tersebut berhak atas mahar mitsil (setara dengan mahar wanita sepadan dengannya) apabila suami telah menggaulinya. Disunnahkan memberikan sebagian mahar sebelum malam pertama. Suami wajib memperlakukan istri dengan baik, dan istri wajib menaati suaminya. Barangsiapa memiliki dua istri atau lebih, wajib berlaku adil di antara mereka dalam pembagian giliran malam dan hal-hal lain yang menjadi kebutuhan. Apabila hendak bepergian, ia mengundi di antara para istrinya. Seorang istri boleh merelakan giliran malamnya, atau berdamai dengan suaminya untuk menggugurkan haknya tersebut. Suami tinggal penuh bersama istri baru yang masih perawan selama tujuh hari, dan bersama istri baru yang janda selama tiga hari. Tidak diperbolehkan melakukan azl (mengeluarkan sperma di luar) tanpa izin istri, dan tidak diperbolehkan menggauli istri melalui duburnya.",
+              "start": 144.127,
+              "end": 199.713
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Nasab Anak dan Kasus Li'an Bersama",
+          "start": 200.774,
+          "paragraphs": [
+            {
+              "ar": "وَالْوَلَدُ لِلْفِرَاشِ، وَلَا عِبْرَةَ لِشَبَهِهِ بِغَيْرِ صَاحِبِهِ، وَإِذَا اشْتَرَكَ ثَلَاثَةٌ فِي وَطْءِ أَمَةٍ فِي طُهْرٍ مَلَكَهَا كُلُّ وَاحِدٍ مِنْهُمْ فِيهِ، فَجَاءَتْ بِوَلَدٍ، وَادَّعَوْهُ جَمِيعًا؛ فَيُقْرَعُ بَيْنَهُمْ، وَمَنِ اسْتَحَقَّهُ بِالْقُرْعَةِ؛ فَعَلَيْهِ لِلْآخَرِينَ ثُلُثَا الدِّيَةِ.",
+              "id": "Anak yang lahir dalam pernikahan dinasabkan kepada pemilik ranjang (suami), dan tidak dianggap kemiripan fisik anak dengan selain suaminya sebagai dasar penetapan nasab. Apabila tiga orang laki-laki secara bergantian memiliki dan menggauli seorang budak wanita (amah) dalam satu masa suci yang sama, lalu budak wanita itu melahirkan seorang anak dan ketiganya sama-sama mengklaim sebagai ayahnya, maka dilakukan undian di antara mereka. Siapa yang berhak mendapatkan nasab anak tersebut melalui undian, ia wajib membayar dua pertiga diyah kepada kedua orang lainnya.",
+              "start": 202.033,
+              "end": 224.814
+            }
+          ]
+        }
+      ],
+      "srt_source": "08.srt"
     },
     {
       "no": 9,
@@ -808,7 +1080,168 @@
       "title_id": "Kitab Talak",
       "audio_file": "09.%20The%20Book%20of%20At-Talaaq%20%28Divorce%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D9%82.mp3",
       "shamela_url": "https://shamela.ws/book/9293/49",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(٩ - كِتَابُ الطَّلَاقِ)",
+          "title_id": "Kitab Talak — Talak Sunni dan Talak Bid'i",
+          "start": 0.312,
+          "paragraphs": [
+            {
+              "ar": "هُوَ جَائِزٌ مِنْ مُكَلَّفٍ مُخْتَارٍ، وَلَوْ هَازِلًا؛ لِمَنْ كَانَتْ فِي طُهْرٍ لَمْ يَمَسَّهَا فِيهِ، وَلَا طَلَّقَهَا فِي الْحَيْضَةِ الَّتِي قَبْلَهُ، أَوْ فِي حَمْلٍ قَدِ اسْتَبَانَ، وَيَحْرُمُ إِيقَاعُهُ عَلَى غَيْرِ هَذِهِ الصِّفَةِ، وَفِي وُقُوعِهِ - وَوُقُوعِ مَا فَوْقَ الْوَاحِدَةِ مِنْ دُونِ تَخَلُّلِ رَجْعَةٍ - خِلَافٌ، وَالرَّاجِحُ عَدَمُ الْوُقُوعِ.",
+              "id": "Talak diperbolehkan bagi orang mukallaf yang berakal dan bertindak atas kehendaknya sendiri, sekalipun ia mengucapkannya sambil bercanda (tidak sungguh-sungguh). Talak (yang sesuai sunnah) dijatuhkan kepada istri yang sedang dalam masa suci yang belum digauli suami pada masa suci tersebut, dan suami tidak menjatuhkan talak pada masa haid sebelumnya, atau menjatuhkannya ketika istri dalam keadaan hamil yang telah tampak jelas kehamilannya. Diharamkan menjatuhkan talak selain dengan cara tersebut. Adapun jatuh atau tidaknya talak yang menyalahi sunnah itu — termasuk jatuhnya talak lebih dari satu kali sekaligus tanpa diselingi rujuk — masih diperselisihkan ulama, dan pendapat yang lebih kuat (rajih) adalah talak tersebut tidak jatuh.",
+              "start": 2.392,
+              "end": 29.059
+            }
+          ]
+        },
+        {
+          "type": "fasal",
+          "title_ar": "فَصْلٌ",
+          "title_id": "Fasal — Talak dengan Kinayah, Takhyir, dan Hak Rujuk",
+          "start": 30.231,
+          "paragraphs": [
+            {
+              "ar": "وَيَقَعُ بِالْكِنَايَةِ مَعَ النِّيَّةِ، وَبِالتَّخْيِيرِ إِذَا اخْتَارَتِ الْفُرْقَةَ، وَإِذَا جَعَلَهُ الزَّوْجُ إِلَى غَيْرِهِ وَقَعَ مِنْهُ، وَلَا يَقَعُ بِالتَّحْرِيمِ، وَالرَّجُلُ أَحَقُّ بِامْرَأَتِهِ فِي عِدَّةِ طَلَاقِهَا، يُرَاجِعُهَا مَتَى شَاءَ إِذَا كَانَ الطَّلَاقُ رَجْعِيًّا، وَلَا تَحِلُّ لَهُ بَعْدَ الثَّالِثَةِ، حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ.",
+              "id": "Talak jatuh dengan lafaz kinayah (sindiran) apabila disertai niat. Talak juga jatuh dengan pemberian pilihan (takhyir) apabila istri memilih untuk berpisah. Apabila suami menyerahkan urusan talak kepada orang lain, maka talak itu jatuh dari pihak yang diserahi tersebut. Talak tidak jatuh dengan lafaz pengharaman (misalnya suami berkata, 'kamu haram bagiku'). Suami lebih berhak untuk kembali kepada istrinya selama masa iddah talaknya; ia boleh merujuknya kapan saja ia kehendaki, apabila talak tersebut adalah talak raj'i. Namun istri tidak halal lagi baginya setelah talak yang ketiga, sampai ia menikah dengan suami lain (lalu berpisah secara wajar).",
+              "start": 31.333,
+              "end": 57.628
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْخُلْعِ",
+          "title_id": "Bab Khulu' (Cerai Tebus)",
+          "start": 58.527,
+          "paragraphs": [
+            {
+              "ar": "وَإِذَا خَالَعَ الرَّجُلُ امْرَأَتَهُ؛ كَانَ أَمْرُهَا إِلَيْهَا، لَا تَرْجِعُ إِلَيْهِ بِمُجَرَّدِ الرَّجْعَةِ، وَيَجُوزُ بِالْقَلِيلِ وَالْكَثِيرِ؛ مَا لَمْ يُجَاوِزْ مَا صَارَ إِلَيْهَا مِنْهُ، وَلَا بُدَّ مِنَ التَّرَاضِي بَيْنَ الزَّوْجَيْنِ عَلَى الْخُلْعِ، أَوْ إِلْزَامِ الْحَاكِمِ مَعَ الشِّقَاقِ بَيْنَهُمَا.",
+              "id": "Apabila suami mengkhulu' istrinya (menceraikan dengan tebusan dari istri), maka urusan dirinya menjadi terserah kepada istri; suami tidak bisa kembali kepadanya hanya dengan sekadar rujuk, melainkan harus dengan akad nikah baru. Khulu' boleh dilakukan dengan tebusan sedikit maupun banyak, selama tidak melebihi mahar yang telah diberikan suami kepadanya. Khulu' harus didasarkan atas keridhaan bersama antara suami istri, atau melalui putusan hakim ketika terjadi perselisihan (syiqaq) di antara keduanya.",
+              "start": 60.009,
+              "end": 82.111
+            },
+            {
+              "ar": "وَهُوَ فَسْخٌ، وَعِدَّتُهُ حَيْضَةٌ.",
+              "id": "Khulu' berstatus sebagai fasakh (bukan talak), dan masa iddahnya adalah satu kali haid.",
+              "start": 82.879,
+              "end": 85.501
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْإِيلَاءِ",
+          "title_id": "Bab Ila' (Sumpah Tidak Menggauli Istri)",
+          "start": 86.801,
+          "paragraphs": [
+            {
+              "ar": "هُوَ أَنْ يَحْلِفَ الزَّوْجُ عَلَى جَمِيعِ نِسَائِهِ - أَوْ بَعْضِهِنَّ -: لَا أَقْرَبُهُنَّ، فَإِنْ وَقَّتَ بِدُونِ أَرْبَعَةِ أَشْهُرٍ؛ اعْتَزَلَ حَتَّى يَنْقَضِيَ مَا وَقَّتَ بِهِ، وَإِنْ لَمْ يُوَقِّتْ شَيْئًا - أَوْ وَقَّتَ بِأَكْثَرَ مِنْهَا -؛ خُيِّرَ بَعْدَ مُضِيِّهَا بَيْنَ أَنْ يَفِيءَ أَوْ يُطَلِّقَ.",
+              "id": "Ila' adalah sumpah suami untuk tidak akan mendekati (menggauli) seluruh istrinya, atau sebagian dari mereka. Apabila ia menentukan batas waktu kurang dari empat bulan, maka ia tetap menjauhi istrinya hingga habis masa yang ditentukannya. Namun apabila ia tidak menentukan batas waktu sama sekali, atau menentukan batas waktu lebih dari empat bulan, maka setelah lewat empat bulan ia diberi pilihan antara kembali menggauli istrinya (fa'i) atau menceraikannya.",
+              "start": 88.542,
+              "end": 110.537
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الظِّهَارِ",
+          "title_id": "Bab Zhihar",
+          "start": 111.296,
+          "paragraphs": [
+            {
+              "ar": "وَهُوَ قَوْلُ الزَّوْجِ لِامْرَأَتِهِ: أَنْتِ عَلَيَّ كَظَهْرِ أُمِّي، أَوْ: ظَاهَرْتُكِ، أَوْ نَحْوَ ذَلِكَ؛ فَيَجِبُ عَلَيْهِ قَبْلَ أَنْ يَمَسَّهَا أَنْ يُكَفِّرَ بِعِتْقِ رَقَبَةٍ، فَإِنْ لَمْ يَجِدْ فَلْيُطْعِمْ سِتِّينَ مِسْكِينًا، فَإِنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ: وَيَجُوزُ لِلْإِمَامِ أَنْ يُعِينَهُ مِنْ صَدَقَاتِ الْمُسْلِمِينَ؛ إِذَا كَانَ فَقِيرًا لَا يَقْدِرُ عَلَى الصَّوْمِ، وَلَهُ أَنْ يَصْرِفَ مِنْهَا لِنَفْسِهِ وَعِيَالِهِ، وَإِذَا كَانَ الظِّهَارُ مُؤَقَّتًا؛ فَلَا يَرْفَعُهُ إِلَّا انْقِضَاءُ الْوَقْتِ، وَإِذَا وَطِئَ قَبْلَ انْقِضَاءِ الْوَقْتِ - أَوْ قَبْلَ التَّكْفِيرِ -؛ كَفَّ حَتَّى يُكَفِّرَ فِي الْمُطْلَقِ، أَوْ يَنْقَضِيَ وَقْتُ الْمُؤَقَّتِ.",
+              "id": "Zhihar adalah ucapan suami kepada istrinya, 'Engkau bagiku seperti punggung ibuku,' atau 'Aku menzhiharmu,' atau ucapan semisalnya. Maka wajib baginya, sebelum menggauli istrinya, membayar kafarat dengan memerdekakan seorang budak. Jika tidak mendapatkannya, ia memberi makan enam puluh orang miskin. Jika masih tidak mampu, ia berpuasa dua bulan berturut-turut. Imam (pemerintah) boleh membantunya dari harta zakat kaum muslimin apabila ia fakir dan tidak mampu berpuasa, dan ia juga boleh menggunakan sebagian zakat tersebut untuk dirinya sendiri dan keluarganya. Apabila zhihar itu dibatasi waktu, maka hukumnya tidak terangkat kecuali dengan habisnya waktu tersebut. Apabila ia menggauli istrinya sebelum habis waktu zhihar yang dibatasi, atau sebelum membayar kafarat pada zhihar mutlak, maka ia wajib menahan diri hingga membayar kafarat pada zhihar mutlak, atau hingga habis waktu pada zhihar yang dibatasi waktu.",
+              "start": 113.519,
+              "end": 163.924
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ اللِّعَانِ",
+          "title_id": "Bab Li'an",
+          "start": 164.804,
+          "paragraphs": [
+            {
+              "ar": "إِذَا رَمَى الرَّجُلُ امْرَأَتَهُ بِالزِّنَا، وَلَمْ تُقِرَّ بِذَلِكَ، وَلَا رَجَعَ عَنْ رَمْيِهِ؛ لَاعَنَهَا، فَيَشْهَدُ الرَّجُلُ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الصَّادِقِينَ، وَالْخَامِسَةَ أَنَّ لَعْنَةَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ، ثُمَّ تَشْهَدُ الْمَرْأَةُ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الْكَاذِبِينَ، وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ، وَإِذَا كَانَتْ حَامِلًا أَوْ كَانَتْ قَدْ وَضَعَتْ؛ أُدْخِلَ نَفْيُ الْوَلَدِ فِي أَيْمَانِهِ، وَيُفَرِّقُ الْحَاكِمُ بَيْنَهُمَا، وَتَحْرُمُ عَلَيْهِ أَبَدًا، وَيُلْحَقُ الْوَلَدُ بِأُمِّهِ فَقَطْ، وَمَنْ رَمَاهَا بِهِ، فَهُوَ قَاذِفٌ.",
+              "id": "Apabila seorang suami menuduh istrinya berzina, sementara istrinya tidak mengakuinya dan suami pun tidak menarik kembali tuduhannya, maka ia melakukan li'an terhadap istrinya. Suami bersaksi empat kali dengan menyebut nama Allah bahwa ia termasuk orang-orang yang benar (dalam tuduhannya), dan yang kelima bahwa laknat Allah akan menimpanya jika ia termasuk orang-orang yang dusta. Kemudian istri bersaksi empat kali dengan menyebut nama Allah bahwa suaminya termasuk orang-orang yang dusta, dan yang kelima bahwa murka Allah akan menimpanya jika suaminya termasuk orang-orang yang benar. Apabila istri dalam keadaan hamil atau telah melahirkan, maka penafian nasab anak turut dimasukkan ke dalam sumpah li'an suami. Hakim kemudian memisahkan (menceraikan) keduanya, dan istri menjadi haram baginya selamanya. Anak tersebut hanya dinasabkan kepada ibunya. Adapun siapa saja yang menuduh wanita itu berzina setelah li'an, maka ia dianggap sebagai qadzif (penuduh zina yang dikenai hukuman).",
+              "start": 166.645,
+              "end": 217.366
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْعِدَّةِ وَالْإِحْدَادِ",
+          "title_id": "Bab Iddah dan Ihdad (Berkabung)",
+          "start": 218.526,
+          "paragraphs": [
+            {
+              "ar": "هِيَ لِلطَّلَاقِ مِنَ الْحَامِلِ بِالْوَضْعِ، وَمِنَ الْحَائِضِ بِثَلَاثِ حِيَضٍ، وَمِنْ غَيْرِهِمَا بِثَلَاثَةِ أَشْهُرٍ، وَلِلْوَفَاةِ بِأَرْبَعَةِ أَشْهُرٍ وَعَشْرًا؛ وَإِنْ كَانَتْ حَامِلًا فَبِالْوَضْعِ؛ وَلَا عِدَّةَ عَلَى غَيْرِ مَدْخُولَةٍ، وَالْأَمَةُ كَالْحُرَّةِ، وَعَلَى الْمُعْتَدَّةِ لِلْوَفَاةِ تَرْكُ التَّزَيُّنِ، وَالْمُكْثُ فِي الْبَيْتِ الَّذِي كَانَتْ فِيهِ عِنْدَ مَوْتِ زَوْجِهَا، أَوْ بُلُوغِ خَبَرِهِ، وَامْرَأَةُ الْمَفْقُودِ تَرَبَّصُ أَرْبَعَ سِنِينَ، ثُمَّ تَعْتَدُّ عِدَّةَ الْوَفَاةِ، وَهِيَ امْرَأَتُهُ مَا لَمْ تَتَزَوَّجْ.",
+              "id": "Iddah karena talak bagi wanita hamil adalah sampai ia melahirkan. Bagi wanita yang masih haid, iddahnya adalah tiga kali quru' (suci/haid). Bagi wanita selain keduanya (tidak haid dan tidak hamil), iddahnya tiga bulan. Adapun iddah karena kematian suami adalah empat bulan sepuluh hari; namun jika istri sedang hamil, maka iddahnya sampai ia melahirkan. Tidak ada iddah bagi wanita yang belum digauli suaminya. Budak wanita sama hukumnya dengan wanita merdeka dalam hal iddah. Wanita yang beriddah karena kematian suami wajib meninggalkan berhias, serta wajib tinggal di rumah tempat ia berada ketika suaminya meninggal, atau ketika kabar kematiannya sampai kepadanya. Istri dari suami yang hilang (mafqud) menunggu selama empat tahun, kemudian ia menjalani iddah kematian. Ia tetap berstatus sebagai istrinya selama ia belum menikah lagi dengan orang lain.",
+              "start": 221.388,
+              "end": 262.456
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ اسْتِبْرَاءِ الْإِمَاءِ",
+          "title_id": "Bab Istibra' Budak Wanita",
+          "start": 263.798,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ اسْتِبْرَاءُ الْأَمَةِ الْمَسْبِيَّةِ وَالْمُشْتَرَاةِ وَنَحْوِهِمَا بِحَيْضَةٍ؛ إِنْ كَانَتْ حَائِضًا، وَالْحَامِلُ بِوَضْعِ الْحَمْلِ، وَمُنْقَطِعَةُ الْحَيْضِ حَتَّى يَتَبَيَّنَ عَدَمُ حَمْلِهَا، وَلَا تُسْتَبْرَأُ بِكْرٌ، وَلَا صَغِيرَةٌ مُطْلَقًا؛ وَلَا يَلْزَمُ الِاسْتِبْرَاءُ عَلَى الْبَائِعِ وَنَحْوِهِ.",
+              "id": "Wajib melakukan istibra' (memastikan kekosongan rahim) terhadap budak wanita hasil tawanan perang, hasil pembelian, dan yang semisalnya, dengan satu kali haid apabila ia termasuk wanita yang masih haid. Adapun yang sedang hamil, istibra'nya berlangsung sampai ia melahirkan. Wanita yang telah berhenti haid, istibra'nya berlangsung hingga jelas bahwa ia tidak hamil. Tidak diwajibkan istibra' bagi budak yang masih perawan, dan tidak pula bagi budak yang masih kecil secara mutlak. Istibra' juga tidak diwajibkan atas pihak penjual atau yang semisalnya.",
+              "start": 266.599,
+              "end": 288.937
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ النَّفَقَةِ",
+          "title_id": "Bab Nafkah",
+          "start": 290.818,
+          "paragraphs": [
+            {
+              "ar": "تَجِبُ عَلَى الزَّوْجِ لِلزَّوْجَةِ، وَالْمُطَلَّقَةِ رَجْعِيًّا لَا بَائِنًا، وَلَا فِي عِدَّةِ الْوَفَاةِ؛ فَلَا نَفَقَةَ وَلَا سُكْنَى؛ إِلَّا أَنْ تَكُونَا حَامِلَتَيْنِ، وَتَجِبُ عَلَى الْوَالِدِ الْمُوسِرِ لِوَلَدِهِ الْمُعْسِرِ وَالْعَكْسِ، وَعَلَى السَّيِّدِ لِمَنْ يَمْلِكُهُ، وَلَا تَجِبُ عَلَى الْقَرِيبِ لِقَرِيبِهِ؛ إِلَّا مِنْ بَابِ صِلَةِ الرَّحِمِ، وَمَنْ وَجَبَتْ نَفَقَتُهُ؛ وَجَبَتْ كِسْوَتُهُ وَسُكْنَاهُ.",
+              "id": "Nafkah wajib bagi suami untuk istrinya, dan untuk wanita yang ditalak raj'i, bukan talak ba'in, serta tidak wajib bagi wanita yang beriddah karena kematian suami — maka baginya tidak ada nafkah maupun tempat tinggal — kecuali jika keduanya dalam keadaan hamil, maka tetap wajib nafkah. Nafkah juga wajib bagi orang tua yang mampu untuk anaknya yang tidak mampu, dan sebaliknya. Wajib pula bagi tuan memberi nafkah kepada budak yang dimilikinya. Tidak wajib nafkah antar kerabat, kecuali dalam rangka silaturahim. Barangsiapa yang wajib dinafkahi, maka wajib pula baginya diberi pakaian dan tempat tinggal.",
+              "start": 292.491,
+              "end": 322.842
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الرَّضَاعِ",
+          "title_id": "Bab Radha' (Persusuan)",
+          "start": 324.444,
+          "paragraphs": [
+            {
+              "ar": "إِنَّمَا يَثْبُتُ حُكْمُهُ بِخَمْسِ رَضَعَاتٍ؛ مَعَ تَيَقُّنِ وُجُودِ اللَّبَنِ، وَكَوْنِ الرَّضِيعِ قَبْلَ الْفِطَامِ، وَيَحْرُمُ بِهِ مَا يَحْرُمُ بِالنَّسَبِ، وَيُقْبَلُ قَوْلُ الْمُرْضِعَةِ، وَيَجُوزُ إِرْضَاعُ الْكَبِيرِ وَلَوْ كَانَ ذَا لِحْيَةٍ؛ لِتَجْوِيزِ النَّظَرِ.",
+              "id": "Hukum persusuan (yang menyebabkan mahram) hanya ditetapkan dengan lima kali persusuan, disertai keyakinan adanya air susu yang tertelan, dan anak yang disusui masih dalam masa sebelum disapih. Dengan persusuan tersebut menjadi haram untuk dinikahi, sebagaimana keharaman karena hubungan nasab. Perkataan wanita yang menyusui diterima. Diperbolehkan menyusui orang yang sudah dewasa, sekalipun telah berjenggot, dalam rangka membolehkan pandangan (mahram) antara keduanya.",
+              "start": 326.485,
+              "end": 346.322
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْحَضَانَةِ",
+          "title_id": "Bab Hadhanah (Hak Asuh Anak)",
+          "start": 347.482,
+          "paragraphs": [
+            {
+              "ar": "الْأَوْلَى بِالطِّفْلِ أُمُّهُ؛ مَا لَمْ تُنْكَحْ، ثُمَّ الْخَالَةُ، ثُمَّ الْأَبُ، ثُمَّ يُعَيِّنُ الْحَاكِمُ مِنَ الْقَرَابَةِ مَنْ رَأَى فِيهِ صَلَاحًا، وَبَعْدَ بُلُوغِ سِنِّ الِاسْتِقْلَالِ؛ يُخَيَّرُ الصَّبِيُّ بَيْنَ أَبِيهِ وَأُمِّهِ، فَإِنْ لَمْ يُوجَدْ؛ كَفَلَهُ مَنْ كَانَ لَهُ فِي كَفَالَتِهِ مَصْلَحَةٌ.",
+              "id": "Yang paling berhak mengasuh anak kecil adalah ibunya, selama ibu tersebut belum menikah lagi. Jika tidak ada, hak asuh berpindah kepada bibi dari pihak ibu (khalah), kemudian kepada ayah. Setelah itu, hakim menunjuk salah seorang kerabat yang dipandang memiliki kelayakan untuk mengasuh. Setelah anak mencapai usia mumayyiz (mampu memilih sendiri), ia diberi pilihan antara tinggal bersama ayahnya atau ibunya. Apabila tidak ada seorang pun kerabat yang mengasuhnya, maka yang mengasuhnya adalah siapa saja yang dipandang memiliki maslahat dalam pengasuhannya.",
+              "start": 349.222,
+              "end": 373.406
+            }
+          ]
+        }
+      ]
     },
     {
       "no": 10,
@@ -817,7 +1250,204 @@
       "title_id": "Kitab Buyu' (Jual-Beli)",
       "audio_file": "10.%20The%20Book%20of%20Al-Buyu%27%20%28Business%20Transactions%29%20%C2%BB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%B9.mp3",
       "shamela_url": "https://shamela.ws/book/9293/52",
-      "sections": []
+      "sections": [
+        {
+          "type": "fasal",
+          "title_ar": "(١٠ - كِتَابُ الْبُيُوعِ)",
+          "title_id": "Pendahuluan — Ketentuan Umum Jual-Beli",
+          "start": 0.512,
+          "paragraphs": [
+            {
+              "ar": "الْمُعْتَبَرُ فِيهِ مُجَرَّدُ التَّرَاضِي - وَلَوْ بِإِشَارَةٍ مِنْ قَادِرٍ عَلَى النُّطْقِ -، وَلَا يَجُوزُ بَيْعُ الْخَمْرِ، وَالْمَيْتَةِ، وَالْخِنْزِيرِ، وَالْأَصْنَامِ، وَالْكَلْبِ، وَالسِّنَّوْرِ، وَالدَّمِ، وَعَسْبِ الْفَحْلِ، وَكُلِّ حَرَامٍ، وَفَضْلِ الْمَاءِ، وَمَا فِيهِ غَرَرٌ - كَالسَّمَكِ فِي الْمَاءِ، وَحَبَلِ الْحَبَلَةِ، وَالْمُنَابَذَةِ، وَالْمُلَامَسَةِ، وَمَا فِي الضَّرْعِ، وَالْعَبْدِ الْآبِقِ، وَالْمَغَانِمِ حَتَّى تُقْسَمَ، وَالثَّمَرِ حَتَّى يَصْلُحَ، وَالصُّوفِ فِي الظَّهْرِ، وَالسَّمْنِ فِي اللَّبَنِ، وَالْمُحَاقَلَةِ، وَالْمُزَابَنَةِ، وَالْمُعَاوَمَةِ، وَالْمُخَاضَرَةِ، وَالْعُرْبُونِ، وَالْعَصِيرِ إِلَى مَنْ يَتَّخِذُهُ خَمْرًا، وَالْكَالِئِ بِالْكَالِئِ، وَمَا اشْتَرَاهُ قَبْلَ قَبْضِهِ، وَالطَّعَامِ حَتَّى يَجْرِيَ فِيهِ الصَّاعَانِ -، وَلَا يَجُوزُ الِاسْتِثْنَاءُ فِي الْبَيْعِ إِلَّا إِذَا كَانَ مَعْلُومًا، وَمِنْهُ اسْتِثْنَاءُ ظَهْرِ الْمَبِيعِ، وَلَا يَجُوزُ التَّفْرِيقُ بَيْنَ الْمَحَارِمِ، وَلَا أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ، وَالتَّنَاجُشُ، وَالْبَيْعُ عَلَى الْبَيْعِ، وَتَلَقِّي الرُّكْبَانِ، وَالِاحْتِكَارُ، وَالتَّسْعِيرُ، وَيَجِبُ وَضْعُ الْجَوَائِحِ، وَلَا يَحِلُّ سَلَفٌ وَبَيْعٌ، وَلَا شَرْطَانِ فِي بَيْعٍ، وَلَا بَيْعَتَانِ فِي بَيْعَةٍ، وَرِبْحُ مَا لَمْ يُضْمَنْ، وَبَيْعُ مَا لَيْسَ عِنْدَ الْبَائِعِ - وَيَجُوزُ بِشَرْطِ عَدَمِ الْخِدَاعِ -، وَالْخِيَارُ فِي الْمَجْلِسِ ثَابِتٌ؛ مَا لَمْ يَتَفَرَّقَا.",
+              "id": "Yang menjadi patokan dalam jual-beli adalah semata-mata keridhaan kedua belah pihak, sekalipun hanya dengan isyarat dari orang yang mampu berbicara. Tidak boleh menjual khamr (minuman keras), bangkai, babi, berhala-berhala, anjing, kucing, darah, air mani pejantan hewan (untuk dikawinkan), segala sesuatu yang haram, kelebihan air, serta apa saja yang mengandung gharar (ketidakjelasan) — seperti ikan yang masih di air, janin dalam kandungan induknya, jual-beli munabadzah dan mulamasah (saling melempar atau menyentuh barang tanpa akad jelas), susu yang masih di kantong susu, budak yang melarikan diri, harta rampasan perang sebelum dibagi, buah sebelum matang, bulu yang masih di punggung hewan, mentega yang masih bercampur dalam susu, muhaqalah, muzabanah, mu'awamah, mukhadharah, 'urbun (uang muka yang hangus jika batal), perasan anggur kepada orang yang akan menjadikannya khamr, al-kali' bil-kali' (jual-beli utang dengan utang), barang yang dibeli sebelum diterima, serta makanan sebelum ditakar ulang oleh pembeli. Tidak boleh melakukan pengecualian (istitsna') dalam jual-beli kecuali jika jelas diketahui, termasuk pengecualian bagian punggung hewan yang dijual. Tidak boleh memisahkan antara kerabat mahram, tidak boleh orang kota menjualkan barang untuk orang pedalaman, tidak boleh tanajusy, tidak boleh menjual di atas jualan orang lain, tidak boleh menyongsong kafilah dagang sebelum sampai pasar, tidak boleh menimbun barang, tidak boleh mematok harga secara paksa, wajib membebaskan pembeli dari kerugian akibat bencana pada buah yang belum dipanen, tidak halal menggabungkan akad utang dengan jual-beli, tidak boleh dua syarat dalam satu jual-beli, tidak boleh dua akad jual-beli dalam satu transaksi, tidak boleh mengambil keuntungan dari barang yang belum menjadi tanggungannya, serta tidak boleh menjual barang yang tidak dimiliki penjual — namun boleh dengan syarat tidak ada unsur penipuan. Hak khiyar (memilih untuk membatalkan) di majelis akad tetap berlaku selama kedua belah pihak belum berpisah.",
+              "start": 2.393,
+              "end": 113.641
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الرِّبَا",
+          "title_id": "Bab Riba",
+          "start": 115.123,
+          "paragraphs": [
+            {
+              "ar": "يَحْرُمُ بَيْعُ الذَّهَبِ بِالذَّهَبِ، وَالْفِضَّةِ بِالْفِضَّةِ، وَالْبُرِّ بِالْبُرِّ، وَالشَّعِيرِ بِالشَّعِيرِ، وَالتَّمْرِ بِالتَّمْرِ، وَالْمِلْحِ بِالْمِلْحِ؛ إِلَّا مِثْلًا بِمِثْلٍ يَدًا بِيَدٍ، وَفِي إِلْحَاقِ غَيْرِهَا بِهَا خِلَافٌ، فَإِنِ اخْتَلَفَتِ الْأَجْنَاسُ؛ جَازَ التَّفَاضُلُ إِذَا كَانَ يَدًا بِيَدٍ، وَلَا يَجُوزُ بَيْعُ الْجِنْسِ بِجِنْسِهِ مَعَ عَدَمِ الْعِلْمِ بِالتَّسَاوِي - وَإِنْ صَحِبَهُ غَيْرُهُ -، وَلَا بَيْعُ الرَّطْبِ بِمَا كَانَ يَابِسًا إِلَّا لِأَهْلِ الْعَرَايَا، وَلَا بَيْعُ اللَّحْمِ بِالْحَيَوَانِ، وَيَجُوزُ بَيْعُ الْحَيَوَانِ بِاثْنَيْنِ أَوْ أَكْثَرَ مِنْ جِنْسِهِ، وَلَا يَجُوزُ بَيْعُ الْعِينَةِ.",
+              "id": "Haram menjual emas dengan emas, perak dengan perak, gandum dengan gandum, sya'ir (jelai) dengan sya'ir, kurma dengan kurma, dan garam dengan garam, kecuali sama takarannya dan dilakukan secara tunai. Mengqiyaskan komoditas lain kepada keenam jenis ini masih diperselisihkan ulama. Apabila jenisnya berbeda, boleh terjadi kelebihan salah satu asalkan tunai. Tidak boleh menjual satu jenis dengan jenis yang sama tanpa mengetahui kesetaraannya, sekalipun disertai barang lain. Tidak boleh menjual buah basah dengan buah kering dari jenis yang sama, kecuali bagi pemilik kebun kurma yang menjual secara 'araya. Tidak boleh menjual daging dengan hewan hidup sejenisnya. Boleh menjual seekor hewan dengan dua ekor atau lebih hewan sejenis. Tidak boleh melakukan jual-beli 'inah (rekayasa riba melalui dua akad jual-beli).",
+              "start": 116.885,
+              "end": 166.546
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْخِيَارَاتِ",
+          "title_id": "Bab Khiyar (Hak Pilih dalam Jual-Beli)",
+          "start": 167.707,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ عَلَى مَنْ بَاعَ ذَا عَيْبٍ أَنْ يُبَيِّنَهُ؛ وَإِلَّا ثَبَتَ لِلْمُشْتَرِي الْخِيَارُ، وَالْخَرَاجُ بِالضَّمَانِ، وَلِلْمُشْتَرِي الرَّدُّ بِالْغَرَرِ - وَمِنْهُ الْمُصَرَّاةُ -؛ فَيَرُدُّهَا - وَصَاعًا مِنْ تَمْرٍ، أَوْ مَا يَتَرَاضَيَانِ عَلَيْهِ -، وَيَثْبُتُ الْخِيَارُ لِمَنْ خُدِعَ أَوْ بَاعَ قَبْلَ وُصُولِ السُّوقِ، وَلِكُلٍّ مِنَ الْمُتَبَايِعَيْنِ بَيْعًا مَنْهِيًّا عَنْهُ الرَّدُّ، وَمَنِ اشْتَرَى شَيْئًا لَمْ يَرَهُ؛ فَلَهُ رَدُّهُ إِذَا رَآهُ، وَلَهُ رَدُّ مَا اشْتَرَاهُ بِخِيَارٍ، وَإِذَا اخْتَلَفَ الْبَيِّعَانِ؛ فَالْقَوْلُ مَا يَقُولُهُ الْبَائِعُ.",
+              "id": "Orang yang menjual barang cacat wajib menjelaskan cacatnya; jika tidak, maka pembeli berhak khiyar (membatalkan jual-beli). Manfaat yang telah diambil dari barang menjadi hak pembeli sebagai imbalan tanggung jawabnya (al-kharaj bidh-dhaman). Pembeli berhak mengembalikan barang karena adanya gharar, termasuk hewan mushrarah (susunya sengaja ditahan agar tampak banyak saat dijual); ia mengembalikannya beserta satu sha' kurma, atau sesuai kesepakatan bersama. Hak khiyar juga berlaku bagi orang yang tertipu, atau yang menjual barangnya kepada penyongsong kafilah sebelum sampai pasar. Setiap jual-beli yang dilarang, kedua pihak berhak membatalkannya. Barang siapa membeli sesuatu tanpa melihatnya, ia berhak mengembalikannya setelah melihatnya. Ia juga berhak mengembalikan barang yang dibelinya dengan syarat khiyar. Apabila penjual dan pembeli berselisih, maka yang dijadikan pegangan adalah perkataan penjual.",
+              "start": 169.749,
+              "end": 212.758
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ السَّلَمِ",
+          "title_id": "Bab Salam (Jual-Beli Pesanan)",
+          "start": 214.12,
+          "paragraphs": [
+            {
+              "ar": "هُوَ أَنْ يُسَلِّمَ رَأْسَ الْمَالِ فِي مَجْلِسِ الْعَقْدِ؛ عَلَى أَنْ يُعْطِيَهُ مَا يَتَرَاضَيَانِ عَلَيْهِ مَعْلُومًا إِلَى أَجَلٍ مَعْلُومٍ، وَلَا يَأْخُذُ إِلَّا مَا سَمَّاهُ أَوْ رَأْسَ مَالِهِ، وَلَا يَتَصَرَّفُ فِيهِ قَبْلَ قَبْضِهِ.",
+              "id": "As-Salam adalah menyerahkan modal (harga) di majelis akad, dengan syarat penjual akan menyerahkan barang yang telah disepakati bersama, dalam jumlah yang jelas, hingga tempo waktu yang ditentukan. Pembeli tidak boleh mengambil selain barang yang telah disebutkan dalam akad, atau modalnya kembali jika batal. Ia juga tidak boleh mentasarrufkan barang tersebut sebelum menerimanya.",
+              "start": 215.936,
+              "end": 233.704
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْقَرْضِ",
+          "title_id": "Bab Qardh (Utang-Piutang)",
+          "start": 234.844,
+          "paragraphs": [
+            {
+              "ar": "يَجِبُ إِرْجَاعُ مِثْلِهِ، وَيَجُوزُ أَنْ يَكُونَ أَفْضَلَ أَوْ أَكْثَرَ؛ إِذَا لَمْ يَكُنْ مَشْرُوطًا، وَلَا يَجُوزُ أَنْ يَجُرَّ الْقَرْضُ نَفْعًا لِلْمُقْرِضِ.",
+              "id": "Wajib mengembalikan pinjaman dengan yang semisalnya. Boleh mengembalikan dengan yang lebih baik atau lebih banyak, selama hal itu tidak disyaratkan di awal. Tidak boleh suatu pinjaman mendatangkan manfaat/keuntungan bagi pemberi pinjaman, karena hal itu termasuk riba.",
+              "start": 236.445,
+              "end": 247.612
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الشُّفْعَةِ",
+          "title_id": "Bab Syuf'ah (Hak Membeli Bersama)",
+          "start": 248.874,
+          "paragraphs": [
+            {
+              "ar": "سَبَبُهَا الِاشْتِرَاكُ فِي شَيْءٍ وَاحِدٍ - وَلَوْ مَنْقُولًا -؛ فَإِذَا وَقَعَتِ الْقِسْمَةُ فَلَا شُفْعَةَ، وَلَا يَحِلُّ لِلشَّرِيكِ أَنْ يَبِيعَ حَتَّى يُؤْذَنَ شَرِيكُهُ، وَلَا تَبْطُلُ بِالتَّرَاخِي.",
+              "id": "Sebab syuf'ah (hak membeli lebih dahulu) adalah adanya perserikatan dalam satu barang, sekalipun barang bergerak. Apabila pembagian harta serikat telah terjadi, maka tidak ada lagi hak syuf'ah. Tidak halal bagi seorang mitra menjual bagiannya sampai mitranya diberitahu. Hak syuf'ah tidak gugur karena penundaan.",
+              "start": 250.855,
+              "end": 265.42
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْإِجَارَةِ",
+          "title_id": "Bab Ijarah (Sewa-Menyewa dan Upah-Mengupah)",
+          "start": 266.86,
+          "paragraphs": [
+            {
+              "ar": "يَجُوزُ عَلَى كُلِّ عَمَلٍ لَمْ يَمْنَعْ مِنْهُ مَانِعٌ شَرْعِيٌّ، وَتَكُونُ الْأُجْرَةُ مَعْلُومَةً عِنْدَ الِاسْتِئْجَارِ، فَإِنْ لَمْ تَكُنْ كَذَلِكَ؛ اسْتَحَقَّ الْأَجِيرُ مِقْدَارَ عَمَلِهِ عِنْدَ أَهْلِ ذَلِكَ الْعَمَلِ، وَقَدْ وَرَدَ النَّهْيُ عَنْ كَسْبِ الْحَجَّامِ، وَمَهْرِ الْبَغِيِّ، وَحُلْوَانِ الْكَاهِنِ، وَعَسْبِ الْفَحْلِ، وَأُجْرَةِ الْمُؤَذِّنِ، وَقَفِيزِ الطَّحَّانِ، وَيَجُوزُ الِاسْتِئْجَارُ عَلَى تِلَاوَةِ الْقُرْآنِ؛ لَا عَلَى تَعْلِيمِهِ، وَأَنْ يُكْرِيَ الْعَيْنَ مُدَّةً مَعْلُومَةً؛ بِأُجْرَةٍ مَعْلُومَةٍ - وَمِنْ ذَلِكَ كِرَاءُ الْأَرْضِ لَا بِشَطْرِ مَا يَخْرُجُ مِنْهَا -، وَمَنْ أَفْسَدَ مَا اسْتُؤْجِرَ عَلَيْهِ، أَوْ أَتْلَفَ مَا اسْتَأْجَرَهُ؛ ضَمِنَ.",
+              "id": "Ijarah (sewa-menyewa/upah-mengupah) boleh dilakukan atas setiap pekerjaan yang tidak dilarang syariat. Upah harus jelas diketahui pada saat akad sewa. Jika tidak demikian, maka pekerja berhak mendapatkan upah senilai pekerjaannya menurut pandangan ahli di bidang tersebut. Telah datang larangan terhadap penghasilan tukang bekam, upah pelacur, upah dukun/peramal, upah dari mengawinkan pejantan hewan, upah muadzin, serta upah penggilingan gandum yang diambil dari hasil gilingan. Boleh menyewa jasa seseorang untuk membaca Al-Qur'an, namun tidak boleh mengambil upah atas pengajarannya. Boleh menyewakan suatu barang untuk jangka waktu tertentu dengan upah yang jelas — termasuk menyewakan tanah, namun tidak dengan sebagian hasil panennya. Barang siapa yang merusak barang yang disewakan kepadanya, atau menghilangkan barang yang ia sewa, maka ia wajib menggantinya.",
+              "start": 268.782,
+              "end": 319.653
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْإِحْيَاءِ وَالْإِقْطَاعِ",
+          "title_id": "Bab Ihya' dan Iqtha' (Menghidupkan Tanah Mati dan Pemberian Tanah)",
+          "start": 321.095,
+          "paragraphs": [
+            {
+              "ar": "مَنْ سَبَقَ إِلَى إِحْيَاءِ أَرْضٍ لَمْ يَسْبِقْ إِلَيْهَا غَيْرُهُ؛ فَهُوَ أَحَقُّ بِهَا، وَتَكُونُ مِلْكًا لَهُ، وَيَجُوزُ لِلْإِمَامِ أَنْ يُقْطِعَ - مَنْ فِي إِقْطَاعِهِ مَصْلَحَةٌ - شَيْئًا مِنَ الْأَرْضِ الْمَيِّتَةِ، أَوِ الْمَعَادِنِ، أَوِ الْمِيَاهِ.",
+              "id": "Barang siapa yang lebih dahulu menghidupkan tanah mati yang belum pernah dihidupkan orang lain, maka ia lebih berhak atasnya dan tanah itu menjadi miliknya. Imam boleh memberikan hak pengelolaan (iqtha') kepada orang yang di dalamnya terdapat kemaslahatan, berupa sebagian dari tanah mati, tambang, atau sumber air.",
+              "start": 323.997,
+              "end": 341.463
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الشَّرِكَةِ",
+          "title_id": "Bab Syirkah (Perkongsian)",
+          "start": 343.082,
+          "paragraphs": [
+            {
+              "ar": "النَّاسُ شُرَكَاءُ فِي الْمَاءِ، وَالنَّارِ، وَالْكَلَإِ، وَإِذَا تَشَاجَرَ الْمُسْتَحِقُّونَ لِلْمَاءِ؛ كَانَ الْأَحَقَّ بِهِ الْأَعْلَى فَالْأَعْلَى، يُمْسِكُهُ إِلَى الْكَعْبَيْنِ، ثُمَّ يُرْسِلُهُ إِلَى مَنْ تَحْتَهُ، وَلَا يَجُوزُ مَنْعُ فَضْلِ الْمَاءِ لِيُمْنَعَ بِهِ الْكَلَأُ، وَلِلْإِمَامِ أَنْ يَحْمِيَ بَعْضَ الْمَوَاضِعِ لِرَعْيِ دَوَابِّ الْمُسْلِمِينَ فِي وَقْتِ الْحَاجَةِ، وَيَجُوزُ الِاشْتِرَاكُ فِي النُّقُودِ وَالتِّجَارَاتِ، وَيُقْسَمُ الرِّبْحُ عَلَى مَا تَرَاضَيَا عَلَيْهِ، وَتَجُوزُ الْمُضَارَبَةُ مَا لَمْ تَشْتَمِلْ عَلَى مَا لَا يَحِلُّ، وَإِذَا تَشَاجَرَ الشُّرَكَاءُ فِي عَرْضِ الطَّرِيقِ؛ كَانَ سَبْعَةَ أَذْرُعٍ، وَلَا يَمْنَعُ جَارٌ جَارَهُ أَنْ يَغْرِزَ خَشَبَةً فِي جِدَارِهِ، وَلَا ضَرَرَ وَلَا ضِرَارَ بَيْنَ الشُّرَكَاءِ، وَمَنْ ضَارَّ شَرِيكَهُ؛ جَازَ لِلْإِمَامِ عُقُوبَتُهُ بِقَلْعِ شَجَرِهِ أَوْ بَيْعِ دَارِهِ.",
+              "id": "Manusia berserikat (memiliki hak yang sama) dalam air, api, dan padang rumput. Apabila orang-orang yang berhak atas air saling berselisih, maka yang paling berhak adalah yang berada di tempat lebih tinggi lalu yang di bawahnya secara berurutan; ia menahan air hingga mencapai mata kaki, kemudian mengalirkannya kepada yang di bawahnya. Tidak boleh menahan kelebihan air untuk menghalangi orang lain mengambil rumput di sekitarnya. Imam boleh mencadangkan sebagian tempat untuk penggembalaan hewan kaum muslimin saat dibutuhkan. Boleh berserikat dalam permodalan dan perniagaan, dan keuntungan dibagi sesuai kesepakatan bersama. Mudharabah diperbolehkan selama tidak mengandung sesuatu yang tidak halal. Apabila para pemilik rumah berselisih tentang lebar jalan bersama, maka ditetapkan tujuh hasta. Tetangga tidak boleh melarang tetangganya menancapkan kayu di dindingnya. Tidak boleh saling mencelakakan di antara sesama mitra. Barang siapa yang mencelakakan mitranya, maka Imam boleh menghukumnya dengan menebang pohonnya atau menjual rumahnya.",
+              "start": 344.803,
+              "end": 408.699
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الرَّهْنِ",
+          "title_id": "Bab Rahn (Gadai)",
+          "start": 410.112,
+          "paragraphs": [
+            {
+              "ar": "يَجُوزُ رَهْنُ مَا يَمْلِكُهُ الرَّاهِنُ فِي دَيْنٍ عَلَيْهِ؛ وَالظَّهْرُ يُرْكَبُ وَاللَّبَنُ يُشْرَبُ بِنَفَقَةِ الْمَرْهُونِ، وَلَا يُغْلَقُ الرَّهْنُ بِمَا فِيهِ.",
+              "id": "Boleh menggadaikan sesuatu yang dimiliki oleh penggadai untuk menjamin utang yang ada padanya. Punggung hewan gadaian boleh dinaiki dan susunya boleh diminum oleh pemegang gadai sebagai imbalan atas nafkah yang ia keluarkan untuk hewan tersebut. Barang gadaian tidak otomatis menjadi milik penuh pemegang gadai hanya karena utang tidak terbayar.",
+              "start": 411.713,
+              "end": 422.923
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْوَدِيعَةِ وَالْعَارِيَّةِ",
+          "title_id": "Bab Wadi'ah dan 'Ariyah (Titipan dan Pinjam-Meminjam)",
+          "start": 424.204,
+          "paragraphs": [
+            {
+              "ar": "تَجِبُ عَلَى الْوَدِيعِ وَالْمُسْتَعِيرِ تَأْدِيَةُ الْأَمَانَةِ إِلَى مَنِ ائْتَمَنَهُ، وَلَا يَخُنْ مَنْ خَانَهُ، وَلَا ضَمَانَ عَلَيْهِ إِذَا تَلِفَتْ بِدُونِ جِنَايَتِهِ وَخِيَانَتِهِ، وَلَا يَجُوزُ مَنْعُ الْمَاعُونِ - كَالدَّلْوِ، وَالْقِدْرِ - وَإِطْرَاقِ الْفَحْلِ، وَحَلْبِ الْمَوَاشِي - لِمَنْ يَحْتَاجُ ذَلِكَ -، وَالْحَمْلِ عَلَيْهَا فِي سَبِيلِ اللَّهِ.",
+              "id": "Wajib bagi orang yang dititipi barang dan orang yang meminjam barang untuk mengembalikan amanah kepada orang yang mempercayakannya, dan janganlah ia membalas khianat orang lain dengan berkhianat pula. Tidak ada kewajiban ganti rugi atasnya apabila barang tersebut rusak tanpa ada kelalaian atau pengkhianatan darinya. Tidak boleh menolak memberikan barang-barang keperluan sehari-hari — seperti ember dan periuk — serta tidak boleh menolak meminjamkan pejantan hewan, memerah susu ternak bagi yang membutuhkan, dan mengangkut barang di atas hewan tersebut untuk kepentingan di jalan Allah.",
+              "start": 427.466,
+              "end": 453.433
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْغَصْبِ",
+          "title_id": "Bab Ghashab (Perampasan Harta Orang Lain)",
+          "start": 454.574,
+          "paragraphs": [
+            {
+              "ar": "يَأْثَمُ الْغَاصِبُ وَيَجِبُ عَلَيْهِ رَدُّ مَا أَخَذَهُ، وَلَا يَحِلُّ مَالُ امْرِئٍ مُسْلِمٍ إِلَّا بِطِيبَةٍ مِنْ نَفْسِهِ، وَلَيْسَ لِعِرْقٍ ظَالِمٍ حَقٌّ، وَمَنْ زَرَعَ فِي أَرْضِ قَوْمٍ بِغَيْرِ إِذْنِهِمْ؛ فَلَيْسَ لَهُ مِنَ الزَّرْعِ شَيْءٌ؛ وَلَهُ نَفَقَتُهُ، وَمَنْ غَرَسَ فِي أَرْضِ غَيْرِهِ غَرْسًا رَفَعَهُ، وَلَا يَحِلُّ الِانْتِفَاعُ بِالْمَغْصُوبِ، وَمَنْ أَتْلَفَهُ؛ فَعَلَيْهِ مِثْلُهُ أَوْ قِيمَتُهُ.",
+              "id": "Orang yang merampas (ghashab) berdosa dan wajib mengembalikan apa yang telah diambilnya. Tidak halal harta seorang muslim kecuali dengan kerelaan hatinya. Tidak ada hak bagi penanaman yang tumbuh dari perbuatan zalim. Barang siapa menanam di tanah milik orang lain tanpa izin mereka, maka ia tidak berhak apa pun dari hasil tanamannya, namun ia berhak mendapatkan kembali biaya yang telah dikeluarkan. Barang siapa menanam pohon di tanah orang lain, maka tanamannya dicabut. Tidak halal memanfaatkan barang hasil rampasan. Barang siapa merusaknya, maka ia wajib menggantinya dengan yang semisal atau dengan nilai harganya.",
+              "start": 456.436,
+              "end": 488.948
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْعِتْقِ",
+          "title_id": "Bab 'Itq (Memerdekakan Budak)",
+          "start": 490.109,
+          "paragraphs": [
+            {
+              "ar": "أَفْضَلُ الرِّقَابِ أَنْفَسُهَا، وَيَجُوزُ الْعِتْقُ بِشَرْطِ الْخِدْمَةِ وَنَحْوِهَا، وَمَنْ مَلَكَ رَحِمَهُ عَتَقَ عَلَيْهِ، وَمَنْ مَثَّلَ بِمَمْلُوكِهِ فَعَلَيْهِ أَنْ يُعْتِقَهُ؛ وَإِلَّا أَعْتَقَهُ الْإِمَامُ أَوِ الْحَاكِمُ، وَمَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ؛ ضَمِنَ لِشُرَكَائِهِ نَصِيبَهُمْ بَعْدَ التَّقْوِيمِ؛ وَإِلَّا عَتَقَ نَصِيبُهُ فَقَطْ وَاسْتُسْعِيَ الْعَبْدُ، وَلَا يَصِحُّ شَرْطُ الْوَلَاءِ لِغَيْرِ مَنْ أَعْتَقَ، وَيَجُوزُ التَّدْبِيرُ؛ فَيُعْتَقُ بِمَوْتِ مَالِكِهِ؛ وَإِذَا احْتَاجَ الْمَالِكُ جَازَ لَهُ بَيْعُهُ، وَيَجُوزُ مُكَاتَبَةُ الْمَمْلُوكِ عَلَى مَالٍ يُؤَدِّيهِ، فَيَصِيرُ عِنْدَ الْوَفَاءِ حُرًّا، وَيُعْتَقُ مِنْهُ بِقَدْرِ مَا سَلَّمَ، وَإِذَا عَجَزَ عَنْ تَسْلِيمِ مَالِ الْكِتَابَةِ؛ عَادَ فِي الرِّقِّ، وَمَنِ اسْتَوْلَدَ أَمَتَهُ؛ لَمْ يَحِلَّ لَهُ بَيْعُهَا؛ وَعَتَقَتْ بِمَوْتِهِ، أَوْ بِتَخْيِيرِهِ لِعِتْقِهَا.",
+              "id": "Budak yang paling utama untuk dimerdekakan adalah yang paling mahal harganya. Boleh memerdekakan budak dengan syarat ia tetap berkhidmat untuk tuannya atau syarat semisalnya. Barang siapa memiliki kerabat mahramnya sebagai budak, maka kerabat itu otomatis merdeka. Barang siapa menyiksa budaknya, wajib baginya memerdekakan budak itu; jika tidak, maka Imam atau hakim yang akan memerdekakannya. Barang siapa memerdekakan bagiannya dalam kepemilikan bersama atas seorang budak, maka ia wajib mengganti bagian mitra-mitranya setelah penaksiran harga; jika tidak mampu, hanya bagiannya saja yang merdeka, dan budak tersebut diperintahkan bekerja untuk melunasi sisanya. Tidak sah syarat wala' diberikan kepada selain orang yang memerdekakan. Boleh melakukan tadbir (menjanjikan kemerdekaan setelah tuannya wafat), sehingga budak merdeka saat tuannya meninggal; namun jika tuannya membutuhkan uang, ia boleh menjualnya sebelum wafat. Boleh melakukan mukatabah (budak menebus dirinya dengan harta yang dibayarkan bertahap), sehingga ia merdeka setelah melunasi seluruhnya, dan merdeka sebagian sesuai kadar yang telah dibayarkan. Apabila ia tidak mampu melunasi sisa pembayaran, maka ia kembali menjadi budak sepenuhnya. Barang siapa menjadikan budak perempuannya melahirkan anak darinya, maka ia tidak boleh menjualnya, dan budak itu merdeka dengan sendirinya setelah tuannya wafat, atau tuannya bisa memilih memerdekakannya semasa hidup.",
+              "start": 491.91,
+              "end": 558.454
+            }
+          ]
+        },
+        {
+          "type": "bab",
+          "title_ar": "بَابُ الْوَقْفِ",
+          "title_id": "Bab Wakaf",
+          "start": 560.079,
+          "paragraphs": [
+            {
+              "ar": "مَنْ حَبَّسَ مِلْكَهُ فِي سَبِيلِ اللَّهِ؛ صَارَ مُحَبَّسًا، وَلَهُ أَنْ يَجْعَلَ غَلَّاتِهِ لِأَيِّ مَصْرَفٍ شَاءَ مِمَّا فِيهِ قُرْبَةٌ، وَلِلْمُتَوَلِّي عَلَيْهِ أَنْ يَأْكُلَ مِنْهُ بِالْمَعْرُوفِ، وَلِلْوَاقِفِ أَنْ يَجْعَلَ نَفْسَهُ فِي وَقْفِهِ كَسَائِرِ الْمُسْلِمِينَ، وَمَنْ وَقَفَ شَيْئًا مُضَارَّةً لِوَارِثِهِ؛ كَانَ وَقْفُهُ بَاطِلًا، وَمَنْ وَضَعَ مَالًا فِي مَسْجِدٍ أَوْ مَشْهَدٍ لَا يَنْتَفِعُ بِهِ أَحَدٌ؛ جَازَ صَرْفُهُ فِي أَهْلِ الْحَاجَاتِ وَمَصَالِحِ الْمُسْلِمِينَ، وَمِنْ ذَلِكَ مَا يُوضَعُ فِي الْكَعْبَةِ، أَوْ فِي مَسْجِدِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَالْوَقْفُ عَلَى الْقُبُورِ - لِرَفْعِ سُمْكِهَا، أَوْ تَزْيِينِهَا، أَوْ فِعْلِ مَا يَجْلِبُ عَلَى زَائِرِهَا فِتْنَةً - بَاطِلٌ.",
+              "id": "Barang siapa yang menahan (mewakafkan) miliknya di jalan Allah, maka harta itu menjadi wakaf yang tertahan. Ia boleh mengalokasikan hasilnya untuk penyaluran apa pun yang dikehendaki selama termasuk bentuk ketaatan kepada Allah. Pengelola wakaf boleh mengambil bagian secukupnya dari hasil wakaf secara ma'ruf. Orang yang mewakafkan boleh menjadikan dirinya sendiri sebagai salah satu penerima manfaat wakafnya, sebagaimana kaum muslimin yang lain. Barang siapa mewakafkan sesuatu dengan tujuan mencelakakan ahli warisnya, maka wakafnya batal. Barang siapa meletakkan harta di sebuah masjid atau tempat yang tidak dimanfaatkan siapa pun, maka harta itu boleh dialihkan untuk orang-orang yang membutuhkan dan kemaslahatan kaum muslimin. Termasuk dalam hal ini adalah harta yang diletakkan di Ka'bah atau di masjid Nabi shallallahu 'alaihi wa sallam. Adapun wakaf yang diperuntukkan bagi kuburan — untuk meninggikan bangunannya, menghiasinya, atau melakukan sesuatu yang mendatangkan fitnah bagi para peziarahnya — adalah batal.",
+              "start": 561.74,
+              "end": 615.033
+            }
+          ]
+        }
+      ]
     },
     {
       "no": 11,
