@@ -17,7 +17,35 @@
       "title_id": "Pendahuluan",
       "audio_file": "00.%20Al-Muqaddimah%20%28Introduction%29%20%C2%BB%20%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9%20%20%C2%BB%20Narrator%20Abu%20Ahmad%20Ash-Sheydhami%20%C2%BB%20%D8%A3%D8%A8%D9%88%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B8%D9%85%D9%8A%20%C2%BB%20%D8%B4%D8%A8%D9%83%D8%A9%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A2%D8%AC%D8%B1%D9%8A.mp3",
       "shamela_url": "https://shamela.ws/book/9293/30",
-      "sections": []
+      "sections": [
+        {
+          "type": "muqaddimah",
+          "title_ar": "الدُّرَرُ الْبَهِيَّةُ فِي الْمَسَائِلِ الْفِقْهِيَّةِ",
+          "title_id": "Ad-Durar Al-Bahiyyah fi Al-Masa'il Al-Fiqhiyyah — Muqaddimah",
+          "start": 2.934,
+          "paragraphs": [
+            {
+              "ar": "الدُّرَرُ الْبَهِيَّةُ فِي الْمَسَائِلِ الْفِقْهِيَّةِ لِلْإِمَامِ الشَّوْكَانِيِّ.",
+              "id": "Ad-Durar Al-Bahiyyah fi Al-Masa'il Al-Fiqhiyyah (Mutiara-Mutiara yang Indah dalam Permasalahan Fiqih), karya Imam Asy-Syaukani.",
+              "start": 2.934,
+              "end": 9.198
+            },
+            {
+              "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ، أَحْمَدُ مَنْ أَمَرَنَا بِالتَّفَقُّهِ فِي الدِّينِ، وَأَشْكُرُ مَنْ أَرْشَدَنَا إِلَى اتِّبَاعِ سُنَنِ سَيِّدِ الْمُرْسَلِينَ، وَأُصَلِّي وَأُسَلِّمُ عَلَى الرَّسُولِ الْأَمِينِ، وَآلِهِ الطَّاهِرِينَ وَأَصْحَابِهِ الْأَكْرَمِينَ.",
+              "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Aku memuji Allah yang telah memerintahkan kami untuk mendalami ilmu agama (tafaqquh fid-din), dan aku bersyukur kepada-Nya yang telah membimbing kami untuk mengikuti sunnah-sunnah penghulu para rasul (Nabi Muhammad ﷺ). Aku bershalawat dan bersalam atas Rasul yang terpercaya (al-Amin), beserta keluarganya yang suci dan para sahabatnya yang mulia.",
+              "start": 10.9,
+              "end": 30.746
+            },
+            {
+              "ar": "الدُّرَرُ الْبَهِيَّةُ فِي الْمَسَائِلِ الْفِقْهِيَّةِ لِلْإِمَامِ الشَّوْكَانِيِّ.",
+              "id": "Ad-Durar Al-Bahiyyah fi Al-Masa'il Al-Fiqhiyyah (Mutiara-Mutiara yang Indah dalam Permasalahan Fiqih), karya Imam Asy-Syaukani.",
+              "start": 31.75,
+              "end": 38.042
+            }
+          ]
+        }
+      ],
+      "srt_source": "00.srt"
     },
 	{
 	  "no": 1,
