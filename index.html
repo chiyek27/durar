@@ -12,18 +12,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&amp;family=Scheherazade+New:wght@400&amp;display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#122019;
-    --ink-2:#182c22;
-    --panel:#1c3226;
-    --panel-line:#2c4a38;
+    --ink:#ffffff;
+    --ink-2:#f5f5f5;
+    --panel:#ffffff;
+    --panel-line:#e2ded2;
     --gold:#b9924f;
     --gold-soft:#8f7442;
     --rubric:#9a4130;
-    --parchment:#f2ead4;
-    --parchment-2:#e9dfc2;
+    --parchment:#ffffff;
+    --parchment-2:#f7f7f7;
     --ink-text:#28211a;
-    --soft-text:#e6ddc4;
-    --muted-text:#a9b8ac;
+    --soft-text:#28211a;
+    --muted-text:#87806f;
     --font-ar:"Scheherazade New",'Amiri', serif;
     --font-ui:'Inter', sans-serif;
   }
@@ -41,8 +41,7 @@
   #loginScreen{
     position:fixed;inset:0;
     display:flex;align-items:center;justify-content:center;
-    background:
-      radial-gradient(circle at 50% 15%, #1e3a2b 0%, var(--ink) 60%);
+    background:var(--ink);
     z-index:100;
     padding:24px;
   }
@@ -53,7 +52,7 @@
     border-radius:4px;
     padding:38px 34px 30px;
     position:relative;
-    box-shadow:0 30px 60px rgba(0,0,0,.45);
+    box-shadow:0 20px 45px rgba(0,0,0,.12);
   }
   .login-card::before{
     content:"";
@@ -71,7 +70,7 @@
     font-family:var(--font-ar);
     font-size:1.9rem;
     text-align:center;
-    color:var(--parchment);
+    color:var(--ink-text);
     margin:0 0 2px;
     direction:rtl;
     font-weight:700;
@@ -94,7 +93,7 @@
     background:var(--ink-2);
     border:1px solid var(--panel-line);
     border-radius:3px;
-    color:var(--parchment);
+    color:var(--ink-text);
     font-family:var(--font-ui);
     font-size:.95rem;
     outline:none;
@@ -139,7 +138,7 @@
     z-index:10;
   }
   .topbar .brand{
-    font-family:var(--font-ar);color:var(--parchment);
+    font-family:var(--font-ar);color:var(--ink-text);
     font-size:1.15rem;font-weight:700;
     direction:rtl;
     white-space:nowrap;
@@ -326,7 +325,7 @@
   .book-link:hover{background:rgba(185,146,79,.12);color:var(--soft-text);}
   .book-link.active{
     background:rgba(185,146,79,.18);
-    color:var(--parchment);
+    color:var(--ink-text);
   }
   .book-num{
     flex:0 0 auto;
