@@ -12,18 +12,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&amp;family=Scheherazade+New:wght@400&amp;display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#ffffff;
-    --ink-2:#f5f5f5;
-    --panel:#ffffff;
-    --panel-line:#e2ded2;
-    --gold:#b9924f;
-    --gold-soft:#8f7442;
-    --rubric:#9a4130;
-    --parchment:#ffffff;
-    --parchment-2:#f7f7f7;
-    --ink-text:#28211a;
-    --soft-text:#28211a;
-    --muted-text:#87806f;
+    --ink:#123524;
+    --ink-2:#1a4530;
+    --panel:#173d29;
+    --panel-line:#2f5c42;
+    --gold:#4f8f6b;
+    --gold-soft:#3f7057;
+    --rubric:#2e6b46;
+    --parchment:#f2f8f3;
+    --parchment-2:#e6f2e9;
+    --ink-text:#16301f;
+    --soft-text:#eaf5ee;
+    --muted-text:#9fc2ac;
     --font-ar:"Scheherazade New",'Amiri', serif;
     --font-ui:'Inter', sans-serif;
   }
@@ -70,7 +70,7 @@
     font-family:var(--font-ar);
     font-size:1.9rem;
     text-align:center;
-    color:var(--ink-text);
+    color:var(--parchment);
     margin:0 0 2px;
     direction:rtl;
     font-weight:700;
@@ -93,7 +93,7 @@
     background:var(--ink-2);
     border:1px solid var(--panel-line);
     border-radius:3px;
-    color:var(--ink-text);
+    color:var(--parchment);
     font-family:var(--font-ui);
     font-size:.95rem;
     outline:none;
@@ -104,14 +104,14 @@
     width:100%;margin-top:10px;
     padding:12px;
     background:var(--gold);
-    color:#1a1204;
+    color:#0d2417;
     border:none;border-radius:3px;
     font-family:var(--font-ui);font-weight:600;font-size:.92rem;
     letter-spacing:.02em;
     cursor:pointer;
     transition:background .15s;
   }
-  #loginBtn:hover{background:#cba55e;}
+  #loginBtn:hover{background:#67a884;}
   #loginError{
     color:#e0938a;font-size:.8rem;text-align:center;
     margin-top:12px;min-height:1em;font-family:var(--font-ui);
@@ -138,7 +138,7 @@
     z-index:10;
   }
   .topbar .brand{
-    font-family:var(--font-ar);color:var(--ink-text);
+    font-family:var(--font-ar);color:var(--parchment);
     font-size:1.15rem;font-weight:700;
     direction:rtl;
     white-space:nowrap;
@@ -211,7 +211,7 @@
   .book-source-link{
     display:inline-block;margin-top:10px;
     font-family:var(--font-ui);font-size:.76rem;
-    color:#8a7a55;text-decoration:none;border-bottom:1px dotted #8a7a55;
+    color:#4f7a63;text-decoration:none;border-bottom:1px dotted #4f7a63;
   }
   .book-source-link:hover{color:var(--rubric);border-color:var(--rubric);}
 
@@ -220,13 +220,13 @@
     flex:0 0 auto;width:28px;height:28px;border-radius:50%;
     background:var(--rubric);color:#fff;border:none;cursor:pointer;
     font-size:.72rem;display:flex;align-items:center;justify-content:center;
-    box-shadow:0 2px 6px rgba(154,65,48,.3);
+    box-shadow:0 2px 6px rgba(46,107,70,.3);
     transition:background .15s, transform .1s;
     padding:0;
   }
-  .sec-play-btn:hover{background:#7f342a;}
+  .sec-play-btn:hover{background:#234f36;}
   .sec-play-btn:active{transform:scale(.92);}
-  .sec-play-btn.active{background:var(--gold);box-shadow:0 2px 6px rgba(185,146,79,.4);}
+  .sec-play-btn.active{background:var(--gold);box-shadow:0 2px 6px rgba(79,143,107,.4);}
   .section-block--fasal .sec-play-btn{width:23px;height:23px;font-size:.62rem;}
 
   /* section roundel marker (signature element) */
@@ -246,7 +246,7 @@
   }
   .section-block--fasal .section-title-ar{font-size:1.1rem;}
   .section-title-id{
-    font-family:var(--font-id);font-size:.85rem;color:#8a7a55;font-style:italic;
+    font-family:var(--font-id);font-size:.85rem;color:#4f7a63;font-style:italic;
   }
   .section-rule{
     height:1px;background:linear-gradient(to left, var(--gold-soft), transparent);
@@ -259,8 +259,8 @@
     border-radius:5px;
     cursor:pointer;
   }
-  .para:hover{background:#f1f1f1;}
-  .para.active{background:#f2f2f2;}
+  .para:hover{background:rgba(79,143,107,.12);}
+  .para.active{background:#dcecdf;}
   .para-ar{
     font-family:var(--font-ar);font-size:1.5rem;line-height:2.15;
     direction:rtl;text-align:right;color:var(--ink-text);
@@ -268,23 +268,23 @@
   }
   .para-id{
     font-family:var(--font-id);font-size:.98rem;line-height:1.75;
-    color:#4a4131;
+    color:#274736;
     padding-inline-start:14px;
   }
-  .para-id.placeholder{color:#b3a578;font-style:italic;}
+  .para-id.placeholder{color:#8fae9b;font-style:italic;}
 
   .empty-state{
     margin-top:20px;padding:26px 24px;
-    border:1px dashed #cabe98;border-radius:6px;
-    background:#f9f4e6;
+    border:1px dashed #b7d3c1;border-radius:6px;
+    background:#eef7f0;
     text-align:center;
   }
   .empty-state .icon{font-size:1.6rem;margin-bottom:8px;}
   .empty-state h3{
-    margin:0 0 6px;font-family:var(--font-ui);font-size:.95rem;color:#5c4f33;
+    margin:0 0 6px;font-family:var(--font-ui);font-size:.95rem;color:#1f4630;
   }
   .empty-state p{
-    margin:0;font-family:var(--font-id);font-size:.88rem;color:#7a6c4c;
+    margin:0;font-family:var(--font-id);font-size:.88rem;color:#4c7360;
     max-width:440px;margin:0 auto;line-height:1.6;
   }
   .empty-state a{color:var(--rubric);text-decoration:none;border-bottom:1px dotted var(--rubric);}
@@ -322,10 +322,10 @@
     font-family:var(--font-ui);font-size:.85rem;
     transition:background .12s, color .12s;
   }
-  .book-link:hover{background:rgba(185,146,79,.12);color:var(--soft-text);}
+  .book-link:hover{background:rgba(79,143,107,.16);color:var(--soft-text);}
   .book-link.active{
-    background:rgba(185,146,79,.18);
-    color:var(--ink-text);
+    background:rgba(79,143,107,.22);
+    color:var(--parchment);
   }
   .book-num{
     flex:0 0 auto;
@@ -374,12 +374,12 @@
 <div id="loginScreen">
   <div class="login-card">
     <svg class="login-medallion" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="32" cy="32" r="29" fill="none" stroke="#b9924f" stroke-width="1.4"/>
-      <circle cx="32" cy="32" r="22" fill="none" stroke="#b9924f" stroke-width="1"/>
-      <g stroke="#b9924f" stroke-width="1">
+      <circle cx="32" cy="32" r="29" fill="none" stroke="#4f8f6b" stroke-width="1.4"/>
+      <circle cx="32" cy="32" r="22" fill="none" stroke="#4f8f6b" stroke-width="1"/>
+      <g stroke="#4f8f6b" stroke-width="1">
         <path d="M32 3 L32 61 M3 32 L61 32" opacity=".35"/>
       </g>
-      <circle cx="32" cy="32" r="5" fill="#9a4130"/>
+      <circle cx="32" cy="32" r="5" fill="#2e6b46"/>
     </svg>
     <h1>الدرر البهية</h1>
     <p class="sub">Ad-Durar Al-Bahiyyah fi Al-Masa'il Al-Fiqhiyyah</p>
@@ -508,9 +508,9 @@
 
   function roundelSVG(){
     return '<svg class="roundel" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">' +
-      '<circle cx="15" cy="15" r="13" fill="none" stroke="#9a4130" stroke-width="1.2"/>' +
-      '<circle cx="15" cy="15" r="8.5" fill="none" stroke="#b9924f" stroke-width="1"/>' +
-      '<circle cx="15" cy="15" r="2.6" fill="#9a4130"/>' +
+      '<circle cx="15" cy="15" r="13" fill="none" stroke="#2e6b46" stroke-width="1.2"/>' +
+      '<circle cx="15" cy="15" r="8.5" fill="none" stroke="#4f8f6b" stroke-width="1"/>' +
+      '<circle cx="15" cy="15" r="2.6" fill="#2e6b46"/>' +
       '</svg>';
   }
 
