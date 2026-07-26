@@ -249,7 +249,7 @@
     font-family:var(--font-id);font-size:.85rem;color:#4f7a63;font-style:italic;
   }
   .section-rule{
-    height:1px;background:linear-gradient(to left, var(--gold-soft), transparent);
+    height:1px;
     margin-top:10px;
   }
 
@@ -258,18 +258,18 @@
     padding:10px 12px;
     border-radius:5px;
     cursor:pointer;
+	border: 1px solid transparent;
   }
   .para:hover{background:rgba(79,143,107,.12);}
-  .para.active{background:#dcecdf;}
+  .para.active{background:#dcecdf;border-color: var(--gold);}
   .para-ar{
     font-family:var(--font-ar);font-size:1.5rem;line-height:2.15;
     direction:rtl;text-align:right;color:var(--ink-text);
     margin-bottom:8px;
   }
   .para-id{
-    font-family:var(--font-id);font-size:.98rem;line-height:1.75;
+    font-family:var(--font-id);font-size:.98rem;line-height:1.5;
     color:#274736;
-    padding-inline-start:14px;
   }
   .para-id.placeholder{color:#8fae9b;font-style:italic;}
 
